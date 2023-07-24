@@ -1,0 +1,23 @@
+#skip {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+#skip li {
+  width: 100%;
+  font-size: 0;
+}
+#skip li a {
+  display: block;
+  width: 100%;
+  line-height: 0;
+  font-size: 0;
+  background: #000;
+  color: #fff;
+  text-align: center;
+}
+#skip li a:focus {
+  line-height: 50px;
+  font-size: 20px;
+}

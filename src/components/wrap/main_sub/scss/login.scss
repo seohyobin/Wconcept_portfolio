@@ -1,0 +1,221 @@
+#login{
+    width: 100%;
+
+    .container{
+        width: 100%;
+        max-width: 1240px;
+        margin: 0 auto;
+        .title{
+            padding: 55px 0 50px 0;
+            text-align: center;
+            border-bottom:2px solid rgb(23, 23, 23) ;
+            h2{
+                font-size: 44px;
+                font-weight: 300;
+            }
+        }
+        .content{
+        
+            padding: 60px 0 0 0;
+
+            .input-btn-wrap{
+                max-width: 735px;
+                margin: 0 auto;
+                width: 100%;
+                padding: 0 0 42px 0;
+                .input-wrap{
+                    form{
+                        display: flex;
+                       .input-ul{
+                        width: 100%;
+                        li{
+                            width: 100%;
+                            margin: 0 0 20px 0 ;
+                            .label{
+                                padding: 0 18px 0 0;
+                                width: 105px;
+                                height: 40px;
+                                color: rgb(51, 51, 51);
+                                line-height: 40px;
+                                font-size: 14px;
+                            }
+                            .label2{
+                                padding: 0 49.84px 0 0;
+                                width: 105px;
+                                height: 40px;
+                                color: rgb(51, 51, 51);
+                                line-height: 40px;
+                                font-size: 14px;
+                            }
+                            input{
+                                width: 420px;
+                                height: 40px;
+                                padding: 0 0 0 20px;
+                                background-color: rgb(242, 242, 242);
+                                border: 1px solid #f2f2f2;
+                                &::placeholder{
+
+                                }
+                            }
+                            .chk-input{
+                              margin: 0 0 0 105px;
+                                input{
+                                    appearance: none;
+                                    background: url(../../../../../public/img/login/spr-input.png) no-repeat ;
+                                    width: 25px;
+                                    height: 25px;
+                                    border: 0;
+                                    margin: 0 10px 0 0;
+
+                                }
+                                > label{
+                                    color: #000;
+                                    font-size: 14px;
+                                    line-height: 25px;
+                                }
+                            }
+                        }
+                       } 
+                       .btn-wrap{
+            
+
+                            .btn{
+                                button{
+                                    width: 190px;
+                                    height: 100px;
+                                    padding: 0 20px;
+                                    font-size: 16px;
+                                    line-height: 48px;
+                                    color: #fff;
+                                    border: 0;
+                                    font-weight: 600;
+                                    background-color: #000;
+                                    margin: 0 0 20px 0;
+                                }   
+                                .a-wrap{
+                                    text-align: center;
+                                    > a{
+                                            font-size: 12px;
+                                            color: rgb(119, 119, 119);
+                                    }
+                                    span{
+                                    padding: 0 15px;
+                                    }
+                                }
+                            }
+                       }
+                    }
+                }
+            }
+            .join-email{
+                padding: 50px 0 ;
+                width: 100%;
+                border-top:1px solid #ddd ;
+                border-bottom:1px solid #ddd ;
+                
+                .pp{
+                    max-width: 735px;
+                    margin: 0 auto;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    .p{
+                        width: 354px;
+                        height: 50px;
+                        display: flex;
+                        align-items: center;
+                        > p{
+                            font-size: 14px;
+                            strong{
+                                font-size: 14px;
+                                font-weight: 600;
+                                color: #000;
+                            }
+                        }
+                    }
+                    .btn-p{
+                        width: 326px;
+                        height: 50px;
+                        border: 1px solid rgb(51, 51, 51);
+                        background-color: #fff;
+                        .emaillogin{
+                            width: 326px;
+                            height: 50px;
+                            display: flex;
+                            align-items: center;
+                            justify-content: center;
+                            span{
+                                color: #000;
+                                letter-spacing: -0.5px;
+                            }
+                        }
+                    }
+                }
+              
+            }
+            .icon-wrap{
+                max-width: 735px;
+                margin: 0 auto;
+                padding: 50px 0 80px 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                
+                .icon-p{
+                    margin:  0 0 0 30px;
+                    display: flex;
+                    align-items: center;
+                    width: 354px;
+                    height: 50px;
+                    > p{
+                        font-size: 14px;
+                        color: rgb(119, 119, 119);
+                    }
+                }
+                .icon-ul{
+                    display: flex;
+                    width: 354px;
+                    height: 50px;
+                    .icon{
+                        padding: 0 10px 0 0;
+                        > a{    
+                            > img{
+                                width: 46px;
+                                height: 46px;
+                            }
+                        }
+    
+                    }
+                }
+            }
+            .nomember{
+                padding: 40px 0 0 0;
+                display: flex;
+                text-align: center;
+                justify-content: center;
+                .a-box{
+                    // display: flex;
+                    // align-items: center;
+                    // text-align: center;
+                    > a{
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        width: 280px;
+                        height: 50px;
+                        background-color: rgb(125, 125, 125);
+                        border:1px solid rgb(125, 125, 125)  ;
+                        
+                        span{
+                            display: block;
+                            color: #fff;
+                            font-size: 14px;
+                            font-weight: 600;
+                        }
+                    }
+                }
+
+            }
+        }
+    }
+}

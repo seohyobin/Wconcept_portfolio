@@ -1,0 +1,426 @@
+    {
+        "slide1":[
+                
+            {
+                
+                "id":"1",
+                "img":"./img/sub_women/302765205_YB83472.jpg",
+                "brand":"Amour moier",
+                "desc":"포켓 하프 퍼프 블라우스+셔링 스커트 화이트 amr1606",
+                "basePrice":162900,
+                "disPrice":181000,
+                "discount":"10%",
+                "rate":"4.9",
+                "saved":"(66)",
+                "reeview":"6,387",
+                "reserve":"예약상품",
+                "status":"뉴시즌"
+                },
+    
+                {
+                "id":"2",
+                "img":"./img/sub_women/301720010.jpg",
+                "brand":"Fabricology",
+                "desc":"Stripe Half Sleeve Shirt_3color",
+                "basePrice":76500,
+                "disPrice":85000,
+                "discount":"10%",
+                "rate":"4.9",
+                "saved":"(385)",
+                "review":"4,910",
+                "status":"",
+                "reserve":"예약상품"
+              },
+                  
+                {
+                "id":"3",
+                "img":"./img/sub_women/301945124_CL97149.jpg",
+                "brand":"CITYBREEZE",
+                "desc":"링클프리 오버핏 셔츠_4COLOR",
+                "basePrice":39000,
+                "disPrice":79000,
+                "discount":"51%",
+                "rate":"4.9",
+                "saved":"2,325",
+                "review":"9,999+",
+                "status":"",
+                "reserve":"예약상품"
+              },
+              {
+                "id":"180",                        
+                "img":"./img/sub_beauty/302145438_GG21164.jpg",
+                "brand":"HERA",
+                "desc":"[ 선물세트] 실키 스테이 파운데이션",
+                "disPrice":57800,
+                "basePrice":68000,
+                "discount":"15%",
+                "rate":"5.0",
+                "saved":"(113)",
+                "review":"410"
+                },
+                {
+                "id":"181",    
+                "img":"./img/sub_beauty/301293023.jpg",
+                "brand":"JAVIN DE SEOUL",
+                "desc":"윙크 파운데이션 팩트 리필 15g",
+                "disPrice":16200,
+                "basePrice":18000,
+                "discount":"10%",
+                "rate":"5.0",
+                "saved":"(198)",
+                "review":"156"
+                },
+                 
+                 
+                {
+                "id":"182",    
+                "img":"./img/sub_beauty/301240816_QM88901.jpg",
+                "brand":"HERA",
+                "desc":"블랙쿠션 15gx2",
+                "disPrice":56100,
+                "basePrice":66000,
+                "discount":"15%",
+                "rate":"4.9",
+                "saved":"(1,874)",
+                "review":"2,295"
+                },
+                {
+                    "id":"179",
+                    "img":"./img/sub_men/302767743_KH60836.jpg",
+                    "brand":"OFFHOUR",
+                    "desc":"커플 컴포트 스트라이프 라인 반팔 + 반바지 잠옷 세트 파자마 홈웨어",
+                    "disPrice":20930,
+                     "basePrice":29900,
+                     "discount":"30%",
+                     "rate":"4.8",
+                     "review":"(17)"
+                    
+                     },
+                     {
+                        "id":"271",    
+                        "img":"./img/sub_life/301701541_KQ49536.jpg",
+                        "brand":"maatila",
+                        "desc":"썸머로맨스 스노우시어서커 여름차렵이불세트 5종",
+                        "disPrice":39000,
+                        "basePrice":71500,
+                        "discount":"44%",
+                        "rate":"4.8",
+                        "review":"(93)",
+                        "saved":"1,315"
+                        },
+                        {
+                        "id":"272",    
+                        "img":"./img/sub_life/300485941.jpg",
+                        "brand":"DECOVIEW",
+                        "desc":"[단독]그린 포인트 도트 장우산",
+                        "disPrice":16800, 
+                        "basePrice":28000,
+                        "discount":"42%",
+                        "rate":"4.9",
+                        "review":"(1,674)",
+                        "saved":"9,999+"
+                        },
+                        {
+                        "id":"273",    
+                        "img":"./img/sub_life/301703698_QW66953.jpg",
+                        "brand":"maatila",
+                        "desc":"썸머호텔 풍기인견 여름차렵이불세트 10종",
+                        "disPrice":67000, 
+                        "basePrice":123200,
+                        "discount":"45%",
+                        "rate":"4.9",
+                        "review":"(67)"
+                        },
+                        {
+                        "id":"274",    
+                        "img":"./img/sub_life/302258875_VE24034.jpg",
+                        "brand":"odense",
+                        "desc":"OD_레고트 루프 텀블러 400ml",
+                        "disPrice":28000, 
+                        "basePrice":35000,
+                        "discount":"20%",
+                        "rate":"4.8",
+                        "review":"(199)",
+                        "saved":"2,369"
+                        },
+                        {
+                            "id":"6",
+                            "img":"./img/sub_women/302935627_FH25069.jpg",
+                            "brand":"ORE",
+                            "desc":"Birkin Shirts_White",
+                            "basePrice":142000,
+                            "disPrice":"",
+                            "rate":"5.0",
+                            "saved":"(14)",
+                            "reeview":"447",
+                            "reserve":"",
+                            "status":"뉴시즌"
+                            },
+                
+                            {
+                            "id":"7",
+                            "img":"./img/sub_women/302935489_LD91608.jpg",
+                            "brand":"LENINA",
+                            "desc":"ELSY embroidery frill neck shirt_2colors",
+                            "basePrice":153000,
+                            "disPrice":"",
+                            "rate":"4.9",
+                            "saved":"(16)",
+                            "reeview":"1,082",
+                            "reserve":"",
+                            "status":"뉴시즌"
+                            }
+        ],
+        "section1":[
+            {
+                "id":"14",
+                "img":"./img/sub_women/302306788_GG20389.jpg",
+                "brand":"CITYBREEZE",
+                "desc":"링클 프리 반팔 크롭 셔츠_WHITE",
+                "basePrice":47200,
+                "disPrice":59000,
+                "discount":"20%",
+                "rate":"5.0",
+                "saved":"(32)",
+                "reeview":"1,258",
+                "reserve":"",
+                "status":"뉴시즌"
+                },
+    
+                
+                {
+                "id":"15",
+                "img":"./img/sub_women/302764780_OT51038.jpg",
+                "brand":"Amour moier",
+                "desc":"레이온 카라 셔츠 아이보리 amr1577",
+                "basePrice":75600,
+                "disPrice":84000,
+                "discount":"10%",
+                "rate":"4.9",
+                "saved":"(37)",
+                "reeview":"2,130",
+                "reserve":"예약상품",
+                "status":"뉴시즌"
+                },
+    
+                {
+                "id":"16",
+                "img":"./img/sub_women/302862379_JH75509.jpg",
+                "brand":"ORE",
+                "desc":"Summer Linen Shirts_White",
+                "basePrice":146000,
+                "disPrice":"",
+                "rate":"4.9",
+                "saved":"(15)",
+                "reeview":"887",
+                "reserve":"예약상품",
+                "status":"뉴시즌"
+                },
+    
+                {
+                "id":"17",
+                "img":"./img/sub_women/301085931_XS63077.jpg",
+                "brand":"ouie",
+                "desc":"하프 슬리브 퍼프 블라우스 6컬러 ouie326",
+                "basePrice":71200,
+                "disPrice":89000,
+                "discount":"20%",
+                "rate":"4.9",
+                "saved":"(1,03",
+                "reeview":"5,380",
+                "reserve":"",
+                "status":"뉴시즌"
+                },
+    
+                {
+                "id":"18",
+                "img":"./img/sub_women/302866795_TF68168.jpg",
+                "brand":"LENINA",
+                "desc":"NALINI daily shirt_2colors",
+                "basePrice":206000,
+                "disPrice":"",
+                "rate":"4.9",
+                "saved":"(12)",
+                "reeview":"1,315",
+                "reserve":"",
+                "status":"뉴시즌"
+                },
+    
+                {
+                "id":"19",
+                "img":"./img/sub_women/302763980_JS53313.jpg",
+                "brand":"LENINA",
+                "desc":"QUILL puff sleeve denim shirt skirt SET_2colors",
+                "basePrice":239400,
+                "disPrice":266000,
+                "discount":"10%",
+                "rate":"4.9",
+                "saved":"(27)",
+                "reeview":"1,645",
+                "reserve":"예약상품",
+                "status":"뉴시즌"
+                },
+    
+                {
+                "id":"20",
+                "img":"./img/sub_women/302866801_YH90040.jpg",
+                "brand":"LENINA",
+                "desc":"HALLIE v neck collar shirt_3colors",
+                "basePrice":198000,
+                "disPrice":"",
+                "rate":"4.8",
+                "saved":"(20)",
+                "reeview":"1,024",
+                "reserve":"",
+                "status":"뉴시즌"
+                },
+    
+                {
+                "id":"21",
+                "img":"./img/sub_women/302308295_WM13389.jpg",
+                "brand":"FRONTROW",
+                "desc":"Half Zip-up Cropped Shirt_2color",
+                "basePrice":96750,
+                "disPrice":129000,
+                "discount":"25%",
+                "rate":"5.0",
+                "saved":"(41)",
+                "reeview":"835",
+                "reserve":"",
+                "status":"뉴시즌"
+                }
+    
+            
+        ],
+        "beauty1":[
+            {
+                "id":"188",    
+                "img":"./img/sub_beauty/302157950.jpg",
+                "brand":"BBIA",
+                "desc":"[2개세트] 라스트 벨벳 틴트(25color)",
+                "disPrice":14850,
+                "basePrice":22000,
+                "discount":"33%",
+                "rate":"4.9",
+                "saved":"(119)",
+                "review":"245"
+                },
+                {
+                    "id":"198",    
+                    "img":"./img/sub_beauty/301539693_YU50497.jpg",
+                    "brand":"fwee",
+                    "desc":"퓌 쿠션 글래스",
+                    "disPrice":22400,
+                    "basePrice":28000,
+                    "discount":"20%",
+                    "reserve":"예약상품",
+                    "rate":"4.8",
+                    "saved":"(568)",
+                    "review":"1,157"
+                    },
+
+                 {
+                "id":"190",    
+                "img":"./img/sub_beauty/302199671_IC84592.jpg",
+                "brand":"JAVIN DE SEOUL",
+                "desc":"[듀오세트]윙크 아이 쉐이드 프라이머 10종 택2",
+                "disPrice":30400,
+                "basePrice":32000,
+                "discount":"5%",
+                "rate":"4.9",
+                "status":"뉴시즌","reserve":"예약상품",
+                "saved":"(395)",
+                "review":"443"
+                },
+                {
+                "id":"191",    
+                "img":"./img/sub_beauty/301666780_XI55908.jpg",
+                "brand":"MUZIGAE MANSION",
+                "desc":"오브제리퀴드 2종 SET",
+                "basePrice":36000,
+                "disPrice":"",
+                "rate":"4.9",
+                "saved":"(1234)",
+                "status":"뉴시즌","reserve":"예약상품",
+                "review":"154"
+                },
+                {
+                "id":"192",    
+                "img":"./img/sub_beauty/302812740_EK60903.jpg",
+                "brand":"NAMING.",
+                "desc":"레이어드 매트 핏 쿠션 (+매트 쿠션 퍼프 증정)",
+                "disPrice":21420,
+                "basePrice":28000,
+                "discount":"24%",
+                "rate":"4.9",
+                "saved":"(12)","status":"뉴시즌",
+                "review":"82"
+                },
+                 {
+                "id":"193",    
+                "img":"./img/sub_beauty/302185436.jpg",
+                "brand":"HOURGLASS",
+                "desc":"팬텀 볼류마이징 글로시 밤",
+                "disPrice":46800,
+                "reserve":"예약상품",
+                "basePrice":52000,
+                "discount":"10%",
+                "rate":"4.9",
+                "saved":"(154)",
+                "review":"899"
+                },
+                {
+                    "id":"188",    
+                    "img":"./img/sub_beauty/302157950.jpg",
+                    "brand":"BBIA",
+                    "desc":"[2개세트] 라스트 벨벳 틴트(25color)",
+                    "disPrice":14850,
+                    "basePrice":22000,
+                    "discount":"33%",
+                    "rate":"4.9",
+                    "saved":"(119)",
+                    "review":"245"
+                    },
+                {
+                "id":"195",    
+                "img":"./img/sub_beauty/301873408.jpg",
+                "brand":"mude",
+                "desc":"글라세 립 틴트 3g",
+                "disPrice":13770,
+                "status":"뉴시즌",
+                "basePrice":17000,
+                "discount":"19%",
+                "rate":"5.0",
+                "saved":"(148)",
+                "review":"205"
+                },
+                 {
+                "id":"196",    
+                "img":"./img/sub_beauty/302326777_KX67772.jpg",
+                "brand":"FEEV",
+                "desc":"하이퍼 핏 컬러 세럼 미니 (7color)",
+                "disPrice":14250,
+                "basePrice":15000,
+                "status":"뉴시즌","reserve":"예약상품",
+                "discount":"5%",
+                "rate":"4.9",
+                "saved":"(36)",
+                "review":"156"
+                },
+                 {
+                "id":"197",    
+                "img":"./img/sub_beauty/302807070_TE60153.jpg",
+                "brand":"ArteSinsa",
+                "desc":"듀이 핏 틴트 8종 택 1",
+                "disPrice":16800,
+                "basePrice":21000,
+                "status":"뉴시즌",
+                "discount":"20%",
+                "rate":"4.9",
+                "saved":"(115)",
+                "review":"297"
+                }
+
+        ]
+
+    }

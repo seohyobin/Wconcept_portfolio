@@ -1,0 +1,118 @@
+    #viewed-modal{
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 10;
+        .viewed-container{
+            overflow-y: auto;
+            height: 100%;
+            width: 100%;
+            position: relative;
+            .viewed-left{
+                width: 100%;
+                height:10000px;
+                background-color: rgba(1,1,1,0.1);
+                position: relative;
+            }
+            .viewed-right{
+                height: 100%;
+                background-color: #fff;
+                position: absolute;
+                top: 0;
+                right: 0;
+                width: 417px;
+                .viewed-header{
+                    padding: 12px 30px 40px;
+                    width: 100%;
+                    a{
+                        width: 100%;
+              
+                        .row1{
+                            padding: 0 25px 20px 25px;
+                            width: 100%;
+                            height: 80px;
+                            display: flex;
+                            align-items: center;
+                            justify-content: space-between;
+                            h2{
+                                font-size: 20px;
+                                font-weight: 700;
+                            }
+                           > img{
+                            width: 24px;
+                            height: 24px;
+                           }
+                        }
+                        .view-product-wrap{
+                            width: 100%;
+                            .row2{
+                                width: 100%;
+                                .viewed-day-list{
+                                    width: 100%;
+                                    > h3{
+                                        font-size: 15px;
+                                        color: #c4c4c4;
+                                        border-bottom: 1px solid #e9e9e9;
+                                        padding-bottom: 15px;
+                                        text-transform: uppercase;
+                                    }
+                                }
+                            }
+                            .viewed-product-content{
+                                display: flex;
+                                width: 100%;
+                                padding: 15px 0 15px 0;
+                                border-bottom: 1px solid #e9e9e9;
+    
+                                a{
+                                    display: flex;
+                                    .viewed-img{
+                                        > img{
+                                            width: 60px;
+                                            height:80px ;
+                                        }
+                                    }
+                                    .viewed-text{
+                                        width: 240px;
+                                        padding: 4px 0 0 12px;
+                                        > p{
+                                            font-size: 13px;
+                                            font-weight: 600;
+                                            color: #000;
+                                            padding: 3px 0 10px 0;
+                                        }
+                                       .view-desc{
+                                            font-size: 12px;
+                                            color: #7b7b7b;
+                                            padding: 0 0 10px 0;
+    
+                                        }
+                                        > h3{
+                                            font-size: 12px;
+                                            color: #535353;
+                                        }
+                                    }
+                                }
+                                // .viewed-product{
+                                //         width: 10px;
+                                //         height: 10px;
+                                //         background-image: url(../img/viewed/close_black.svg);
+                                //     button{
+                                //         width: 10px;
+                                //         height: 10px;
+                                //     }
+                                // }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+
+}
+
+
+

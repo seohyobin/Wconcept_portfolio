@@ -1,0 +1,335 @@
+#cart {
+  width: 100%;
+}
+#cart .container {
+  width: 100%;
+  max-width: 1240px;
+  margin: 0 auto;
+}
+#cart .container .title {
+  padding: 55px 0 80px 0;
+  text-align: center;
+}
+#cart .container .title h2 {
+  font-size: 44px;
+  font-weight: 300;
+  padding: 0 0 50px 0;
+}
+#cart .container .title .banner {
+  width: 100%;
+}
+#cart .container .title .banner > img {
+  width: auto;
+}
+#cart .container .content {
+  position: relative;
+  width: 100%;
+}
+#cart .container .content .cart-container {
+  width: 100%;
+  display: flex;
+  position: relative;
+}
+#cart .container .content .cart-container .left {
+  height: auto;
+  width: 920px;
+}
+#cart .container .content .cart-container .left .cart-title h3 {
+  margin: 0 0 15px 0;
+  font-size: 24px;
+  color: #000;
+}
+#cart .container .content .cart-container .left .cart-title h3 span {
+  font-size: 24px;
+}
+#cart .container .content .cart-container .left .cart-title h3 span em {
+  font-size: 24px;
+}
+#cart .container .content .cart-container .left .cart-content {
+  width: 100%;
+  border-top: 2px solid rgb(23, 23, 23);
+  border-bottom: 1px solid rgb(23, 23, 23);
+}
+#cart .container .content .cart-container .left .cart-content .table {
+  width: 100%;
+}
+#cart .container .content .cart-container .left .cart-content .table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+#cart .container .content .cart-container .left .cart-content .table table thead {
+  width: 100%;
+}
+#cart .container .content .cart-container .left .cart-content .table table thead tr th {
+  height: 71px;
+  border-bottom: 1px solid rgb(181, 181, 181);
+}
+#cart .container .content .cart-container .left .cart-content .table table thead tr th:nth-child(1) {
+  width: 27px;
+}
+#cart .container .content .cart-container .left .cart-content .table table thead tr th:nth-child(2) {
+  width: 300px;
+}
+#cart .container .content .cart-container .left .cart-content .table table thead tr th:nth-child(3) {
+  width: 73px;
+}
+#cart .container .content .cart-container .left .cart-content .table table thead tr th:nth-child(4) {
+  width: 117px;
+}
+#cart .container .content .cart-container .left .cart-content .table table thead tr th:nth-child(5) {
+  width: 97px;
+}
+#cart .container .content .cart-container .left .cart-content .table table thead tr th:nth-child(6) {
+  width: 106px;
+}
+#cart .container .content .cart-container .left .cart-content .table table thead tr th:nth-child(7) {
+  width: 106px;
+}
+#cart .container .content .cart-container .left .cart-content .table table thead tr th:nth-child(8) {
+  width: 94px;
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr {
+  height: 160px;
+  border-bottom: 1px solid rgb(181, 181, 181);
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr td {
+  text-align: center;
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr td:nth-child(2) {
+  text-align: left;
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr td > p {
+  color: #333;
+  font-size: 14px;
+  font-weight: 500;
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr .td1 {
+  height: 160px;
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr .product {
+  display: flex;
+  align-items: center;
+  padding: 20px 54px 20px 10px;
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr .product .img > img {
+  width: 90px;
+  height: 120px;
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr .product .product-info {
+  width: 146px;
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr .product .product-info .p1 {
+  margin: 0 0 6px 0;
+  font-size: 14px;
+  color: #000;
+  font-weight: 600;
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr .product .product-info .p2 {
+  margin: 0 0 6px 0;
+  font-size: 12px;
+  line-height: 30px;
+  color: rgb(51, 51, 51);
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr .product .product-info .p3 {
+  margin: 0 0 6px 0;
+  color: rgb(128, 128, 128);
+  font-size: 12px;
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr .td-btn {
+  padding: 70px 0 70px 10px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr .td-btn .button1 {
+  width: 18px;
+  height: 18px;
+  border: 1px solid rgb(223, 223, 223);
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr .td-btn .button1 > img {
+  width: 11px;
+  height: 11px;
+  transform: translateY(-2px);
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr .td-btn .strong {
+  width: 18px;
+  height: 18px;
+  background-color: #fff;
+  border: 1px solid rgb(223, 223, 223);
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr .td-btn .button2 {
+  width: 18px;
+  height: 18px;
+  border: 1px solid rgb(223, 223, 223);
+  transform: rotate(180deg);
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr .td-btn .button2 > img {
+  width: 11px;
+  height: 11px;
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr .lastbtn > p {
+  margin: 0 0 2px 0;
+  text-align: center;
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr .lastbtn > p:nth-child(1) > button {
+  width: 70px;
+  height: 20px;
+  background-color: #000;
+  color: #fff;
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr .lastbtn > p:nth-child(2) > button {
+  width: 70px;
+  height: 20px;
+  background-color: #fff;
+  border: 1px solid #000;
+  color: rgb(51, 51, 51);
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr .lastbtn > p:nth-child(3) {
+  text-align: center;
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr .lastbtn > p:nth-child(3) > button {
+  width: 70px;
+  height: 20px;
+  background-color: #fff;
+  color: #000;
+  border: 1px solid rgb(197, 197, 197);
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr .lastbtn > p:nth-child(3) > button > img {
+  width: 12px;
+  height: 12px;
+  transform: translateY(-1.5px);
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr .lastbtn > p:nth-child(4) > button {
+  width: 70px;
+  height: 20px;
+  background-color: #fff;
+  color: #000;
+  border: 1px solid rgb(197, 197, 197);
+}
+#cart .container .content .cart-container .left .cart-content .table table tbody tr .lastbtn > p:nth-child(4) > button > img {
+  width: 17px;
+  height: 17px;
+  transform: translateY(-1px);
+}
+#cart .container .content .cart-container .left .bottom-left {
+  display: flex;
+  padding: 50px 0 0 0;
+  align-items: center;
+  justify-content: space-between;
+}
+#cart .container .content .cart-container .left .bottom-left .btn-wrap {
+  display: flex;
+}
+#cart .container .content .cart-container .left .bottom-left .btn-wrap .bbtn1 {
+  cursor: pointer;
+  width: 180px;
+  height: 50px;
+  background-color: #fff;
+  color: rgb(51, 51, 51);
+  border: 1px solid rgb(51, 51, 51);
+  margin: 0 10px 0 0;
+  font-weight: 600;
+}
+#cart .container .content .cart-container .left .bottom-left .btn-wrap .bbtn2 {
+  cursor: pointer;
+  width: 180px;
+  height: 50px;
+  background-color: rgb(125, 125, 125);
+  border: 1px solid rgb(125, 125, 125);
+  color: #fff;
+  font-weight: 600;
+}
+#cart .container .content .cart-container .left .bottom-left > ul {
+  width: 460px;
+  list-style: disc;
+}
+#cart .container .content .cart-container .left .bottom-left > ul > li {
+  font-size: 12px;
+  line-height: 22px;
+  color: rgb(123, 123, 123);
+}
+#cart .container .content .cart-container .right {
+  position: sticky;
+  top: 0;
+  right: 0;
+  height: 427px;
+  margin: 40px 0 0 20px;
+  width: 300px;
+  background-color: rgb(242, 242, 242);
+}
+#cart .container .content .cart-container .right .right-title {
+  height: 70px;
+  padding: 27px 0 0 0;
+  text-align: center;
+  border-bottom: 1px solid rgb(171, 171, 171);
+}
+#cart .container .content .cart-container .right .right-title h3 {
+  font-size: 18px;
+  font-weight: 600;
+}
+#cart .container .content .cart-container .right .right-content {
+  padding: 23px 0;
+}
+#cart .container .content .cart-container .right .right-content > ul > li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+#cart .container .content .cart-container .right .right-content > ul > li:nth-child(3) {
+  border-bottom: 1px solid #d9d9d9;
+}
+#cart .container .content .cart-container .right .right-content > ul > li strong {
+  font-size: 14px;
+  color: rgb(51, 51, 51);
+}
+#cart .container .content .cart-container .right .right-content > ul > li p {
+  font-size: 13px;
+}
+#cart .container .content .cart-container .right .right-content > ul > li p em {
+  padding: 0 5px 0 0;
+  font-size: 18px;
+  color: rgb(51, 51, 51);
+}
+#cart .container .content .cart-container .right .right-content > ul .total strong {
+  font-size: 14px;
+  color: rgb(51, 51, 51);
+}
+#cart .container .content .cart-container .right .right-content > ul .total > p {
+  text-align: center;
+  transform: translateY(-2px);
+}
+#cart .container .content .cart-container .right .right-content > ul .total > p > em {
+  color: rgb(250, 85, 0);
+  padding: 0 5px 0 0;
+}
+#cart .container .content .cart-container .right .right-content > ul .point strong {
+  color: rgb(102, 102, 102);
+  font-size: 12px;
+}
+#cart .container .content .cart-container .right .right-content > ul .point > p > em {
+  padding: 0 5px 0 0;
+  font-size: 14px;
+  color: rgb(102, 102, 102);
+}
+#cart .container .content .cart-container .right .right-btn .bt1 {
+  cursor: pointer;
+  display: block;
+  height: 70px;
+  width: 100%;
+  background-color: #000;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+}
+#cart .container .content .cart-container .right .right-btn .bt2 {
+  cursor: pointer;
+  margin: 6px 0 0 0;
+  display: block;
+  height: 45px;
+  width: 100%;
+  border: 1px solid rgb(0, 0, 0);
+  background-color: #fff;
+  color: #000;
+  font-size: 18px;
+}

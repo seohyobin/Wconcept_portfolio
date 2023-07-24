@@ -1,0 +1,12 @@
+                                :nth-child(2){
+                                    img{
+                                        width: 384px;
+                                        height: 512px;
+                                    }
+                                }
+                                :nth-child(5){
+                                    img{
+                                        width: 384px;
+                                        height: 512px;
+                                    }
+                                }

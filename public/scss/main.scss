@@ -1,0 +1,1284 @@
+
+    #section1{
+        width: 100%;
+        > .container{
+            width: 100%;
+          > .content{
+                width: 100%;
+                .slide-container{
+                    width: 100%;
+                    position: relative;
+                    .slide-view{
+                        width: 100%;
+                        position: relative;
+                        overflow: hidden;
+                        z-index: 1;
+                        .slide-wrap{
+                            width: 100% * 15;
+                            position: relative;
+                            display: flex;
+                            margin: 0 0 0 -100%;
+                            .slide{
+                                width: 100%;
+                                position: relative;
+                                a{
+                                    display: block;
+                                    width: 100%;
+                                    img{width: 100%;}
+                                }
+                            }
+                        }
+                    }
+                    .left-arrow-btn{
+                        position: absolute;
+                        top: 45%;
+                        left: 3%;
+                        z-index: 2;
+                        transform: rotate(180deg);
+                        display: none;
+                        img{
+                            width: auto;
+                        }
+                    }
+                    .right-arrow-btn{
+                        position: absolute;
+                        top: 45%;
+                        right: 3%;
+                        z-index: 2;
+                        display: none;
+                        img{
+                            width: auto;
+                        }
+                    }   
+                }
+            }
+        }
+    }
+    #section2{
+        width: 100%;
+        .container{
+            width: 100%;
+            margin-bottom: 50px;
+        
+            .title{
+                width: 100%;
+                text-align: center;
+                
+                margin: 100px 0 40px 0;
+                h2{
+                    font-size: 48px;
+                    text-transform: uppercase;
+                    font-weight: 300;
+                }
+            }
+            .content{
+                .box1234{
+                    display: flex;
+                    .box{
+                        padding: 0 0 0 15px ;
+                        
+                        a{
+                            width: 100%;
+                            text-align: center;
+                            img{
+                                width: auto;
+                                margin-bottom: 34px;
+                            }
+                            h3{
+                                font-size: 20px;
+                                color: #333;
+                                font-weight: 700;
+                            }
+                            p{
+                                margin: 15px 50px 37px 50px ;
+                                font-size: 12px;
+                                line-height: 18px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    #section3{
+        width: 100%;
+        margin-top: 120px;
+        .container{
+            width: 100%;
+            margin: 0 0 100px 0;
+            .content{
+                width: 100%;
+                .banner{
+                    width: 100%;
+                    display: flex;
+                    .card1{
+                        display: flex;
+                        justify-content: end;
+                        width: 50%;
+                        background-color: #ededed;
+                        a{
+                            img{}
+                        }
+                    }
+                    .card2{
+                        width: 50%;
+                        background-color: #ffdf00;
+                        a{
+                            img{}
+                        }
+                    }
+                }
+            }
+        }
+    }
+    #section4{
+        width: 100%;
+       .container4{
+        width: 100%;
+        height: 708px;
+        max-width: 1500px;
+       margin: 0 auto;
+        .gap4{
+            width: 100%;
+            .title4{
+                width: 100%;
+                text-align: center;
+                margin: 0 0 40px 0;
+                h2{
+                    font-size: 48px;
+                    text-transform: uppercase;
+                    font-weight: 300;
+                }
+            }
+            .content{
+                width: 100%;
+                position: relative;
+                .slide-container{
+                    width: 100%;
+                    height: 641px;
+                    padding: 10px 0 ;
+                    position: relative;
+                        .slide-view{
+                            width: 100%;
+                            position: relative;
+                            overflow: hidden;
+                            .slide-wrap{
+                                width: 20% * 13;
+                                display: flex;
+                                position: relative;
+                               
+                                .slide{
+                                    position: relative;
+                                    width: 20%;
+                                    height: 494.656px;
+                                    
+                                    a{
+                                        display: block;
+                                        width: 287px;
+                                        
+                                        img{
+                                            width: 287px;
+                                            height: 382.656px;
+                                            padding: 0 0 10px 0;
+                                        }
+                                        h3{
+                                            font-size: 16px;
+                                            color: #000;
+                                            font-weight: 700;
+                                            padding: 0 0 10px 0;
+                                        }
+                                        p{
+                                            font-size: 12px;
+                                            color: #555;
+                                            padding: 0 0 30px 0 ;
+                                        }
+                                        .price{
+                                            width: 100%;
+                                            .dis-price{
+                                                font-size: 18px;
+                                                color: #333;
+                                                font-weight: 600;
+                                                margin: 0 10px 0 0;
+                                            }
+                                            .base-price{
+                                                font-size: 14px;
+                                                color: #808080;
+                                                text-decoration: line-through;
+                                                margin: 0 140px 0 0;
+                                            }
+                                            .discount{
+                                                
+                                                color: #ff4000;
+                                                font-size: 16px;
+                                                font-weight: 600;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                        .next-arrow-btn{
+                            position: absolute;
+                            top: 27%;
+                            right: 15px;
+                           
+                            img{
+                                width: 30px;
+                                height: 56px;
+                               
+                            }
+                        }   
+                        .prev-arrow-btn{
+                            position: absolute;
+                            top: 27%;
+                            left: 15px;
+                            img{
+                                width: 30px;
+                                height: 56px;
+                            }
+                        }
+                }
+            }
+        }
+       } 
+    }
+    #section5{
+        width: 100%;
+        .container{
+            width: 100%;
+            max-width: 1880px;
+            height: 1360px;
+            margin: 0 auto;
+            position: relative;
+            .title{
+                width: 100%;
+                text-align: center;
+                margin: 0 0 40px 0;
+               > h2{
+                    font-size: 48px;
+                    text-transform: uppercase;
+                    font-weight: 300;
+                    a{
+                        width: 100%;
+                        img{
+                          width: 50px;
+                          height: 50px;
+                          transform: translateY(-5.5px);
+                        }
+                    }
+                    
+                }
+            }
+            .content{
+                width: 100%;
+                .top-box{
+                    width: 100%;
+                    margin: 0 0 100px 0;
+                    .slide-container{
+                        width: 100%;
+                        position: relative;
+                        z-index: 1;
+                        .slide-view{
+                            width: 100%;
+                            position: relative;
+                            .slide-wrap{
+                                width: 50% * 7;
+                                margin: 0 0 0 -25%;
+                                position: relative;
+                                display: flex;
+                                .slide{
+                                    width: 50%;
+                                    position: relative;
+                                    a{
+                                      width: 100%;
+                                        display: block;
+                                        img{
+                                            width: auto;
+                                        }
+                                        .center-text{
+                                            position: absolute;
+                                            top: 43%;
+                                            right: 43%;
+                                            z-index: 2;
+                                            > p{
+                                                font-family: 'Raleway';
+                                                font-size: 78px;
+                                                font-weight: 800;
+                                                color: #fff;
+                                                text-transform: uppercase;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                        .next-arrow-btn{
+                            position: absolute;
+                            top: 45%;
+                            right:20%;
+                           
+                            img{
+                                width: 30px;
+                                height: 56px;
+                               
+                            }
+                        }   
+                        .prev-arrow-btn{
+                            position: absolute;
+                            top: 45%;
+                            left:18%;
+                            img{
+                                width: 30px;
+                                height: 56px;
+                            }
+                        }
+                    }
+                }
+                > .bottom-box{
+                    width: 100%;
+                   
+                    > .img-slide{
+                        width: 100%;
+                        display: flex;
+                        justify-content: space-between;
+                      > .img{
+                            width: 216px;
+                            
+                          
+                            > a{
+                                width: 216px;
+                                
+                                > img{
+                                    width: 216px;
+                                    height: 288px;
+                                }
+                                > h3{
+                                    font-size: 14px;
+                                    line-height: 16px;
+                                    color: #000;
+                                    font-weight: 700;
+                                    margin: 0 0 7px 0;
+                                }
+                                .p1{
+                                    font-size: 11px;
+                                    color: #777;
+                                    margin: 0 0 8px 0;
+                                  
+                                }
+                                .p2{
+                                    font-size: 11px;
+                                    color: #777;
+                                    margin: 0 0 25px 0;
+                                   
+                                }
+                                .price{
+                                    width: 100%;
+                                    display: flex;
+                                    justify-content: flex-start;
+                                    height: 23px;
+                                    .dis-price{
+                                        font-size: 16px;
+                                        color: #333;
+                                        font-weight: 600;
+                                        margin-right: 4px;
+                                       
+                                    }
+                                    .base-price{
+                                        margin: 3px 0 0 0;
+                                        font-size: 12px;
+                                        color: #aaa;
+                                        text-decoration: line-through;
+                                    }
+                                    .discount{
+                                        margin: 0 0 0 70px;    
+                                        color: #ff4000;
+                                        font-size: 16px;
+                                        font-weight: 600;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    #section6{
+        width: 100%;
+        .container{
+            width: 100%;
+            position: relative;
+            margin-bottom: 50px;
+            .title{
+                width: 100%;
+                text-align: center;
+                margin: 0 0 40px 0;
+                h2{
+                    font-size: 48px;
+                    text-transform: uppercase;
+                    font-weight: 300;
+                    a{
+                        width: 100%;
+                        img{
+                          width: 50px;
+                          height: 50px;
+                          transform: translateY(-5.5px);
+                        }
+                    }
+                    
+                }
+            }
+            .content{
+                width: 100%;
+                display: flex;
+                .left-slide-box{
+                    position: relative;
+                    width: 752px;
+                    height: 834px;
+                    margin-right: 20px;
+                    margin-left:20px ;
+                    .slide-container-s5{
+                        width: 100%;
+                        position: relative;
+                        .slide-view-s5{
+                            width: 100%;
+                            position: relative;
+                            overflow: hidden;
+                            z-index: 1;
+                            .slide-wrap-s5{
+                                width: 100% * 10;
+                                position: relative;
+                                display: flex;
+                                margin: 0 0 0 -100% ;
+                                .slide0{
+                                    width: 100%;
+                                    position: relative;
+                                    z-index: 1;
+                                    a{
+                                        width: 100%;
+                                        img{
+                                            width: 752px;
+                                            height: 834px;
+                                        }
+                                        .text-box{
+                                            position: absolute;
+                                            top: 40%;
+                                            left: 30%;
+                                            z-index:2;
+                                            text-align: center;
+                                            h3{
+                                                font-size: 60px;
+                                                line-height: 60px;
+                                                color: #fff;
+                                                padding: 0 0 25px 0;
+                                                font-weight: 600;
+                                            }
+                                            p{
+                                                font-size: 18px;
+                                                color: #fff;
+                                                padding: 0 0 30px 0;
+                                                
+                                            }
+                                            button{
+                                                cursor: pointer;
+                                                height: 52px;
+                                                border: 1px solid #fff;
+                                                background-color: transparent;
+                                                padding: 0 28px;
+                                                font-size: 16px;
+                                                color:#fff ;
+                                            }
+                                        }
+                                    }
+                                }
+                                .slide1{
+                                    width: 100%;
+                                    position: relative;
+                                    z-index: 1;
+                                    a{
+                                        width: 100%;
+                                        img{
+                                            width: 752px;
+                                            height: 834px;
+                                        }
+                                        .text-box{
+                                            position: absolute;
+                                            top: 40%;
+                                            left: 30%;
+                                            z-index:2;
+                                            text-align: center;
+                                            h3{
+                                                font-size: 60px;
+                                                line-height: 60px;
+                                                color: #fff;
+                                                padding: 0 0 25px 0;
+                                                font-weight: 600;
+                                            }
+                                            p{
+                                                font-size: 18px;
+                                                color: #fff;
+                                                padding: 0 0 30px 0;
+                                                
+                                            }
+                                            button{
+                                       
+                                                height: 52px;
+                                                border: 1px solid #fff;
+                                                background-color: transparent;
+                                                padding: 0 28px;
+                                                font-size: 16px;
+                                                color:#fff ;
+                                            }
+                                        }
+                                    }
+                                }
+                                .slide2{
+                                    width: 100%;
+                                    position: relative;
+                                    z-index: 1;
+                                    a{
+                                        width: 100%;
+                                        img{
+                                            width: 752px;
+                                            height: 834px;
+                                        }
+                                        .text-box{
+                                            position: absolute;
+                                            top: 40%;
+                                            left: 30%;
+                                            z-index:2;
+                                            text-align: center;
+                                            h3{
+                                                font-size: 60px;
+                                                line-height: 60px;
+                                                color: #fff;
+                                                padding: 0 0 25px 0;
+                                                font-weight: 600;
+                                            }
+                                            p{
+                                                font-size: 18px;
+                                                color: #fff;
+                                                padding: 0 0 30px 0;
+                                                
+                                            }
+                                            button{
+                                       
+                                                height: 52px;
+                                                border: 1px solid #fff;
+                                                background-color: transparent;
+                                                padding: 0 28px;
+                                                font-size: 16px;
+                                                color:#fff ;
+                                            }
+                                        }
+                                    }
+                                }
+                                .slide3{
+                                    width: 100%;
+                                    position: relative;
+                                    z-index: 1;
+                                    a{
+                                        width: 100%;
+                                        img{
+                                            width: 752px;
+                                            height: 834px;
+                                        }
+                                        .text-box{
+                                            position: absolute;
+                                            top: 40%;
+                                            left: 30%;
+                                            z-index:2;
+                                            text-align: center;
+                                            h3{
+                                                font-size: 60px;
+                                                line-height: 60px;
+                                                color: #fff;
+                                                padding: 0 0 25px 0;
+                                                font-weight: 600;
+                                            }
+                                            p{
+                                                font-size: 18px;
+                                                color: #fff;
+                                                padding: 0 0 30px 0;
+                                                
+                                            }
+                                            button{
+                                       
+                                                height: 52px;
+                                                border: 1px solid #fff;
+                                                background-color: transparent;
+                                                padding: 0 28px;
+                                                font-size: 16px;
+                                                color:#fff ;
+                                            }
+                                        }
+                                    }
+                                }
+                                .slide4{
+                                    width: 100%;
+                                    position: relative;
+                                    z-index: 1;
+                                    a{
+                                        width: 100%;
+                                        img{
+                                            width: 752px;
+                                            height: 834px;
+                                        }
+                                        .text-box{
+                                            position: absolute;
+                                            top: 40%;
+                                            left:15%;
+                                            z-index:2;
+                                            text-align: center;
+                                            h3{
+                                                font-size: 60px;
+                                                line-height: 60px;
+                                                color: #fff;
+                                                padding: 0 0 25px 0;
+                                                font-weight: 600;
+                                            }
+                                            p{
+                                                font-size: 18px;
+                                                color: #fff;
+                                                padding: 0 0 30px 0;
+                                                
+                                            }
+                                            button{
+                                       
+                                                height: 52px;
+                                                border: 1px solid #fff;
+                                                background-color: transparent;
+                                                padding: 0 28px;
+                                                font-size: 16px;
+                                                color:#fff ;
+                                            }
+                                        }
+                                    }
+                                }
+                                .slide5{
+                                    width: 100%;
+                                    position: relative;
+                                    z-index: 1;
+                                    a{
+                                        width: 100%;
+                                        img{
+                                            width: 752px;
+                                            height: 834px;
+                                        }
+                                        .text-box{
+                                            position: absolute;
+                                            top: 40%;
+                                            left: 30%;
+                                            z-index:2;
+                                            text-align: center;
+                                            h3{
+                                                font-size: 60px;
+                                                line-height: 60px;
+                                                color: #fff;
+                                                padding: 0 0 25px 0;
+                                                font-weight: 600;
+                                            }
+                                            p{
+                                                font-size: 18px;
+                                                color: #fff;
+                                                padding: 0 0 30px 0;
+                                                
+                                            }
+                                            button{
+                                       
+                                                height: 52px;
+                                                border: 1px solid #fff;
+                                                background-color: transparent;
+                                                padding: 0 28px;
+                                                font-size: 16px;
+                                                color:#fff ;
+                                            }
+                                        }
+                                    }
+                                }
+                                .slide6{
+                                    width: 100%;
+                                    position: relative;
+                                    z-index: 1;
+                                    a{
+                                        width: 100%;
+                                        img{
+                                            width: 752px;
+                                            height: 834px;
+                                        }
+                                        .text-box{
+                                            position: absolute;
+                                            top: 40%;
+                                            left: 12%;
+                                            z-index:2;
+                                            text-align: center;
+                                            h3{
+                                                font-size: 60px;
+                                                line-height: 60px;
+                                                color: #fff;
+                                                padding: 0 0 25px 0;
+                                                font-weight: 600;
+                                            }
+                                            p{
+                                                font-size: 18px;
+                                                color: #fff;
+                                                padding: 0 0 30px 0;
+                                                
+                                            }
+                                            button{
+                                       
+                                                height: 52px;
+                                                border: 1px solid #fff;
+                                                background-color: transparent;
+                                                padding: 0 28px;
+                                                font-size: 16px;
+                                                color:#fff ;
+                                            }
+                                        }
+                                    }
+                                }
+                                .slide7{
+                                    width: 100%;
+                                    position: relative;
+                                    z-index: 1;
+                                    a{
+                                        width: 100%;
+                                        img{
+                                            width: 752px;
+                                            height: 834px;
+                                        }
+                                        .text-box{
+                                            position: absolute;
+                                            top: 40%;
+                                            left: 24%;
+                                            z-index:2;
+                                            text-align: center;
+                                            h3{
+                                                font-size: 60px;
+                                                line-height: 60px;
+                                                color: #fff;
+                                                padding: 0 0 25px 0;
+                                                font-weight: 600;
+                                            }
+                                            p{
+                                                font-size: 18px;
+                                                color: #fff;
+                                                padding: 0 0 30px 0;
+                                                
+                                            }
+                                            button{
+                                       
+                                                height: 52px;
+                                                border: 1px solid #fff;
+                                                background-color: transparent;
+                                                padding: 0 28px;
+                                                font-size: 16px;
+                                                color:#fff ;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                        .next-arrow-btn{
+                            position: absolute;
+                            z-index: 2;
+                            top: 50%;
+                            right:15px;
+                            img{
+                                width: 30px;
+                                height: 56px;
+                               
+                            }
+                
+                        }   
+                        .prev-arrow-btn{
+                            position: absolute;
+                            z-index: 2;
+                            top: 50%;
+                            left: 15px;
+                            img{
+                                width: 30px;
+                                height: 56px;
+                            }
+                        }
+                    }
+                }
+                .left-wrap{
+                    width: 1128px;
+                    .right-top-box{
+                        width: 100%;
+                        margin-bottom: 25px;
+                        .top-box{
+                            width: 100%;
+                            > .img-slide{
+                                width: 100%;
+                                display: flex;
+                                flex-flow: row wrap;
+                              > .img{
+                                width: 216px;
+                                 padding: 0 0 35px 0;
+                                    > a{
+                                        width: 200px;
+                                        
+                                        display: block;
+                                        img{
+                                            width: 200px;
+                                            height: 266px;
+        
+                                        }
+                                        h3{
+                                            font-size: 14px;
+                                            line-height: 16px;
+                                            color: #000;
+                                            font-weight: 700;
+                                            margin: 0 0 7px 0;
+                                        }
+                                        .p1{
+                                            font-size: 11px;
+                                            color: #777;
+                                            margin: 0 0 8px 0;
+                                          
+                                        }
+                                        .p2{
+                                            font-size: 11px;
+                                            color: #777;
+                                            margin: 0 0 25px 0;
+                                           
+                                        }
+                                        .price{
+                                            width: 100%;
+                                            display: flex;
+                                            justify-content: flex-start;
+                                            height: 23px;
+                                            .dis-price{
+                                                font-size: 16px;
+                                                color: #333;
+                                                font-weight: 600;
+                                                margin-right: 4px;
+                                               
+                                            }
+                                            .base-price{
+                                                margin: 3px 0 0 0;
+                                                font-size: 12px;
+                                                color: #aaa;
+                                                text-decoration: line-through;
+                                            }
+                                            .discount{
+                                                margin: 0 0 0 70px;    
+                                                color: #ff4000;
+                                                font-size: 16px;
+                                                font-weight: 600;
+                                            }
+                                            
+                                        }
+                                        > span{
+                                            width: 40px;    
+                                            height: 18px;
+                                            background-color: #fa5500;
+                                            color: #fff;
+                                            padding: 2px 5px;
+                                            font-size: 11px;
+                                            margin: 0 3px 0 0 ;
+                                        }
+                                        .reserve{
+                                            width: 40px;    
+                                            height: 18px;
+                                            background-color: #000;
+                                            color: #fff;
+                                            padding: 2px 5px;
+                                            font-size: 11px;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    .right-bottom-box{
+                        .bottom-box{
+                            > .img-slide{
+                                width: 100%;
+                                display: flex;
+                                .img{
+                                    width: 20%;
+                                 
+                                    > a{
+                                        width: 216px;
+                                        
+                                        display: block;
+                                        img{
+                                            width: auto;
+        
+                                        }
+                                        h3{
+                                            font-size: 14px;
+                                            line-height: 16px;
+                                            color: #000;
+                                            font-weight: 700;
+                                            margin: 0 0 7px 0;
+                                        }
+                                        .p1{
+                                            font-size: 11px;
+                                            color: #777;
+                                            margin: 0 0 8px 0;
+                                          
+                                        }
+                                        .p2{
+                                            font-size: 11px;
+                                            color: #777;
+                                            margin: 0 0 25px 0;
+                                           
+                                        }
+                                        .price{
+                                            width: 100%;
+                                            display: flex;
+                                            justify-content: flex-start;
+                                            height: 23px;
+                                            .dis-price{
+                                                font-size: 16px;
+                                                color: #333;
+                                                font-weight: 600;
+                                                margin-right: 4px;
+                                               
+                                            }
+                                            .base-price{
+                                                margin: 3px 0 0 0;
+                                                font-size: 12px;
+                                                color: #aaa;
+                                                text-decoration: line-through;
+                                            }
+                                            .discount{
+                                                margin: 0 0 0 70px;    
+                                                color: #ff4000;
+                                                font-size: 16px;
+                                                font-weight: 600;
+                                            }
+                                        }
+                                        > span{
+                                            width: 40px;    
+                                            height: 18px;
+                                            background-color: #fa5500;
+                                            color: #fff;
+                                            padding: 2px 5px;
+                                            font-size: 11px;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+
+            }
+        }
+    }
+    #section7{
+        width: 100%;
+        margin: 0 0 100px 0 ;
+        background-color: #000;
+        .container{
+            width: 100%;
+            height: 612px;
+            padding: 80px 0 ;
+            max-width: 1240px;
+            margin: 0 auto;
+      
+            .content{
+                width: 100%;
+                
+                .box-wrap{
+                    width: 1240px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    margin-top: 12px;
+                  .box1{
+                    width: 25%;
+                    a{
+                        width: 100%;
+                        img{
+                            width: auto;
+                        }
+                        h4{
+                            font-size: 16px;
+                            color: #fff;
+                            font-weight: 600;
+                            padding: 25px 0 16px 0 ;
+                        }
+                        p{
+                            font-size: 14px;
+                            color: #a8a8a8;
+                            padding: 0 0 40px 0;
+                        }
+                        .arrow{
+                            text-transform: uppercase;
+                            font-size: 11px;
+                            color: #aaa;
+                            border-bottom: 1px solid rgb(160, 159, 159);
+                        }
+                    }
+                  }  
+                  .box2{
+                    width: 25%;
+                    a{
+                        width: 100%;
+                        img{
+                            width: auto;
+                        }
+                        h4{
+                            font-size: 16px;
+                            color: #fff;
+                            font-weight: 600;
+                            padding: 25px 0 16px 0 ;
+                        }
+                        p{
+                            font-size: 14px;
+                            color: #a8a8a8;
+                            padding: 0 0 40px 0;
+                        }
+                        .arrow{
+                            text-transform: uppercase;
+                            font-size: 11px;
+                            color: #aaa;
+                            border-bottom: 1px solid rgb(160, 159, 159);
+                        }
+                    }
+                  }  
+                  .box3{
+                    width: 25%;
+                    a{
+                        width: 100%;
+                        img{
+                            width: auto;
+                        }
+                        h4{
+                            font-size: 16px;
+                            color: #fff;
+                            font-weight: 600;
+                            padding: 25px 0 16px 0 ;
+                        }
+                        p{
+                            font-size: 14px;
+                            color: #a8a8a8;
+                            padding: 0 0 40px 0;
+                        }
+                        .arrow{
+                            text-transform: uppercase;
+                            font-size: 11px;
+                            color: #aaa;
+                            border-bottom: 1px solid rgb(160, 159, 159);
+                        }
+                    }
+                  }  
+                  .box4{
+                    width: 25%;
+                    a{
+                        width: 100%;
+                        img{
+                            width: auto;
+                        }
+                        h4{
+                            font-size: 16px;
+                            color: #fff;
+                            font-weight: 600;
+                            padding: 25px 0 16px 0 ;
+                        }
+                        p{
+                            font-size: 14px;
+                            color: #a8a8a8;
+                            padding: 0 0 40px 0;
+                        }
+                        .arrow{
+                            text-transform: uppercase;
+                            font-size: 11px;
+                            color: #aaa;
+                            border-bottom: 1px solid rgb(160, 159, 159);
+                        }
+                    }
+                  }  
+                }
+            }
+        }
+    }
+    #section8{
+        .container{
+            width: 100%;
+            margin: 0 0 100px 0;
+            .content{
+                width: 100%;
+                position: relative;
+                > .slide-container{
+                    width: 100%;
+                    position: relative;
+                    .slide-view{
+                        width: 100%;
+                        position: relative;
+                        //overflow: hidden;
+                        z-index: 1;
+                        .slide-wrap{
+                            width: 100% * 7;
+                            position: relative;
+                            display: flex;
+                            margin: 0 0 0 -100%;
+                            .slide{
+                                width: 100%;
+                                position: relative;
+                                a{
+                                    display: block;
+                                    width: 100%;
+                                    img{width: 100%;}
+                                }
+                            }
+                        }
+                    }
+                    .left-arrow-btn{
+                        position: absolute;
+                        top: 45%;
+                        left: 3%;
+                        z-index: 2;
+                        transform: rotate(180deg);
+                        display: none;
+                        img{
+                            width: auto;
+                        }
+                    }
+                    .right-arrow-btn{
+                        position: absolute;
+                        top: 45%;
+                        right: 3%;
+                        z-index: 2;
+                        display: none;
+                        img{
+                            width: auto;
+                        }
+                    }
+
+                }
+                > .page-btn-box{
+                    background-color: transparent;
+                    position: absolute;
+                    z-index: 3;
+                    bottom:16px;
+                    left: 0;
+                    width: 100%;
+                    text-align: center;
+                    > span{
+                        margin: 0 5px;
+                        > a{
+                            width: 10px;
+                            height: 10px;
+                            border-radius: 50%;
+                            background-color: rgba(0,0,0,0.4);
+                            &.on{
+                                background-color: rgba(0,0,0,1);
+
+                            }
+
+                        }
+                    }
+                }   
+            }
+        } 
+    }
+    #section9{
+        width: 100%;
+        .container{
+            width: 100%;
+            margin: 0 auto;
+            .gap{
+                width: 100%;
+                .title{
+                    width: 100%;
+                    text-align: center;
+                    margin: 0 0 40px 0;
+                    h2{
+                        font-size: 48px;
+                        text-transform: uppercase;
+                        font-weight: 300;
+                        padding: 0 0 20px 0;
+                    }
+                    .nav-bar{
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        .nav-bar-content{
+                            padding: 0 0 5px 0;
+                           margin: 0 15px;
+                            a{
+                                width: 100%;
+                                margin: 0 0 10px 0;
+                                span{
+                                    font-size: 16px;
+                                    color: #b5b5b5;
+                                    font-weight: 600;
+                                    border-bottom:3px solid transparent ;
+                                    transition: all 0.3s;
+                                    &:hover{
+                                        color: #000;
+                                        border-bottom:3px solid #000 ;
+                                    }
+                                }
+
+                              
+                            }
+
+
+                        }
+
+                    }
+                }
+                .content{
+                    width: 100%;
+                    .top-box{
+                        width: 100%;
+                        margin: 0 0 100px 0;
+                        .slide-container{
+                            width: 100%;
+                            height: 100%;
+                            position: relative;
+                            z-index: 1;
+                            .slide-view{
+                                width: 100%;
+                                position: relative;
+                                .slide-wrap{
+                                    width: 50% * 11;
+                                    margin: 0 0 0 -25%;
+                                    position: relative;
+                                    display: flex;
+                                    .slide{
+                                        width: 50%;
+                                        height: 100%;
+                                        position: relative;
+                                        .slide-pic{
+                                            width: 100%;
+                                            height: 100%;
+                                            background: url() no-repeat 50% 50%;
+                                            background-size: auto;
+                                            &.slide-pic0{background-image: url(../img/main/1.LOOKAST_20230512153855.jpg);}
+                                            &.slide-pic1{background-image: url(../img/main/2.SUECOMM.jpg);}
+                                            &.slide-pic2{background-image: url(../img/main/6.lululemon_20230509161437.jpg);}
+                                            &.slide-pic3{background-image: url(../img/main/4.CARLYN_20230512153849.jpg);}
+                                            &.slide-pic4{background-image: url(../img/main/5.GETMEBLING_20230512153945.jpg);}
+
+                                        }
+                                        .text{
+                                            strong{
+
+                                            }
+                                            p{
+
+                                            }
+                                            .view{
+
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+

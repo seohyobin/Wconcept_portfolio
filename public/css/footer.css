@@ -1,0 +1,238 @@
+#footer {
+  width: 100%;
+  padding: 0 0 40px 0;
+}
+#footer .container {
+  width: 100%;
+}
+#footer .container .gap .content {
+  width: 100%;
+  max-width: 1240px;
+  margin: 0 auto;
+}
+#footer .container .gap .content .img-top-box {
+  padding: 100px 0 100px 0;
+}
+#footer .container .gap .content .img-top-box .img-ul {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#footer .container .gap .content .wrap-wrap {
+  display: flex;
+}
+#footer .container .gap .content .wrap-wrap .middle-box-right {
+  width: 590px;
+  padding: 0 80px 0 0;
+}
+#footer .container .gap .content .wrap-wrap .middle-box-right .right-btn-wrap {
+  width: 100%;
+  height: 53px;
+  border-bottom: 2px solid #000;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin: 0 0 20px 0;
+}
+#footer .container .gap .content .wrap-wrap .middle-box-right .right-btn-wrap .btn1 {
+  font-size: 22px;
+  padding: 0 33px 20px 0;
+  border: 0;
+  background: none;
+  text-transform: uppercase;
+}
+#footer .container .gap .content .wrap-wrap .middle-box-right .right-btn-wrap .btn2 {
+  font-size: 22px;
+  padding: 0 0 20px 33px;
+  border: 0;
+  background: none;
+}
+#footer .container .gap .content .wrap-wrap .middle-box-right .new-list-wrap {
+  width: 100%;
+}
+#footer .container .gap .content .wrap-wrap .middle-box-right .new-list-wrap > li {
+  padding: 0 0 0 20px;
+  width: 100%;
+  height: 21px;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#footer .container .gap .content .wrap-wrap .middle-box-right .new-list-wrap > li > a {
+  font-size: 14px;
+  color: #000;
+}
+#footer .container .gap .content .wrap-wrap .middle-box-right .new-list-wrap > li > span {
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.7);
+}
+#footer .container .gap .content .wrap-wrap .middle-box-right .event-list-wrap {
+  width: 100%;
+  display: none;
+}
+#footer .container .gap .content .wrap-wrap .middle-box-right .event-list-wrap > li {
+  width: 100%;
+  height: 21px;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#footer .container .gap .content .wrap-wrap .middle-box-right .event-list-wrap > li > a {
+  font-size: 14px;
+  color: #000;
+}
+#footer .container .gap .content .wrap-wrap .middle-box-right .event-list-wrap > li > span {
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.7);
+}
+#footer .container .gap .content .wrap-wrap .middle-box-left {
+  width: 590px;
+  padding: 45px 60px;
+}
+#footer .container .gap .content .wrap-wrap .middle-box-left .help {
+  width: 100%;
+  height: 60px;
+}
+#footer .container .gap .content .wrap-wrap .middle-box-left .help > span {
+  font-size: 22px;
+  color: #000;
+}
+#footer .container .gap .content .wrap-wrap .middle-box-left .help > strong {
+  font-size: 42px;
+  font-weight: 600;
+  margin-left: 40px;
+  color: #000;
+}
+#footer .container .gap .content .wrap-wrap .middle-box-left .customer {
+  width: 100%;
+  margin: 0 0 50px 0;
+}
+#footer .container .gap .content .wrap-wrap .middle-box-left .customer .p1 {
+  font-size: 14px;
+  color: #000;
+}
+#footer .container .gap .content .wrap-wrap .middle-box-left .customer .p2 {
+  font-size: 14px;
+  color: #000;
+  line-height: 24px;
+}
+#footer .container .gap .content .wrap-wrap .middle-box-left .middle-bottom-wrap {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+#footer .container .gap .content .wrap-wrap .middle-box-left .middle-bottom-wrap .middle-btn-wrap .faq {
+  width: 93px;
+  height: 36px;
+  border: 1px solid #000;
+  margin-right: 9px;
+  background: none;
+}
+#footer .container .gap .content .wrap-wrap .middle-box-left .middle-bottom-wrap .middle-btn-wrap .ques1 {
+  width: 93px;
+  height: 36px;
+  border: 1px solid #000;
+  background: none;
+}
+#footer .container .gap .content .wrap-wrap .middle-box-left .middle-bottom-wrap .icon-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 31px;
+}
+#footer .container .gap .content .wrap-wrap .middle-box-left .middle-bottom-wrap .icon-wrap > a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+  width: 31px;
+  height: 31px;
+  border-radius: 50%;
+  background-color: rgb(221, 221, 221);
+}
+#footer .container .gap .content .wrap-wrap .middle-box-left .middle-bottom-wrap .icon-wrap > a i {
+  font-size: 20px;
+}
+#footer .container .gap .nav-footer {
+  margin-top: 70px;
+  width: 100%;
+  background-color: #848484;
+  height: 57px;
+}
+#footer .container .gap .nav-footer .nav-wrap {
+  max-width: 1240px;
+  margin: 0 auto;
+  display: flex;
+  height: 57px;
+  align-items: center;
+  justify-content: space-evenly;
+}
+#footer .container .gap .nav-footer .nav-wrap .nav-list {
+  padding: 0 28px;
+}
+#footer .container .gap .nav-footer .nav-wrap .nav-list > a {
+  font-size: 14px;
+  font-weight: 600;
+  color: #fff;
+  line-height: 57px;
+}
+#footer .container .gap .footer-bottom {
+  padding: 40px 0 0 0;
+  width: 100%;
+  max-width: 1240px;
+  margin: 0 auto;
+  display: flex;
+}
+#footer .container .gap .footer-bottom .copyright-left {
+  width: 920px;
+  height: 62px;
+  font-size: 12px;
+  color: #666;
+  line-height: 20px;
+}
+#footer .container .gap .footer-bottom .copyright-left > a {
+  margin: 0 0 0 5px;
+  font-size: 10px;
+  color: #666;
+  width: 95px;
+  height: 23px;
+  border: 1px solid #666;
+  padding: 2px 8px;
+}
+#footer .container .gap .footer-bottom .aside-right {
+  width: 320px;
+  border-left: 1px solid #ddd;
+  padding-left: 15px;
+}
+#footer .container .gap .footer-bottom .aside-right > h3 {
+  font-size: 12px;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 10px;
+}
+#footer .container .gap .footer-bottom .aside-right > p {
+  font-size: 12px;
+  font-weight: 400;
+  color: #666;
+  margin-bottom: 14px;
+  letter-spacing: -0.5px;
+}
+#footer .container .gap .footer-bottom .aside-right > span {
+  display: block;
+  font-size: 11px;
+  font-weight: 400;
+  color: #666;
+  letter-spacing: -0.5px;
+  margin: 0 0 5px 0;
+}
+#footer .container .gap .footer-bottom .aside-right > a {
+  width: 110px;
+  height: 22px;
+  border: 1px solid #666;
+  font-size: 11px;
+  padding: 2px 5px;
+}

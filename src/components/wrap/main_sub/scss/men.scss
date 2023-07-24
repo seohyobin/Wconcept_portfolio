@@ -1,0 +1,696 @@
+#man{
+    width: 100%;
+    .mcontainer{
+        width: 100%;
+        .mtitle{
+            width: 100%;
+            padding: 55px 0 36px 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-bottom:1px solid rgb(233, 233, 233) ;
+
+            h2{
+                font-size: 44px;
+                font-weight: 300;
+                color: #000;
+            }
+        }
+        .main-img-wrap{
+           padding: 0 0 120px 0;
+            width:1880px ;
+            margin: 0 10px 0 10px;
+            .img-ul{
+                width: 100%;
+                display: flex;
+                align-items: center;
+                .img-ul-li{
+                    width: 33.33333%;
+                    padding: 0 6.5px;
+                    > a{
+                        width: 100%;
+                        .img-btn{
+                            width: 100%;
+                            position: relative;
+                            > img{
+                                width: auto;
+                            }
+                            .img-info{
+                                width: 100%;
+                                height: auto;
+                                position: absolute;
+                                z-index: 3;
+                                top: 41.5%;
+                                left: 0;
+                                text-align: center;
+                                h3{
+                                    font-size: 28px;
+                                    color: #fff;
+                                    font-weight: 700  ;
+                                    text-transform: uppercase ;
+                                    letter-spacing: 5.6px;
+                                }
+                                p{
+                                    margin-top: 25px;
+                                    font-size: 16px;
+                                    letter-spacing: 3.2px;
+                                    font-weight: 500;
+                                    color: #fff;
+                                }
+                            }
+                            .btn{
+                                width: 100%;
+                                margin-top: 20px;
+                                display: flex;
+                                align-items: center;
+                                justify-content: space-evenly;
+                                > a{
+                                    display: inline-block;
+                                    text-align: center;
+                                    width: 292.672px;
+                                    height: 90px;
+                                    border: 2px solid #000;
+                                    padding: 24px 0 0 0;
+                                    font-size: 24px;
+                                    
+                                    color: #000;
+                                    &:hover{
+                                        background-color: rgba(0, 0, 0, 0.05);
+                                        border-color: rgba(0, 0, 0, 0.1);
+                                        color: #fff;
+                                    }
+                                    h4{
+                                        font-size: 14px;
+                                        line-height: 16.8px;
+                                        text-transform: uppercase;
+                                        color: #000;
+                             
+                                    }
+                                    h5{
+                                        font-size: 24px;
+                                        color: #000;
+                                    
+                                    }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .cate-btn-wrap{
+            width: 100%;
+            .a-wrap{
+                display: flex;
+                .a-li{
+                   
+                        span{}
+                    }
+                }
+            }
+        }
+        .bottom-box{
+            width: 100%;
+            .title-b-b{
+                text-align: center;
+                padding: 0 0 40px 0;
+                h2{
+                    font-size: 38px;
+                    color: #333;
+                    font-weight: 300;
+                }
+            }
+            .img-slide{
+                width: 100%;
+                display: flex;
+                justify-content: space-around;
+                .img{
+                    width: 216px;
+                    > a{
+                        width: 216px;
+                        display: block;
+                        img{
+                            width: 216px;
+                            height: 288px;
+                        }
+                        h3{
+                            font-size: 14px;
+                            line-height: 16px;
+                            color: #000;
+                            font-weight: 700;
+                            margin: 0 0 7px 0;
+                        }
+                        .p1{
+                            font-size: 11px;
+                            color: #777;
+                            margin: 0 0 8px 0;
+                          
+                        }
+                        .p2{
+                            font-size: 11px;
+                            color: #777;
+                            margin: 0 0 25px 0;
+                           
+                        }
+                        .price{
+                            width: 100%;
+                            display: flex;
+                            justify-content: flex-start;
+                            height: 23px;
+                            .dis-price{
+                                font-size: 16px;
+                                color: #333;
+                                font-weight: 600;
+                                margin-right: 4px;
+                               
+                            }
+                            .base-price{
+                                margin: 3px 0 0 0;
+                                font-size: 12px;
+                                color: #aaa;
+                                text-decoration: line-through;
+                            }
+                            .discount{
+                                margin: 0 0 0 70px;    
+                                color: #ff4000;
+                                font-size: 16px;
+                                font-weight: 600;
+                            }
+                        }
+                    }
+                }
+            }
+            }
+        .wcontent{
+            width: 100%;
+            max-width: 1326px;
+            margin: 0 auto;
+            padding: 80px 0 50px 0 ;
+           .content1{
+            padding:  0 0 120px 0;
+                .content1-title{
+                    width: 100%;
+                    text-align: center;
+                   > h3{
+                        font-size: 38px;
+                        font-weight: 300;
+                    }
+                    > p{
+                        margin-top: 10px;
+                        padding: 0 0 20px 0;
+                        color: rgb(157, 157, 157);
+                        font-size: 16px;
+                        line-height: 20px;
+                    }
+                }
+                .img-wrap{
+                    width: 100%;
+                    .img-box{
+                        width: 100%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: space-between;
+                        .img{
+                            
+                            > a{
+                                .img-wrap{
+                                    background-color: rgba(0, 0, 0, 0.04);
+                                    > img{
+                                        width: 318px;
+                                        height: 421.344px;
+                                    }
+                                }
+                                .img-info{
+                                    padding: 16px 3px 0 0;
+                                    > p{
+                                        font-size: 14px;
+                                        font-weight: 500;
+                                        line-height: 16px;
+                                        padding:  0 0 15px 0;
+                                        color: #000;
+                                    }
+                                    .price{
+                                        display: flex;
+                                        align-items: center;
+                                        justify-content: space-between;
+                                        > strong{
+                                            color: #000;
+                                            font-weight: 700;
+                                            font-size: 16px;
+                                        }
+                                        > span{
+                                            font-size: 16px;
+                                            color: rgb(250, 85, 0);
+                                            line-height: 17px;
+                                            font-weight: 600;
+                                        }
+                                    }
+                                }
+
+                            }
+                        }
+                    }
+                }
+           } 
+
+
+           .content3{
+            width: 100%;
+            padding:  0 0 120px 0;
+            border-bottom:1px solid rgb(233, 233, 233) ;
+
+            .title3{
+                width: 100%;
+                text-align: center;
+                > h3{
+                    font-size: 38px;
+                    line-height: 40px;
+                    color: #000;
+                    font-weight: 300;
+                }
+                > p{
+                    color: rgb(157, 157, 157);
+                    font-size: 16px;
+                    line-height: 20px;
+                    padding: 10px 0 20px 0;
+                }
+            }
+            .best-item-wrap{
+                display: flex;
+                justify-content: space-between;
+                width: 100%;
+                .rank1{
+                    width: 429.500px;
+                    margin: 0 15px 0 0;
+                    height: 830px;
+                    > a{
+                        .product{
+                            // transform: translateY(-15.5px);
+                            position: relative;
+                            > span{
+                                background-color: rgb(0, 0, 0);
+                                color: #fff;
+                                font-size: 24px;
+                                width: 40px;
+                                height: 40px;
+                                display: inline-flex;
+                                align-items: center;
+                                justify-content: center;
+                                position: absolute;
+                                z-index: 3;
+                                top: 0;
+                                left: 0;
+                            }
+    
+                            .img-b{
+                                width: 428px;
+                                height: 572.188px;
+                                > img{
+                                    width: 428px;
+                                    height: 572.188px;
+                                }
+                            }
+                            .item-b{
+                                padding: 16px 10px 118px 0 ;
+                                .name{
+                                    font-size: 14px;
+                                    line-height: 16px;
+                                    color: #000;
+                                    font-weight: 500;
+                                }
+    
+                                .info{
+                                    margin-top: 7px;
+                                    font-size: 12px;
+                                    color: rgb(123, 123, 123);
+                                    line-height: 16px;
+                                }
+                                .price-b{
+                                    margin-top: 14px;
+                                    display: flex;
+                                    align-items: center;
+                                    justify-content: space-between;
+                                    .price{
+                                        width: 100%;
+                                        display: flex;
+                                        justify-content: flex-start;
+                                        height: 23px;
+                                        .dis-price{
+                                            font-size: 16px;
+                                            color: #333;
+                                            font-weight: 600;
+                                            margin-right: 4px;
+                                           
+                                        }
+                                        .base-price{
+                                            margin: 3px 0 0 0;
+                                            font-size: 12px;
+                                            color: #aaa;
+                                            text-decoration: line-through;
+                                        }
+                                        .discount1{
+                                            margin: 0 0 0 290px;    
+                                            color: #ff4000;
+                                            font-size: 16px;
+                                            font-weight: 600;
+                                        }
+                                    }
+                                }
+                                > span{
+                                    width: 40px;    
+                                    height: 18px;
+                                    background-color: #fa5500;
+                                    color: #fff;
+                                    padding: 2px 5px;
+                                    font-size: 11px;
+                                    margin: 0 3px 0 0 ;
+                                }
+                                .reserve{
+                                    width: 40px;    
+                                    height: 18px;
+                                    background-color: #000;
+                                    color: #fff;
+                                    padding: 2px 5px;
+                                    font-size: 11px;
+                                }
+                                
+                            }
+                        }
+                    }
+
+                    .btn-wrap{
+                        display: flex;
+
+                        > button{
+                            width: 160px;
+                            border: 1px solid #000;
+                            background-color: #fff;
+                            height: 46px;
+                            margin: 0 1px 0 0;
+                        }
+                        .btn2{
+                            border: 1px solid rgb(217, 217, 217);
+                            color: rgb(157, 157, 157);
+
+                            &.on{
+                                border: 1px solid #000;
+                                color: #000;
+
+                            }
+                        }
+
+                    }
+                }
+                .rank-an{
+                    width: 896.500px;
+                    height: 830px;
+                    .rank-row1{
+                        &:first-child{
+                            padding: 0 0 55px 0;
+
+                        }
+                        .row1-content{
+                            display: flex;
+                            align-items: center;
+                            justify-content: space-between;
+                            flex-flow: row wrap;
+                            li{
+                                width: 206px;
+                                padding: 0 0 30px 0 ;
+                                > a{
+                                    .rank-img{
+                                        width: 206px;
+                                        position: relative;
+                                        > span{
+                                            background-color: rgb(0, 0, 0);
+                                            color: #fff;
+                                            font-size: 24px;
+                                            width: 40px;
+                                            height: 40px;
+                                            display: inline-flex;
+                                            align-items: center;
+                                            justify-content: center;
+                                            position: absolute;
+                                            z-index: 3;
+                                            top: 0;
+                                            left: 0;
+                                        }
+                                        > img{
+                                            width: 206px;
+                                            height: 275.391px;
+                                        }
+                                    }
+           
+                                    .rank-info{
+                                        width:100%;
+                                        height: 109px;
+                                        padding: 16px 10px 0 0 ;
+                                        p{
+                                            &:nth-child(1){
+                                                font-size: 14px;
+                                                line-height: 16px;
+                                                color: #000;
+                                                font-weight: 600;
+                                                margin-bottom:12px ;
+                                            }
+                                            &:nth-child(2){
+                                                font-size: 12px;
+                                                line-height: 16px;
+                                                color: rgb(123, 123, 123);
+                                                font-weight: 600;
+                                                margin-bottom: 15px;
+                                            }
+                                        }
+                            
+                                        .price-b{
+                                            display: flex;
+                                            align-items: center;
+                                            justify-content: space-between;
+                                            .price{
+                                                width: 100%;
+                                                display: flex;
+                                                justify-content: flex-start;
+                                                height: 23px;
+                                                .dis-price{
+                                                    font-size: 16px;
+                                                    color: #333;
+                                                    font-weight: 600;
+                                                    margin-right: 4px;
+                                                   
+                                                }
+                                                .base-price{
+                                                    margin: 3px 0 0 0;
+                                                    font-size: 12px;
+                                                    color: #aaa;
+                                                    text-decoration: line-through;
+                                                }
+                                                .discount{
+                                                    margin: 0 0 0 80px;    
+                                                    color: #ff4000;
+                                                    font-size: 16px;
+                                                    font-weight: 600;
+                                                }
+    
+                                            }
+    
+                                        }
+                                        > span{
+                                            width: 40px;    
+                                            height: 18px;
+                                            background-color: #fa5500;
+                                            color: #fff;
+                                            padding: 2px 5px;
+                                            font-size: 11px;
+                                            margin: 0 3px 0 0 ;
+                                        }
+                                        .reserve{
+                                            width: 40px;    
+                                            height: 18px;
+                                            background-color: #000;
+                                            color: #fff;
+                                            padding: 2px 5px;
+                                            font-size: 11px;
+                                        }
+                                    }
+                                }
+
+                            }
+                        }
+                    }
+                }
+            }
+           }
+           .content4{
+            width: 100%;
+            .sort-btn-wrap{
+
+                .btn-cate-wrap{
+                    display: flex;
+                    align-items: center;
+                    justify-content: flex-start;
+                    height: 76px;
+                   
+                    .btn-cate{
+                        margin: 0 6px 0 0;
+                        height: 36px;
+                        border: 1px solid rgb(233, 233, 233);
+                        background-color: #fff;
+                        padding: 0 16px;
+                        border-radius: 36px;
+                        font-size: 13px;
+                        font-weight: 500;
+                        line-height: 16px;
+                        color: rgb(123, 123, 123);
+                        &.on{
+                            color:rgb(250, 85, 0);
+                            border: 1px solid rgb(254, 221, 204); 
+                        }
+                    }
+                }
+                .sort-wrap{
+                    margin: 0 0 10px 0;
+                    display: flex;
+                    align-items: center;
+                    justify-content: space-between;
+                    height: 40px;
+                    .input-wrap{
+                        label{
+                            font-size: 13px;
+                            color: rgb(85, 85, 85);
+                      
+                            input{
+                                width: 20px;
+                                height: 20px;
+                                appearance: none;
+                               transform: translateY(-2.5px);
+                                background: #fff url(../../../../../public/img/sub_new/icon-check-box.svg) no-repeat 50% 50%;
+                                background-size: 20px 20px;
+                                &.on{
+                                    background: url(../../../../../public/img/sub_new/icon-check-box-blaxk.svg) ;
+
+                                }
+                            }
+                        }
+                    }
+
+                    > a{
+                        display: block;
+                        > span{
+                            font-size: 13px;
+                            line-height: 19px;
+                            color: rgb(85, 85, 85);
+                            > img{
+                                width: 16px;
+                                height: 16px;
+                                transform: translateY(-2px);
+                            }
+                        }
+                    }
+                }
+            }
+            .product-list-wrap{
+                width: 100%;
+                        &:first-child{
+                            padding: 0 0 55px 0;
+
+                        }
+                        .p-row1{
+                            width: 100%;
+                            padding: 0 0 40px 0;
+                            .pr-content{
+                                width: 100%;
+                                display: flex;
+                                align-items: center;
+                                justify-content: space-between;
+                                flex-flow:row wrap  ;
+                                .product-list{
+                                    width: 206px;
+                                    padding: 0 0 25px 0; 
+                                    position: relative;
+                                    > a{
+                                        .pr-img{
+                                            width: 206px;
+                                            position: relative;
+                                            .heart-img{
+                                                display: block;
+                                                width: 30px;
+                                                height: 30px;
+                                                position: absolute;
+                                                top: 8px;
+                                                right: 3%;
+                                                z-index: 3;
+                                                > img{
+                                                    width: 18px;
+                                                    height: 17px;
+                                                }
+                                            }
+                                   
+                                            > img{
+                                                width: 206px;
+                                                height: 275.391px;
+                                            }
+                                        }
+               
+                                        .pr-info{
+                                            width:100%;
+                                            height: 109px;
+                                            padding: 16px 10px 0 0 ;
+                                            p{
+                                                &:nth-child(1){
+                                                    font-size: 14px;
+                                                    line-height: 16px;
+                                                    color: #000;
+                                                    font-weight: 600;
+                                                    margin-bottom:12px ;
+                                                }
+                                                &:nth-child(2){
+                                                    font-size: 12px;
+                                                    line-height: 16px;
+                                                    color: rgb(123, 123, 123);
+                                                    font-weight: 600;
+                                                    margin-bottom: 15px;
+                                                }
+                                            }
+                                
+                                            .price-b{
+                                                display: flex;
+                                                align-items: center;
+                                                justify-content: space-between;
+                                                .price{
+                                                    width: 100%;
+                                                    display: flex;
+                                                    justify-content: flex-start;
+                                                    height: 23px;
+                                                    .dis-price{
+                                                        font-size: 16px;
+                                                        color: #333;
+                                                        font-weight: 600;
+                                                        margin-right: 4px;
+                                                       
+                                                    }
+                                                       .base-price{
+                                                        margin: 3px 0 0 0;
+                                                        font-size: 12px;
+                                                        color: #aaa;
+                                                        text-decoration: line-through;
+                                                    }
+                                                    .discount{
+                                                        margin: 0 0 0 70px;    
+                                                        color: #ff4000;
+                                                        font-size: 16px;
+                                                        font-weight: 600;
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }   
+
+                                }
+                            }
+                        }
+
+            }
+                
+           }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+#viewed{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    box-shadow: 0 8px 10px 0;
+    background-color:#000;
+    position: fixed;
+    bottom: 80px;
+    right: 25px;
+    z-index: 100;
+    transition: all 0.3s ease-in-out;
+    .viewed-a{
+        cursor: pointer;
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 10px;
+        img{
+            width: 24px;
+            height: 24px;
+        }
+    }
+}

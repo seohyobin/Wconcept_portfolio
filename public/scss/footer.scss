@@ -1,0 +1,256 @@
+
+    #footer{
+        width: 100%;
+        padding: 0 0 40px 0;
+        .container{
+            width: 100%;
+            .gap{
+                .content{
+                    width: 100%;
+                    max-width: 1240px;
+                    margin: 0 auto;
+                 
+                    .img-top-box{
+                        padding: 100px 0 100px 0;
+                        .img-ul{
+                            width: 100%;
+                            display: flex;
+                            align-items: center;
+                            justify-content: center;
+                            .img{
+
+                            }
+                        }
+                    }
+                    .wrap-wrap{
+                        display: flex;
+                        .middle-box-right{
+                            width: 590px;
+                            padding: 0 80px 0 0;
+                            .right-btn-wrap{
+                               width: 100%;
+                                height: 53px;
+                                border-bottom:2px solid #000 ;
+                                display: flex;
+                                align-items: center;
+                                justify-content: flex-start;
+                                margin: 0 0 20px 0;
+                                .btn1{
+                                    font-size: 22px;
+                                    padding: 0 33px 20px 0 ;
+                                    border: 0;
+                                    background: none;
+                                    text-transform: uppercase;
+                                }
+                                .btn2{
+                                    font-size: 22px;
+                                    padding: 0 0 20px 33px;
+                                    border: 0;
+                                    background: none;
+                                }   
+                            }
+                            .new-list-wrap{
+                                width: 100%;
+                                > li{
+                                    padding: 0 0 0 20px;   
+                                    width: 100%;
+                                    height: 21px;
+                                    margin-bottom: 12px;
+                                    display: flex;
+                                    align-items: center;
+                                    justify-content:space-between;
+                                    > a{
+                                        font-size: 14px;
+                                        color: #000;
+                                    }
+                                    > span{
+                                        font-size: 14px;
+                                        color:rgba(0,0,0,0.7);
+                                    }
+                                }
+                            }
+                            .event-list-wrap{
+                                width: 100%;
+                                display: none;
+                                > li{   
+                                    width: 100%;
+                                    height: 21px;
+                                    margin-bottom: 12px;
+                                    display: flex;
+                                    align-items: center;
+                                    justify-content:space-between;
+                                    > a{
+                                        font-size: 14px;
+                                        color: #000;
+                                    }
+                                    > span{
+                                        font-size: 14px;
+                                        color:rgba(0,0,0,0.7);
+                                    }
+                                }
+                            }   
+                        }
+                        .middle-box-left{
+                            width: 590px;
+                            padding: 45px 60px;
+                            .help{
+                                width: 100%;
+                                height: 60px;
+                                > span{
+                                    font-size: 22px;
+                                    color: #000;
+                                }
+                                > strong{
+                                    font-size: 42px;
+                                    font-weight: 600;
+                                    margin-left: 40px;
+                                    color: #000;
+                                }
+                            }
+                            
+                            .customer{
+                                width: 100%;
+                                margin: 0 0 50px 0;
+                                .p1{
+                                    font-size: 14px;
+                                    color: #000;
+                                }
+                                .p2{
+                                    font-size: 14px;
+                                    color: #000;
+                                    line-height: 24px;
+                                }
+                            }
+                            .middle-bottom-wrap{
+                                display: flex;
+                                width: 100%;
+                                align-items: center;
+                                justify-content: space-between;
+                                .middle-btn-wrap{
+                                    
+                                    .faq{
+                                        width: 93px;
+                                        height: 36px;
+                                        border: 1px solid #000;
+                                        margin-right: 9px;
+                                        background: none;
+                                    }
+                                    .ques1{
+                                        width: 93px;
+                                        height: 36px;
+                                        border: 1px solid #000;
+                                        background: none;
+
+                                    }
+                                }
+                                .icon-wrap{
+                                    display: flex;
+                                    align-items: center;
+                                    justify-content: space-around;
+                                    height: 31px;
+                                    > a{
+                                        display: inline-flex;
+                                        align-items: center;
+                                        justify-content: center;
+                                        margin-right:10px ;
+                                        width:31px;
+                                        height: 31px;
+                                        border-radius: 50%;
+                                        background-color: rgb(221, 221, 221);
+                                        i{
+                                            
+                                            font-size: 20px;
+                                        } 
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+
+                }
+                .nav-footer{
+                    margin-top: 70px;
+                    width: 100%;
+                    background-color: #848484;
+                    height: 57px;
+                    .nav-wrap{
+                        max-width:1240px;
+                        margin: 0 auto;
+                        display: flex;
+                        height: 57px;
+                        align-items: center;
+                        justify-content: space-evenly;
+                     .nav-list{
+                        padding: 0 28px;
+                        > a{
+                            font-size: 14px;
+                            font-weight: 600;
+                            color: #fff;
+                            line-height: 57px;
+                        }
+                     }   
+                    }
+                }
+                .footer-bottom{
+                    padding: 40px 0 0 0;
+                    width: 100%;
+                 
+                    max-width: 1240px;
+                    margin: 0 auto;
+                    display: flex;
+                    .copyright-left{
+                        width: 920px;
+                        height: 62px;
+                        
+                        font-size: 12px;
+                        color: #666;
+                        line-height: 20px;
+                        > a{
+                            margin: 0 0 0 5px;
+                            font-size: 10px;
+                            color: #666;
+                            width: 95px;
+                            height: 23px;
+                            border: 1px solid #666;
+                            padding: 2px 8px;
+                           
+                        }
+                    }
+                    .aside-right{
+                        width: 320px;
+                        border-left:1px solid #ddd;
+                        padding-left:15px;
+                     > h3{
+                        font-size: 12px;
+                        font-weight: 600;
+                        color: #333;
+                        margin-bottom:10px;
+                     }
+                     > p{
+                        font-size: 12px;
+                        font-weight: 400;
+                        color: #666;
+                        margin-bottom:14px;
+                        letter-spacing: -0.5px;
+                     }  
+                     > span{
+                        display: block;
+                        font-size: 11px;
+                        font-weight: 400;
+                        color: #666;
+                        letter-spacing: -0.5px;
+                        margin:0 0 5px 0 ;
+                     } 
+                     > a{
+                        width: 110px;
+                        height: 22px;
+                        border: 1px solid #666;
+                        font-size: 11px;
+                        padding: 2px 5px;
+                     }
+                    }
+                }
+            }
+        }
+    }

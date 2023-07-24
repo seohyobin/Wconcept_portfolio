@@ -1,0 +1,340 @@
+{
+    "rank1":[
+        {
+            "id":"1",
+            "rank":"1",
+            "img":"./img/sub_women/302765205_YB83472.jpg",
+            "brand":"Amour moier",
+            "desc":"포켓 하프 퍼프 블라우스+셔링 스커트 화이트 amr1606",
+            "basePrice":162900,
+            "disPrice":181000,
+            "discount":"10%",
+            "rate":"4.9",
+            "saved":"(66)",
+            "review":"6,387",
+            "status":"뉴시즌", "reserve":"예약상품"
+            }
+
+           
+
+    ],
+    "rank2":[
+        {
+            "id":"2",
+            "rank":"2",
+            "img":"./img/sub_women/301720010.jpg",
+            "brand":"Fabricology",
+            "desc":"Stripe Half Sleeve Shirt_3color",
+            "basePrice":76500,
+            "disPrice":85000,
+            "discount":"10%",
+            "rate":"4.9",
+            "saved":"(385)",
+            "review":"4,910", "reserve":"예약상품",
+            "status":""},
+              
+            {
+            "id":"3",
+            "rank":"3",
+            "img":"./img/sub_women/301945124_CL97149.jpg",
+            "brand":"CITYBREEZE",
+            "desc":"링클프리 오버핏 셔츠_4COLOR",
+            "basePrice":39000,
+            "disPrice":79000,
+            "discount":"51%",
+            "rate":"4.9",
+            "saved":"2,325",
+            "review":"9,999+",
+            "status":""},
+            {
+            "id":"4",
+            "rank":"4",
+            "img":"./img/sub_women/302639268_HG35867.jpg",
+            "brand":"THOMAS MORE",
+            "desc":"TD5-SH07 페이퍼셔츠 ",
+            "basePrice":59700,
+            "disPrice":"",
+            "rate":"5.0",
+            "saved":"(719)",
+            "review":"2,148",
+            "status":"뉴시즌", "reserve":"예약상품"
+            },
+
+              
+            {
+            "id":"5",
+            "rank":"5",
+            "img":"./img/sub_women/302212213_QO51816.jpg",
+            "brand":"LENINA",
+            "desc":"SHANA embroidered shirt_white",
+            "basePrice":153000,
+            "disPrice":"",
+            "rate":"4.8",
+            "saved":"(293)",
+            "review":"4,324",
+            "status":"뉴시즌", "reserve":"예약상품"
+            },
+
+            {
+            "id":"6",
+            "rank":"6",
+            "img":"./img/sub_women/302935627_FH25069.jpg",
+            "brand":"ORE",
+            "desc":"Birkin Shirts_White",
+            "basePrice":142000,
+            "disPrice":"",
+            "rate":"5.0",
+            "saved":"(14)",
+            "review":"447",
+            "status":"뉴시즌"
+            },
+
+            {
+            "id":"7",
+            "rank":"7",
+            "img":"./img/sub_women/302935489_LD91608.jpg",
+            "brand":"LENINA",
+            "desc":"ELSY embroidery frill neck shirt_2colors",
+            "basePrice":153000,
+            "disPrice":"",
+            "rate":"4.9",
+            "saved":"(16)",
+            "review":"1,082",
+            "status":"뉴시즌", "reserve":"예약상품"
+            },
+
+            {
+                "id":"379",
+                "rank":"8",
+                "img":"./img/sub_women/302628348_WY37962.jpg",
+                "brand":"DEPOUND",
+                "desc":"town bag (mini-cross) - herringbone ivory",
+                "basePrice":158000,
+                "disPrice":"",
+                "status":"뉴시즌",
+                "reserve":"",
+                "rate":  "4.8",
+                "saved": "(45)",
+                "review":"2,300"
+                },
+            {
+                "id":"9",
+                "rank":"9",
+                "img":"./img/sub_women/301494875_QP53627.jpg",
+                "brand":"CITYBREEZE",
+                "desc":"링클 프리 베이직 셔츠_11COLORS",
+                "basePrice":58650,
+                "disPrice":69000,
+                "discount":"15%",
+                "rate":"4.9",
+                "saved":"(5,270)",
+                "review":"9,999+",
+                "status":"뉴시즌", "reserve":"예약상품"
+                }
+              
+           
+    ]
+    ,"rank3":[
+        {
+            "id":"10",
+            "img":"./img/sub_women/302900718_SS83872.jpg",
+            "brand":"OVEOF",
+            "desc":"masella volume blouse white",
+            "basePrice":116000,
+            "disPrice":"",
+            "rate":"5.0",
+            "saved":"(20)",
+            "review":"1,133",
+            "status":"뉴시즌",
+            "reserve":"예약상품"
+            }
+
+
+           
+    ],
+    "rank4":[
+
+
+            {
+            "id":"11",
+            "img":"./img/sub_women/302803022_EQ87312.jpg",
+            "brand":"EIGHT DAYS A WEEK",
+            "desc":"반팔타이블라우스 핑크베이지 AD128",
+            "basePrice":75600,
+            "disPrice":84000,
+            "discount":"10%",
+            "rate":"5.0",
+            "saved":"(34)",
+            "review":"1,665",
+            "status":"뉴시즌"
+            },
+
+            {
+            "id":"12",
+            "img":"./img/sub_women/302641177_GV37954.jpg",
+            "brand":"ouie",
+            "desc":"더블 버튼 하프 트위드 블라우스자켓 블랙 OU1058",
+            "basePrice":87200,
+            "disPrice":109000,
+            "discount":"20%",
+            "rate":"4.9",
+            "saved":"(116)",
+            "review":"3,146",
+            "status":"뉴시즌"
+            },
+
+            {
+            "id":"13",
+            "img":"./img/sub_women/302908937_HU84796.jpg",
+            "brand":"NOTHING WRITTEN",
+            "desc":"Pieve oversized shirt ",
+            "basePrice":169000,
+            "disPrice":"",
+            "rate":"5.0",
+            "saved":"(5)",
+            "review":"1,335",
+            "status":"뉴시즌"
+            },
+
+            {
+            "id":"14",
+            "img":"./img/sub_women/302306788_GG20389.jpg",
+            "brand":"CITYBREEZE",
+            "desc":"링클 프리 반팔 크롭 셔츠_WHITE",
+            "basePrice":59000,
+            "disPrice":47200,
+            "discount":"20%",
+            "rate":"5.0",
+            "saved":"(32)",
+            "review":"1,258",
+            "status":"뉴시즌"
+            },
+
+            
+            {
+            "id":"15",
+            "img":"./img/sub_women/302764780_OT51038.jpg",
+            "brand":"Amour moier",
+            "desc":"레이온 카라 셔츠 아이보리 amr1577",
+            "basePrice":84000,
+            "disPrice":75600,
+            "discount":"10%",
+            "rate":"4.9",
+            "saved":"(37)",
+            "review":"2,130",
+            "status":"뉴시즌"
+            },
+
+            {
+            "id":"16",
+            "img":"./img/sub_women/302862379_JH75509.jpg",
+            "brand":"ORE",
+            "desc":"Summer Linen Shirts_White",
+            "basePrice":146000 ,
+            "disPrice":"",
+            "rate":"4.9",
+            "saved":"(15)",
+            "review":"887",
+            "status":"뉴시즌"
+            },
+
+            {
+            "id":"17",
+            "img":"./img/sub_women/301085931_XS63077.jpg",
+            "brand":"ouie",
+            "desc":"하프 슬리브 퍼프 블라우스 6컬러 ouie326",
+            "disPrice":71200,
+            "basePrice":89000,
+            "discount":"20%",
+            "rate":"4.9",
+            "saved":"(1,03",
+            "review":"5,380",
+            "status":"뉴시즌"
+            },
+
+            {
+            "id":"18",
+            "img":"./img/sub_women/302866795_TF68168.jpg",
+            "brand":"LENINA",
+            "desc":"NALINI daily shirt_2colors",
+            "basePrice":206000 ,
+            "disPrice":"",
+            "rate":"4.9",
+            "saved":"(12)",
+            "review":"1,315",
+            "status":"뉴시즌"
+            }
+    ],
+    "new1":[
+        {
+            "id":"190",    
+            "img":"./img/sub_beauty/302199671_IC84592.jpg",
+            "brand":"JAVIN DE SEOUL",
+            "desc":"[듀오세트]윙크 아이 쉐이드 프라이머 10종 택2",
+            "disPrice":30400,
+            "basePrice":32000,
+            "discount":"5%",
+            "rate":"4.9","status":"뉴시즌","reserve":"예약상품",
+            "saved":"(395)",
+            "review":"443"
+            },
+            {
+                "id":"82",
+                "img":"./img/sub_women/302809941_LU96126.jpg",
+                "brand":"NILBY P",
+                "desc":"",
+                "disPrice":107390,
+                "basePrice":119000,
+                "discount":"10%",
+                "rate":"5.0",
+                "saved":"(8)",
+                "reeview":"212",
+                "reserve":"",
+                "status":"뉴시즌"
+                },
+              {
+                "id":"281",    
+                "img":"./img/sub_life/300488168.jpg",
+                "brand":"Wpc.",
+                "desc":"wpc우산 하트&amp;보더 미니 5단 우양산 302-126",
+                "disPrice":28350,
+                "basePrice":35000,
+                "discount":"19%",
+                "rate":"4.9",
+                "review":"(107)",
+                "saved":"1,186"
+                },
+                {
+                    "id":"173",
+                    "img":"./img/sub_men/301736428.jpg",
+                    "brand":"THOMAS MORE",
+                    "desc":"[단독] 하프 사커 티 - 데이지",
+                    "disPrice":28820,
+                     "basePrice":35700,
+                     "discount":"19%",
+                     "rate":"4.9",
+                     "review":"(118)",
+                     "saved":"847"
+                     }
+                 
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

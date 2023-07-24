@@ -1,0 +1,2577 @@
+<ul>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('303034476', this, '152100.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','169,000','152,100','Sarno 2way Sheer Shirts  - Griege Beige','303034476','111903','SATUR WOMAN');"></button>
+                        <a href="/Product/303034476">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/76/303034476_VG64722.jpg" alt="셔츠 - 세터 우먼 (SATUR WOMAN) - Sarno 2way Sheer Shirts  - Griege Beige">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">SATUR WOMAN</div>
+                                        <div class="front">[07/07 예약배송]</div>
+                                    <div class="product ellipsis multiline">Sarno 2way Sheer Shirts  - Griege Beige</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">152,100</span>
+                                        <span class="base_price">169,000</span>
+                                        <span class="discount_rate">10%</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>1</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+                                                    <span class="make_reservation">예약상품</span>
+
+                                            </p>
+                                            <p>
+                                                    <span class="general_info">쿠폰</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('303034552', this, '152100.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','169,000','152,100','Sarno 2way Sheer Shirts - Sable Black','303034552','111903','SATUR WOMAN');"></button>
+                        <a href="/Product/303034552">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/52/303034552_XQ62449.jpg" alt="셔츠 - 세터 우먼 (SATUR WOMAN) - Sarno 2way Sheer Shirts - Sable Black">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">SATUR WOMAN</div>
+                                        <div class="front">[07/07 예약배송]</div>
+                                    <div class="product ellipsis multiline">Sarno 2way Sheer Shirts - Sable Black</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">152,100</span>
+                                        <span class="base_price">169,000</span>
+                                        <span class="discount_rate">10%</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>1</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+                                                    <span class="make_reservation">예약상품</span>
+
+                                            </p>
+                                            <p>
+                                                    <span class="general_info">쿠폰</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('301720010', this, '76500.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','10.0','85,000','76,500','Stripe Half Sleeve Shirt_3color','301720010','106259','Fabricology');"></button>
+                        <a href="/Product/301720010">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/10/301720010.jpg" alt="셔츠 - 패브릭컬러지 (Fabricology) - Stripe Half Sleeve Shirt_3color">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">Fabricology</div>
+                                        <div class="front">[단독 세일][~6/20까지!] | [1차: 06/30, 2차: 07/04 예약배송]</div>
+                                    <div class="product ellipsis multiline">Stripe Half Sleeve Shirt_3color</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">76,500</span>
+                                        <span class="base_price">85,000</span>
+                                        <span class="discount_rate">10%</span>
+                                </div>
+                                    <div class="react">
+                                            <div class="review_count">
+                                                <span><em>4.9</em>(385)</span>
+                                            </div>
+
+                                            <div class="like_count">
+                                                <span>4,911</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+                                                    <span class="make_reservation">예약상품</span>
+
+                                            </p>
+                                            <p>
+                                                    <span class="general_info">단독</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('303005727', this, '283100.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','5.00','298,000','283,100','23SS MATISSE CROCHET SHIRKET','303005727','112035','THEILMA');"></button>
+                        <a href="/Product/303005727">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/27/303005727_FW30886.jpg" alt="셔츠 - 더일마 (THEILMA) - 23SS MATISSE CROCHET SHIRKET">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">THEILMA</div>
+                                        <div class="front">[NEW LAUNCHING][PRE-OPEN]</div>
+                                    <div class="product ellipsis multiline">23SS MATISSE CROCHET SHIRKET</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">283,100</span>
+                                        <span class="base_price">298,000</span>
+                                        <span class="discount_rate">5%</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>1</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302986517', this, '59000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN,WOMEN','APPAREL,ACTIVE','셔츠,애슬레저','셔츠,기타애슬레저','0','59,000','59,000','마이크로 플리터드 오버사이즈 버튼 다운 셔츠_NATURAL','302986517','111758','MONOB');"></button>
+                        <a href="/Product/302986517">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/17/302986517_YS64958.jpg" alt="셔츠,애슬레저 - 모노비 (MONOB) - 마이크로 플리터드 오버사이즈 버튼 다운 셔츠_NATURAL">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">MONOB</div>
+                                    <div class="product ellipsis multiline">마이크로 플리터드 오버사이즈 버튼 다운 셔츠_NATURAL</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">59,000</span>
+                                </div>
+                                <div class="labels">
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('303004805', this, '119000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','119,000','119,000','Breez Shirt (White)','303004805','110056','sienne');"></button>
+                        <a href="/Product/303004805">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/05/303004805_YX58518.jpg" alt="셔츠 - 시엔느 (sienne) - Breez Shirt (White)">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">sienne</div>
+                                        <div class="front">[23HS] | [바로배송]</div>
+                                    <div class="product ellipsis multiline">Breez Shirt (White)</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">119,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>12</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('303000624', this, '68000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN,WOMEN','APPAREL,APPAREL','셔츠,티셔츠','셔츠,반팔','0','68,000','68,000','Port de soller / 3 color','303000624','104560','MATT AND MEL');"></button>
+                        <a href="/Product/303000624">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/24/303000624_DF34573.jpg" alt="셔츠,티셔츠 - 멧앤멜 (MATT AND MEL) - Port de soller / 3 color">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">MATT AND MEL</div>
+                                    <div class="product ellipsis multiline">Port de soller / 3 color</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">68,000</span>
+                                </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('303004637', this, '68000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN,WOMEN','APPAREL,APPAREL','셔츠,티셔츠','셔츠,반팔','0','68,000','68,000','Malloduck / 2 color','303004637','104560','MATT AND MEL');"></button>
+                        <a href="/Product/303004637">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/37/303004637_PV44430.jpg" alt="셔츠,티셔츠 - 멧앤멜 (MATT AND MEL) - Malloduck / 2 color">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">MATT AND MEL</div>
+                                    <div class="product ellipsis multiline">Malloduck / 2 color</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">68,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>3</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('303004638', this, '68000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN,WOMEN','APPAREL,APPAREL','셔츠,티셔츠','셔츠,반팔','0','68,000','68,000','Malloduck / w_3 color','303004638','104560','MATT AND MEL');"></button>
+                        <a href="/Product/303004638">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/38/303004638_YJ25747.jpg" alt="셔츠,티셔츠 - 멧앤멜 (MATT AND MEL) - Malloduck / w_3 color">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">MATT AND MEL</div>
+                                    <div class="product ellipsis multiline">Malloduck / w_3 color</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">68,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>2</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302963188', this, '133200.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','10.0','148,000','133,200','Kikka Flower Shirts in Ivory','302963188','104277','LO61');"></button>
+                        <a href="/Product/302963188">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/88/302963188_BG64748.jpg" alt="셔츠 - 엘오육일 (LO61) - Kikka Flower Shirts in Ivory">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">LO61</div>
+                                        <div class="front">[23SUMMER]</div>
+                                    <div class="product ellipsis multiline">Kikka Flower Shirts in Ivory</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">133,200</span>
+                                        <span class="base_price">148,000</span>
+                                        <span class="discount_rate">10%</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>11</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302976290', this, '135150.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','15.00','159,000','135,150','Marine String Shirt VC2335BL901M','302976290','104500','VOCAVACA');"></button>
+                        <a href="/Product/302976290">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/90/302976290_IB28108.jpg" alt="셔츠 - 보카바카 (VOCAVACA) - Marine String Shirt VC2335BL901M">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">VOCAVACA</div>
+                                        <div class="front">[단독CAPSULE][~26일까지!]</div>
+                                    <div class="product ellipsis multiline">Marine String Shirt VC2335BL901M</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">135,150</span>
+                                        <span class="base_price">159,000</span>
+                                        <span class="discount_rate">15%</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>3</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                            <p>
+                                                    <span class="general_info">단독</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('303005517', this, '96000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','10.280373831775700934579439250','107,000','96,000','Half Sleeved Hood Shirt - Ivory','303005517','110414','Laminez');"></button>
+                        <a href="/Product/303005517">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/17/303005517_JK16406.jpg" alt="셔츠 - 라미네즈 (Laminez) - Half Sleeved Hood Shirt - Ivory">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">Laminez</div>
+                                    <div class="product ellipsis multiline">Half Sleeved Hood Shirt - Ivory</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">96,000</span>
+                                        <span class="base_price">107,000</span>
+                                        <span class="discount_rate">10%</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>1</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('303005518', this, '96000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','10.280373831775700934579439250','107,000','96,000','Half Sleeved Hood Shirt - Navy','303005518','110414','Laminez');"></button>
+                        <a href="/Product/303005518">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/18/303005518_QX75280.jpg" alt="셔츠 - 라미네즈 (Laminez) - Half Sleeved Hood Shirt - Navy">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">Laminez</div>
+                                    <div class="product ellipsis multiline">Half Sleeved Hood Shirt - Navy</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">96,000</span>
+                                        <span class="base_price">107,000</span>
+                                        <span class="discount_rate">10%</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>1</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302963179', this, '133200.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','10.0','148,000','133,200','Kikka Flower Shirts in Black','302963179','104277','LO61');"></button>
+                        <a href="/Product/302963179">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/79/302963179_AO67683.jpg" alt="셔츠 - 엘오육일 (LO61) - Kikka Flower Shirts in Black">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">LO61</div>
+                                        <div class="front">[23SUMMER]</div>
+                                    <div class="product ellipsis multiline">Kikka Flower Shirts in Black</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">133,200</span>
+                                        <span class="base_price">148,000</span>
+                                        <span class="discount_rate">10%</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>5</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('303005327', this, '152100.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','10.0','169,000','152,100','데님 투웨이 랩 셔츠 - BLUE','303005327','107679','real me another me');"></button>
+                        <a href="/Product/303005327">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/27/303005327_IF14799.jpg" alt="셔츠 - 리얼미어나더미 (real me another me) - 데님 투웨이 랩 셔츠 - BLUE">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">real me another me</div>
+                                    <div class="product ellipsis multiline">데님 투웨이 랩 셔츠 - BLUE</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">152,100</span>
+                                        <span class="base_price">169,000</span>
+                                        <span class="discount_rate">10%</span>
+                                </div>
+                                <div class="labels">
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('303005329', this, '152100.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','10.0','169,000','152,100','크링클 투웨이 랩 셔츠 - NAVY','303005329','107679','real me another me');"></button>
+                        <a href="/Product/303005329">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/29/303005329_KP88020.jpg" alt="셔츠 - 리얼미어나더미 (real me another me) - 크링클 투웨이 랩 셔츠 - NAVY">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">real me another me</div>
+                                    <div class="product ellipsis multiline">크링클 투웨이 랩 셔츠 - NAVY</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">152,100</span>
+                                        <span class="base_price">169,000</span>
+                                        <span class="discount_rate">10%</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>1</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302997174', this, '170000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN,WOMEN','APPAREL,APPAREL','블라우스,셔츠','블라우스,셔츠','0','170,000','170,000','Jacquard Shirt_Black','302997174','111982','PARKSSY');"></button>
+                        <a href="/Product/302997174">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/74/302997174_EM93829.jpg" alt="블라우스,셔츠 - 팍시 (PARKSSY) - Jacquard Shirt_Black">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">PARKSSY</div>
+                                    <div class="product ellipsis multiline">Jacquard Shirt_Black</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">170,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>1</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302997176', this, '170000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN,WOMEN','APPAREL,APPAREL','블라우스,셔츠','블라우스,셔츠','0','170,000','170,000','Jacquard Shirt_Ivory','302997176','111982','PARKSSY');"></button>
+                        <a href="/Product/302997176">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/76/302997176_UE87722.jpg" alt="블라우스,셔츠 - 팍시 (PARKSSY) - Jacquard Shirt_Ivory">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">PARKSSY</div>
+                                    <div class="product ellipsis multiline">Jacquard Shirt_Ivory</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">170,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>2</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('303004882', this, '167000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','167,000','167,000','CLASSIC COTTON SHIRT_BLUE','303004882','100886','Maison de Ines');"></button>
+                        <a href="/Product/303004882">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/82/303004882_WJ20052.jpg" alt="셔츠 - 메종드이네스 (Maison de Ines) - CLASSIC COTTON SHIRT_BLUE">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">Maison de Ines</div>
+                                        <div class="front">[23SUMMER]</div>
+                                    <div class="product ellipsis multiline">CLASSIC COTTON SHIRT_BLUE</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">167,000</span>
+                                </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('303005335', this, '238000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','238,000','238,000','STRING CROP OUTER SHIRT_WHITE','303005335','100886','Maison de Ines');"></button>
+                        <a href="/Product/303005335">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/35/303005335_UO78175.jpg" alt="셔츠 - 메종드이네스 (Maison de Ines) - STRING CROP OUTER SHIRT_WHITE">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">Maison de Ines</div>
+                                    <div class="product ellipsis multiline">STRING CROP OUTER SHIRT_WHITE</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">238,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>1</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('303005340', this, '238000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','238,000','238,000','STRING CROP OUTER SHIRT_DEEP BROWN','303005340','100886','Maison de Ines');"></button>
+                        <a href="/Product/303005340">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/40/303005340_LU87516.jpg" alt="셔츠 - 메종드이네스 (Maison de Ines) - STRING CROP OUTER SHIRT_DEEP BROWN">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">Maison de Ines</div>
+                                    <div class="product ellipsis multiline">STRING CROP OUTER SHIRT_DEEP BROWN</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">238,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>1</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('303000779', this, '55000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN,MEN','APPAREL,APPAREL','셔츠,셔츠','셔츠,반팔','0','55,000','55,000','DTO 와펜 옥스포드 하프 셔츠_레몬','303000779','112140','DTHIRTYONE');"></button>
+                        <a href="/Product/303000779">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/79/303000779_YI59263.jpg" alt="셔츠,셔츠 - 디써티원 (DTHIRTYONE) - DTO 와펜 옥스포드 하프 셔츠_레몬">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">DTHIRTYONE</div>
+                                    <div class="product ellipsis multiline">DTO 와펜 옥스포드 하프 셔츠_레몬</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">55,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>9</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302985511', this, '118000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','118,000','118,000','Lace Cotton Shirt Cream','302985511','109094','fromwhere');"></button>
+                        <a href="/Product/302985511">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/11/302985511_WK53622.jpg" alt="셔츠 - 프롬웨얼 (fromwhere) - Lace Cotton Shirt Cream">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">fromwhere</div>
+                                    <div class="product ellipsis multiline">Lace Cotton Shirt Cream</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">118,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>6</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302986416', this, '100800.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','10.0','112,000','100,800','comos 894 unbalanced collar blouson shirt (charcoal)','302986416','104439','ourcomos');"></button>
+                        <a href="/Product/302986416">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/16/302986416_CQ94098.jpg" alt="셔츠 - 아워코모스 (ourcomos) - comos 894 unbalanced collar blouson shirt (charcoal)">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">ourcomos</div>
+                                        <div class="front">[단독오픈] | [23HOT-SUMMER]</div>
+                                    <div class="product ellipsis multiline">comos 894 unbalanced collar blouson shirt (charcoal)</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">100,800</span>
+                                        <span class="base_price">112,000</span>
+                                        <span class="discount_rate">10%</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>22</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                            <p>
+                                                    <span class="general_info">단독</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302986391', this, '98100.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','10.0','109,000','98,100','comos 888 one off shoulder layered shirt (pale blue)','302986391','104439','ourcomos');"></button>
+                        <a href="/Product/302986391">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/91/302986391_SH99468.jpg" alt="셔츠 - 아워코모스 (ourcomos) - comos 888 one off shoulder layered shirt (pale blue)">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">ourcomos</div>
+                                        <div class="front">[단독오픈] | [23HOT-SUMMER] | [06/21 예약배송]</div>
+                                    <div class="product ellipsis multiline">comos 888 one off shoulder layered shirt (pale blue)</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">98,100</span>
+                                        <span class="base_price">109,000</span>
+                                        <span class="discount_rate">10%</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>68</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+                                                    <span class="make_reservation">예약상품</span>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                            <p>
+                                                    <span class="general_info">단독</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302964703', this, '179000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','179,000','179,000','waist string crop shirt','302964703','110301','DELAROYAL');"></button>
+                        <a href="/Product/302964703">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/03/302964703_KP90966.jpg" alt="셔츠 - 드라로얄 (DELAROYAL) - waist string crop shirt">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">DELAROYAL</div>
+                                    <div class="product ellipsis multiline">waist string crop shirt</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">179,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>3</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('303000713', this, '69000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','69,000','69,000','23 SS 여성 루즈핏 반팔 셔츠 (SKY BLUE)','303000713','110921','ADHOC');"></button>
+                        <a href="/Product/303000713">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/13/303000713_GI12374.jpg" alt="셔츠 - 애드호크 (ADHOC) - 23 SS 여성 루즈핏 반팔 셔츠 (SKY BLUE)">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">ADHOC</div>
+                                    <div class="product ellipsis multiline">23 SS 여성 루즈핏 반팔 셔츠 (SKY BLUE)</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">69,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>3</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('303000712', this, '69000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','69,000','69,000','23 SS 여성 루즈핏 반팔 셔츠 (WHITE)','303000712','110921','ADHOC');"></button>
+                        <a href="/Product/303000712">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/12/303000712_GG18041.jpg" alt="셔츠 - 애드호크 (ADHOC) - 23 SS 여성 루즈핏 반팔 셔츠 (WHITE)">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">ADHOC</div>
+                                    <div class="product ellipsis multiline">23 SS 여성 루즈핏 반팔 셔츠 (WHITE)</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">69,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>3</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('303000714', this, '69000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','69,000','69,000','23 SS 여성 루즈핏 반팔 셔츠 (LT-PINK)','303000714','110921','ADHOC');"></button>
+                        <a href="/Product/303000714">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/14/303000714_HG18604.jpg" alt="셔츠 - 애드호크 (ADHOC) - 23 SS 여성 루즈핏 반팔 셔츠 (LT-PINK)">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">ADHOC</div>
+                                    <div class="product ellipsis multiline">23 SS 여성 루즈핏 반팔 셔츠 (LT-PINK)</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">69,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>4</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302985401', this, '56000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','56,000','56,000','Kaytlyn Half Shirts','302985401','104877','PANDORA.FIT');"></button>
+                        <a href="/Product/302985401">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/01/302985401_VJ75091.jpg" alt="셔츠 - 판도라핏 (PANDORA.FIT) - Kaytlyn Half Shirts">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">PANDORA.FIT</div>
+                                    <div class="product ellipsis multiline">Kaytlyn Half Shirts</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">56,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>14</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302985407', this, '49000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','49,000','49,000','Baron crop Shirts','302985407','104877','PANDORA.FIT');"></button>
+                        <a href="/Product/302985407">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/07/302985407_SQ32904.jpg" alt="셔츠 - 판도라핏 (PANDORA.FIT) - Baron crop Shirts">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">PANDORA.FIT</div>
+                                    <div class="product ellipsis multiline">Baron crop Shirts</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">49,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>16</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302980517', this, '48300.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','30.0','69,000','48,300','Loosefit Basic Double Zipper Long Sleeve Shirt_White','302980517','105610','HYBERNAT');"></button>
+                        <a href="/Product/302980517">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/17/302980517_EW32814.jpg" alt="셔츠 - 하이버넷 (HYBERNAT) - Loosefit Basic Double Zipper Long Sleeve Shirt_White">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">HYBERNAT</div>
+                                        <div class="front">[단독세일]</div>
+                                    <div class="product ellipsis multiline">Loosefit Basic Double Zipper Long Sleeve Shirt_White</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">48,300</span>
+                                        <span class="base_price">69,000</span>
+                                        <span class="discount_rate">30%</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>11</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302996881', this, '118000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','118,000','118,000','SHEER SLIM-FIT SHIRT BROWN CHECK','302996881','104922','RA VIDE');"></button>
+                        <a href="/Product/302996881">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/81/302996881_TN40740.jpg" alt="셔츠 - 라비드 (RA VIDE) - SHEER SLIM-FIT SHIRT BROWN CHECK">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">RA VIDE</div>
+                                    <div class="product ellipsis multiline">SHEER SLIM-FIT SHIRT BROWN CHECK</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">118,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>1</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302996882', this, '118000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','118,000','118,000','SHEER SLIM-FIT SHIRT SKY BLUE','302996882','104922','RA VIDE');"></button>
+                        <a href="/Product/302996882">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/82/302996882_RI96214.jpg" alt="셔츠 - 라비드 (RA VIDE) - SHEER SLIM-FIT SHIRT SKY BLUE">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">RA VIDE</div>
+                                    <div class="product ellipsis multiline">SHEER SLIM-FIT SHIRT SKY BLUE</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">118,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>2</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302996883', this, '118000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','118,000','118,000','SHEER SLIM-FIT SHIRT WHITE','302996883','104922','RA VIDE');"></button>
+                        <a href="/Product/302996883">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/83/302996883_CN20080.jpg" alt="셔츠 - 라비드 (RA VIDE) - SHEER SLIM-FIT SHIRT WHITE">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">RA VIDE</div>
+                                    <div class="product ellipsis multiline">SHEER SLIM-FIT SHIRT WHITE</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">118,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>1</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302916387', this, '236550.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','5.00','249,000','236,550','23SS UMA WRAP CROPPED SHIRT NAVY','302916387','112035','THEILMA');"></button>
+                        <a href="/Product/302916387">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/87/302916387_UH26118.jpg" alt="셔츠 - 더일마 (THEILMA) - 23SS UMA WRAP CROPPED SHIRT NAVY">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">THEILMA</div>
+                                        <div class="front">[NEW LAUNCHING][PRE-OPEN]</div>
+                                    <div class="product ellipsis multiline">23SS UMA WRAP CROPPED SHIRT NAVY</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">236,550</span>
+                                        <span class="base_price">249,000</span>
+                                        <span class="discount_rate">5%</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>38</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302968967', this, '208050.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','5.00','219,000','208,050','23SS ANNA BACK HOLE SHIRKET WHITE','302968967','112035','THEILMA');"></button>
+                        <a href="/Product/302968967">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/67/302968967_JM36012.jpg" alt="셔츠 - 더일마 (THEILMA) - 23SS ANNA BACK HOLE SHIRKET WHITE">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">THEILMA</div>
+                                        <div class="front">[NEW LAUNCHING][PRE-OPEN]</div>
+                                    <div class="product ellipsis multiline">23SS ANNA BACK HOLE SHIRKET WHITE</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">208,050</span>
+                                        <span class="base_price">219,000</span>
+                                        <span class="discount_rate">5%</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>10</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302995779', this, '79000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','79,000','79,000','[코넬X얼킨캔버스] 코튼 백 슬릿 세미크롭 셔츠_(2 colors)','302995779','110785','CORNELL');"></button>
+                        <a href="/Product/302995779">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/79/302995779_JA57816.jpg" alt="셔츠 - 코넬 (CORNELL) - [코넬X얼킨캔버스] 코튼 백 슬릿 세미크롭 셔츠_(2 colors)">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">CORNELL</div>
+                                    <div class="product ellipsis multiline">[코넬X얼킨캔버스] 코튼 백 슬릿 세미크롭 셔츠_(2 colors)</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">79,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>9</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302987665', this, '133200.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','10.0','148,000','133,200','boxy cotton pocket shirt [Italian fabric] (green check)','302987665','104966','blank03');"></button>
+                        <a href="/Product/302987665">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/65/302987665_XF84077.jpg" alt="셔츠 - 블랭크공삼 (blank03) - boxy cotton pocket shirt [Italian fabric] (green check)">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">blank03</div>
+                                        <div class="front">[23SUMMER]</div>
+                                    <div class="product ellipsis multiline">boxy cotton pocket shirt [Italian fabric] (green check)</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">133,200</span>
+                                        <span class="base_price">148,000</span>
+                                        <span class="discount_rate">10%</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>13</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302987664', this, '133200.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','10.0','148,000','133,200','boxy cotton pocket shirt [Italian fabric] (pink stripe)','302987664','104966','blank03');"></button>
+                        <a href="/Product/302987664">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/64/302987664_JO78631.jpg" alt="셔츠 - 블랭크공삼 (blank03) - boxy cotton pocket shirt [Italian fabric] (pink stripe)">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">blank03</div>
+                                        <div class="front">[23SUMMER]</div>
+                                    <div class="product ellipsis multiline">boxy cotton pocket shirt [Italian fabric] (pink stripe)</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">133,200</span>
+                                        <span class="base_price">148,000</span>
+                                        <span class="discount_rate">10%</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>9</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302987663', this, '133200.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','10.0','148,000','133,200','lace long sleeve shirt [Italian fabric] (light beige)','302987663','104966','blank03');"></button>
+                        <a href="/Product/302987663">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/63/302987663_YR95940.jpg" alt="셔츠 - 블랭크공삼 (blank03) - lace long sleeve shirt [Italian fabric] (light beige)">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">blank03</div>
+                                        <div class="front">[23SUMMER]</div>
+                                    <div class="product ellipsis multiline">lace long sleeve shirt [Italian fabric] (light beige)</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">133,200</span>
+                                        <span class="base_price">148,000</span>
+                                        <span class="discount_rate">10%</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>9</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302987190', this, '117990.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','10.0','138,000','117,990','리넨 포켓 셔츠 (2COL)','302987190','104169','Your name Here');"></button>
+                        <a href="/Product/302987190">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/90/302987190_VH41458.jpg" alt="셔츠 - 유어네임히얼 (Your name Here) - 리넨 포켓 셔츠 (2COL)">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">Your name Here</div>
+                                        <div class="front">[23HS][단독세일][~21일까지!]</div>
+                                    <div class="product ellipsis multiline">리넨 포켓 셔츠 (2COL)</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">117,990</span>
+                                        <span class="base_price">138,000</span>
+                                        <span class="discount_rate">15%</span>
+                                </div>
+                                    <div class="react">
+                                            <div class="review_count">
+                                                <span><em>5.0</em>(1)</span>
+                                            </div>
+
+                                            <div class="like_count">
+                                                <span>94</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                            <p>
+                                                    <span class="general_info">쿠폰</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302987135', this, '54000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','MEN,WOMEN','APPAREL,APPAREL','셔츠,셔츠','반팔,셔츠','0','54,000','54,000','스트라이프 린넨 셔츠(SKY BLUE)','302987135','104459','FREI');"></button>
+                        <a href="/Product/302987135">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/35/302987135_BA85741.jpg" alt="셔츠,셔츠 - 프라이 (FREI) - 스트라이프 린넨 셔츠(SKY BLUE)">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">FREI</div>
+                                    <div class="product ellipsis multiline">스트라이프 린넨 셔츠(SKY BLUE)</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">54,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>3</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302987173', this, '54000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','MEN,WOMEN','APPAREL,APPAREL','셔츠,셔츠','반팔,셔츠','0','54,000','54,000','스트라이프 린넨 셔츠(OFF WHITE)','302987173','104459','FREI');"></button>
+                        <a href="/Product/302987173">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/73/302987173_SK15823.jpg" alt="셔츠,셔츠 - 프라이 (FREI) - 스트라이프 린넨 셔츠(OFF WHITE)">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">FREI</div>
+                                    <div class="product ellipsis multiline">스트라이프 린넨 셔츠(OFF WHITE)</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">54,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>7</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302987055', this, '79000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN,WOMEN','APPAREL,APPAREL','셔츠,원피스','셔츠,셋업','0','79,000','79,000','MONICA SHIRT SET UP_PINK','302987055','112104','PINK PINEAPPLE');"></button>
+                        <a href="/Product/302987055">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/55/302987055_GN11783.jpg" alt="셔츠,원피스 - 핑크파인애플 (PINK PINEAPPLE) - MONICA SHIRT SET UP_PINK">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">PINK PINEAPPLE</div>
+                                    <div class="product ellipsis multiline">MONICA SHIRT SET UP_PINK</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">79,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>20</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302987056', this, '79000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN,WOMEN,WOMEN','APPAREL,APPAREL,APPAREL','셔츠,팬츠,원피스','셔츠,쇼츠,셋업','0','79,000','79,000','MONICA SHIRT SET UP_SKY BLUE','302987056','112104','PINK PINEAPPLE');"></button>
+                        <a href="/Product/302987056">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/56/302987056_GG49941.jpg" alt="셔츠,팬츠,원피스 - 핑크파인애플 (PINK PINEAPPLE) - MONICA SHIRT SET UP_SKY BLUE">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">PINK PINEAPPLE</div>
+                                    <div class="product ellipsis multiline">MONICA SHIRT SET UP_SKY BLUE</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">79,000</span>
+                                </div>
+                                    <div class="react">
+                                            <div class="review_count">
+                                                <span><em>5.0</em>(1)</span>
+                                            </div>
+
+                                            <div class="like_count">
+                                                <span>28</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302986752', this, '59000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','59,000','59,000','MIO COLOR SHIRT_YELLOW','302986752','112104','PINK PINEAPPLE');"></button>
+                        <a href="/Product/302986752">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/52/302986752_GO11081.jpg" alt="셔츠 - 핑크파인애플 (PINK PINEAPPLE) - MIO COLOR SHIRT_YELLOW">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">PINK PINEAPPLE</div>
+                                    <div class="product ellipsis multiline">MIO COLOR SHIRT_YELLOW</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">59,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>4</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302986111', this, '69000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','69,000','69,000','BOXY LONG SHIRT_WHITE','302986111','112104','PINK PINEAPPLE');"></button>
+                        <a href="/Product/302986111">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/11/302986111_HG24041.jpg" alt="셔츠 - 핑크파인애플 (PINK PINEAPPLE) - BOXY LONG SHIRT_WHITE">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">PINK PINEAPPLE</div>
+                                    <div class="product ellipsis multiline">BOXY LONG SHIRT_WHITE</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">69,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>1</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302986112', this, '39000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','39,000','39,000','CHECK CROPPED SHIRT_GREEN','302986112','112104','PINK PINEAPPLE');"></button>
+                        <a href="/Product/302986112">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/12/302986112_GK74411.jpg" alt="셔츠 - 핑크파인애플 (PINK PINEAPPLE) - CHECK CROPPED SHIRT_GREEN">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">PINK PINEAPPLE</div>
+                                    <div class="product ellipsis multiline">CHECK CROPPED SHIRT_GREEN</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">39,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>3</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302953084', this, '129000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN,MEN','APPAREL,APPAREL','셔츠,셔츠','셔츠,반팔','0','129,000','129,000','Elementary Pocket Big Half Shirt - White','302953084','109515','ANGLAN');"></button>
+                        <a href="/Product/302953084">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/84/302953084_WE66335.jpg" alt="셔츠,셔츠 - 앵글런 (ANGLAN) - Elementary Pocket Big Half Shirt - White">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">ANGLAN</div>
+                                    <div class="product ellipsis multiline">Elementary Pocket Big Half Shirt - White</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">129,000</span>
+                                </div>
+                                <div class="labels">
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302953086', this, '129000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN,MEN','APPAREL,APPAREL','셔츠,셔츠','셔츠,반팔','0','129,000','129,000','Elementary Pocket Big Half Shirt - Sax Blue','302953086','109515','ANGLAN');"></button>
+                        <a href="/Product/302953086">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/86/302953086_LP31424.jpg" alt="셔츠,셔츠 - 앵글런 (ANGLAN) - Elementary Pocket Big Half Shirt - Sax Blue">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">ANGLAN</div>
+                                    <div class="product ellipsis multiline">Elementary Pocket Big Half Shirt - Sax Blue</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">129,000</span>
+                                </div>
+                                <div class="labels">
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302953088', this, '129000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN,MEN','APPAREL,APPAREL','셔츠,셔츠','셔츠,반팔','0','129,000','129,000','Elementary Pocket Big Half Shirt - Sage Green','302953088','109515','ANGLAN');"></button>
+                        <a href="/Product/302953088">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/88/302953088_UC16156.jpg" alt="셔츠,셔츠 - 앵글런 (ANGLAN) - Elementary Pocket Big Half Shirt - Sage Green">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">ANGLAN</div>
+                                    <div class="product ellipsis multiline">Elementary Pocket Big Half Shirt - Sage Green</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">129,000</span>
+                                </div>
+                                <div class="labels">
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302953090', this, '129000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN,MEN','APPAREL,APPAREL','셔츠,셔츠','셔츠,반팔','0','129,000','129,000','Elementary Pocket Big Half Shirt - Sage Green','302953090','109515','ANGLAN');"></button>
+                        <a href="/Product/302953090">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/90/302953090_AS70551.jpg" alt="셔츠,셔츠 - 앵글런 (ANGLAN) - Elementary Pocket Big Half Shirt - Sage Green">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">ANGLAN</div>
+                                    <div class="product ellipsis multiline">Elementary Pocket Big Half Shirt - Sage Green</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">129,000</span>
+                                </div>
+                                <div class="labels">
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302953092', this, '129000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN,MEN','APPAREL,APPAREL','셔츠,셔츠','셔츠,반팔','0','129,000','129,000','Elementary Pocket Big Half Shirt - Indi Pink','302953092','109515','ANGLAN');"></button>
+                        <a href="/Product/302953092">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/92/302953092_GX40300.jpg" alt="셔츠,셔츠 - 앵글런 (ANGLAN) - Elementary Pocket Big Half Shirt - Indi Pink">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">ANGLAN</div>
+                                    <div class="product ellipsis multiline">Elementary Pocket Big Half Shirt - Indi Pink</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">129,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>1</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302953094', this, '129000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN,MEN','APPAREL,APPAREL','셔츠,셔츠','셔츠,반팔','0','129,000','129,000','Elementary Pocket Big Half Shirt - Dark Grey','302953094','109515','ANGLAN');"></button>
+                        <a href="/Product/302953094">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/94/302953094_XB69339.jpg" alt="셔츠,셔츠 - 앵글런 (ANGLAN) - Elementary Pocket Big Half Shirt - Dark Grey">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">ANGLAN</div>
+                                    <div class="product ellipsis multiline">Elementary Pocket Big Half Shirt - Dark Grey</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">129,000</span>
+                                </div>
+                                <div class="labels">
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302977374', this, '39000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','39,000','39,000','DAY COLOR SHIRTS','302977374','112104','PINK PINEAPPLE');"></button>
+                        <a href="/Product/302977374">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/74/302977374_KG95879.jpg" alt="셔츠 - 핑크파인애플 (PINK PINEAPPLE) - DAY COLOR SHIRTS">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">PINK PINEAPPLE</div>
+                                    <div class="product ellipsis multiline">DAY COLOR SHIRTS</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">39,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>1</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302977375', this, '39000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','39,000','39,000','WARM CHECK SHIRT','302977375','112104','PINK PINEAPPLE');"></button>
+                        <a href="/Product/302977375">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/75/302977375_GG81145.jpg" alt="셔츠 - 핑크파인애플 (PINK PINEAPPLE) - WARM CHECK SHIRT">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">PINK PINEAPPLE</div>
+                                    <div class="product ellipsis multiline">WARM CHECK SHIRT</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">39,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>11</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302969292', this, '69000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','69,000','69,000','YUNA CROPPED SHIRT_WHITE','302969292','112104','PINK PINEAPPLE');"></button>
+                        <a href="/Product/302969292">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/92/302969292_GG13204.jpg" alt="셔츠 - 핑크파인애플 (PINK PINEAPPLE) - YUNA CROPPED SHIRT_WHITE">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">PINK PINEAPPLE</div>
+                                    <div class="product ellipsis multiline">YUNA CROPPED SHIRT_WHITE</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">69,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>3</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302969293', this, '59000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','59,000','59,000','STRIPE SHIRT_PINK','302969293','112104','PINK PINEAPPLE');"></button>
+                        <a href="/Product/302969293">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/93/302969293_GH20820.jpg" alt="셔츠 - 핑크파인애플 (PINK PINEAPPLE) - STRIPE SHIRT_PINK">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">PINK PINEAPPLE</div>
+                                    <div class="product ellipsis multiline">STRIPE SHIRT_PINK</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">59,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>3</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302969294', this, '39000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','39,000','39,000','WRIUKLE SHIRT_OLIVE','302969294','112104','PINK PINEAPPLE');"></button>
+                        <a href="/Product/302969294">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/94/302969294_OK52462.jpg" alt="셔츠 - 핑크파인애플 (PINK PINEAPPLE) - WRIUKLE SHIRT_OLIVE">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">PINK PINEAPPLE</div>
+                                    <div class="product ellipsis multiline">WRIUKLE SHIRT_OLIVE</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">39,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>5</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302969295', this, '39000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','39,000','39,000','WRIUKLE SHIRT_WHITE','302969295','112104','PINK PINEAPPLE');"></button>
+                        <a href="/Product/302969295">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/95/302969295_GG29531.jpg" alt="셔츠 - 핑크파인애플 (PINK PINEAPPLE) - WRIUKLE SHIRT_WHITE">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">PINK PINEAPPLE</div>
+                                    <div class="product ellipsis multiline">WRIUKLE SHIRT_WHITE</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">39,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>1</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302969296', this, '39000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','39,000','39,000','BEACH CHECK SHIRT_BLUE','302969296','112104','PINK PINEAPPLE');"></button>
+                        <a href="/Product/302969296">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/96/302969296_GO63490.jpg" alt="셔츠 - 핑크파인애플 (PINK PINEAPPLE) - BEACH CHECK SHIRT_BLUE">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">PINK PINEAPPLE</div>
+                                    <div class="product ellipsis multiline">BEACH CHECK SHIRT_BLUE</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">39,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>10</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('301758638', this, '69000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','69,000','69,000','Milk pink Terry shirt ','301758638','104143','more jude');"></button>
+                        <a href="/Product/301758638">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/38/301758638.jpg" alt="셔츠 - 모어쥬드 (more jude) - Milk pink Terry shirt ">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">more jude</div>
+                                    <div class="product ellipsis multiline">Milk pink Terry shirt </div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">69,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>11</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302953636', this, '168000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','168,000','168,000','essential nylon shirt - lemon','302953636','110515','somewherebutter');"></button>
+                        <a href="/Product/302953636">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/36/302953636_NG84540.jpg" alt="셔츠 - 썸웨어버터 (somewherebutter) - essential nylon shirt - lemon">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">somewherebutter</div>
+                                    <div class="product ellipsis multiline">essential nylon shirt - lemon</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">168,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>1</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302953682', this, '168000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','168,000','168,000','essential nylon shirt - ivory','302953682','110515','somewherebutter');"></button>
+                        <a href="/Product/302953682">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/82/302953682_TX36799.jpg" alt="셔츠 - 썸웨어버터 (somewherebutter) - essential nylon shirt - ivory">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">somewherebutter</div>
+                                    <div class="product ellipsis multiline">essential nylon shirt - ivory</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">168,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>1</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302969392', this, '97000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','97,000','97,000','seersucker crop shirt - cream','302969392','110515','somewherebutter');"></button>
+                        <a href="/Product/302969392">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/92/302969392_PD47458.jpg" alt="셔츠 - 썸웨어버터 (somewherebutter) - seersucker crop shirt - cream">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">somewherebutter</div>
+                                    <div class="product ellipsis multiline">seersucker crop shirt - cream</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">97,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>5</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302969396', this, '97000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','97,000','97,000','seersucker crop shirt - orange','302969396','110515','somewherebutter');"></button>
+                        <a href="/Product/302969396">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/96/302969396_KK74647.jpg" alt="셔츠 - 썸웨어버터 (somewherebutter) - seersucker crop shirt - orange">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">somewherebutter</div>
+                                    <div class="product ellipsis multiline">seersucker crop shirt - orange</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">97,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>5</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302991848', this, '135000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','135,000','135,000','Pink Terry Shirt','302991848','103905','Minta Retro');"></button>
+                        <a href="/Product/302991848">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/48/302991848_HG73409.jpg" alt="셔츠 - 민타레트로 (Minta Retro) - Pink Terry Shirt">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">Minta Retro</div>
+                                    <div class="product ellipsis multiline">Pink Terry Shirt</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">135,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>1</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302978027', this, '111200.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','20.0','139,000','111,200','RCP Women Marine Shirt White','302978027','110119','ROYALCITYPARK');"></button>
+                        <a href="/Product/302978027">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/27/302978027_GH23639.jpg" alt="셔츠 - 로얄시티파크 (ROYALCITYPARK) - RCP Women Marine Shirt White">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">ROYALCITYPARK</div>
+                                    <div class="product ellipsis multiline">RCP Women Marine Shirt White</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">111,200</span>
+                                        <span class="base_price">139,000</span>
+                                        <span class="discount_rate">20%</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>5</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302978061', this, '111200.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','20.0','139,000','111,200','RCP Women Marine Shirt Stripe Blue','302978061','110119','ROYALCITYPARK');"></button>
+                        <a href="/Product/302978061">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/61/302978061_EG13536.jpg" alt="셔츠 - 로얄시티파크 (ROYALCITYPARK) - RCP Women Marine Shirt Stripe Blue">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">ROYALCITYPARK</div>
+                                    <div class="product ellipsis multiline">RCP Women Marine Shirt Stripe Blue</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">111,200</span>
+                                        <span class="base_price">139,000</span>
+                                        <span class="discount_rate">20%</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>3</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302981023', this, '119000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN,WOMEN','APPAREL,APPAREL','블라우스,셔츠','블라우스,셔츠','0','119,000','119,000','DIANA SEE-THROUGH SHIRT','302981023','111540','SPARKLING PIECE');"></button>
+                        <a href="/Product/302981023">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/23/302981023_LM27837.jpg" alt="블라우스,셔츠 - 스파클링피스 (SPARKLING PIECE) - DIANA SEE-THROUGH SHIRT">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">SPARKLING PIECE</div>
+                                    <div class="product ellipsis multiline">DIANA SEE-THROUGH SHIRT</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">119,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>7</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302990004', this, '158000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','158,000','158,000','OVERSIZE LAYERED SHIRT IN GREY','302990004','109612','Matin Kim');"></button>
+                        <a href="/Product/302990004">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/04/302990004_WN53790.jpg" alt="셔츠 - 마뗑킴 (Matin Kim) - OVERSIZE LAYERED SHIRT IN GREY">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">Matin Kim</div>
+                                        <div class="front">[23HS]</div>
+                                    <div class="product ellipsis multiline">OVERSIZE LAYERED SHIRT IN GREY</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">158,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>4</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302990001', this, '158000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','158,000','158,000','OVERSIZE LAYERED SHIRT IN SKY','302990001','109612','Matin Kim');"></button>
+                        <a href="/Product/302990001">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/01/302990001_IN77604.jpg" alt="셔츠 - 마뗑킴 (Matin Kim) - OVERSIZE LAYERED SHIRT IN SKY">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">Matin Kim</div>
+                                        <div class="front">[23HS]</div>
+                                    <div class="product ellipsis multiline">OVERSIZE LAYERED SHIRT IN SKY</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">158,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>9</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302987017', this, '149000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN,WOMEN,WOMEN','APPAREL,APPAREL,APPAREL','셔츠,팬츠,라운지웨어','셔츠,쇼츠,파자마세트','0','149,000','149,000','LIGHT TERRY POLO SETS_YELLOW','302987017','112078','cpts');"></button>
+                        <a href="/Product/302987017">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/17/302987017_ES95040.jpg" alt="셔츠,팬츠,라운지웨어 - 씨피티에스 (cpts) - LIGHT TERRY POLO SETS_YELLOW">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">cpts</div>
+                                    <div class="product ellipsis multiline">LIGHT TERRY POLO SETS_YELLOW</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">149,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>13</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302989990', this, '149000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN,WOMEN','APPAREL,APPAREL','셔츠,라운지웨어','셔츠,파자마세트','0','149,000','149,000','LIGHT TERRY POLO SETS_TIFFANY GREEN','302989990','112078','cpts');"></button>
+                        <a href="/Product/302989990">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/90/302989990_MN41396.jpg" alt="셔츠,라운지웨어 - 씨피티에스 (cpts) - LIGHT TERRY POLO SETS_TIFFANY GREEN">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">cpts</div>
+                                    <div class="product ellipsis multiline">LIGHT TERRY POLO SETS_TIFFANY GREEN</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">149,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>9</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302990072', this, '149000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN,WOMEN','APPAREL,APPAREL','셔츠,라운지웨어','셔츠,파자마세트','0','149,000','149,000','LIGHT TERRY POLO SETS_NAVY','302990072','112078','cpts');"></button>
+                        <a href="/Product/302990072">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/72/302990072_XI27953.jpg" alt="셔츠,라운지웨어 - 씨피티에스 (cpts) - LIGHT TERRY POLO SETS_NAVY">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">cpts</div>
+                                    <div class="product ellipsis multiline">LIGHT TERRY POLO SETS_NAVY</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">149,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>5</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302990384', this, '149000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN,WOMEN','APPAREL,APPAREL','셔츠,라운지웨어','셔츠,파자마세트','0','149,000','149,000','LIGHT TERRY POLO SETS_BLACK','302990384','112078','cpts');"></button>
+                        <a href="/Product/302990384">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/84/302990384_SD44639.jpg" alt="셔츠,라운지웨어 - 씨피티에스 (cpts) - LIGHT TERRY POLO SETS_BLACK">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">cpts</div>
+                                    <div class="product ellipsis multiline">LIGHT TERRY POLO SETS_BLACK</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">149,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>3</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302968874', this, '107398.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','5.00','119,000','107,398','V-Neck Pocket Shirts_Off White','302968874','104803','Refined902');"></button>
+                        <a href="/Product/302968874">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/74/302968874_GF25952.jpg" alt="셔츠 - 리파인드902 (Refined902) - V-Neck Pocket Shirts_Off White">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">Refined902</div>
+                                        <div class="front">[단독오픈][BRAND WE LIKE][5%쿠폰] | [23RESORT] | [06/30 예약배송]</div>
+                                    <div class="product ellipsis multiline">V-Neck Pocket Shirts_Off White</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">107,398</span>
+                                        <span class="base_price">119,000</span>
+                                        <span class="discount_rate">10%</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>19</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+                                                    <span class="make_reservation">예약상품</span>
+
+                                            </p>
+                                            <p>
+                                                    <span class="general_info">쿠폰</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302989852', this, '99000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','10.0','110,000','99,000','썸머 자가드 셔츠 블랙','302989852','100479','sean makes cloth');"></button>
+                        <a href="/Product/302989852">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/52/302989852_TH15986.jpg" alt="셔츠 - 션메익스클로쓰 (sean makes cloth) - 썸머 자가드 셔츠 블랙">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">sean makes cloth</div>
+                                        <div class="front">[23SUMMER]</div>
+                                    <div class="product ellipsis multiline">썸머 자가드 셔츠 블랙</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">99,000</span>
+                                        <span class="base_price">110,000</span>
+                                        <span class="discount_rate">10%</span>
+                                </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302989882', this, '99000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','10.0','110,000','99,000','썸머 자가드 셔츠 화이트','302989882','100479','sean makes cloth');"></button>
+                        <a href="/Product/302989882">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/82/302989882_SC82785.jpg" alt="셔츠 - 션메익스클로쓰 (sean makes cloth) - 썸머 자가드 셔츠 화이트">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">sean makes cloth</div>
+                                        <div class="front">[23SUMMER]</div>
+                                    <div class="product ellipsis multiline">썸머 자가드 셔츠 화이트</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price">99,000</span>
+                                        <span class="base_price">110,000</span>
+                                        <span class="discount_rate">10%</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>2</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302942852', this, '89000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','89,000','89,000','HALF COTTON OVERFIT SHIRTS (BLUE)','302942852','112057','ZIZEMUSEUM');"></button>
+                        <a href="/Product/302942852">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/52/302942852_NY47564.jpg" alt="셔츠 - 지제뮤지엄 (ZIZEMUSEUM) - HALF COTTON OVERFIT SHIRTS (BLUE)">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">ZIZEMUSEUM</div>
+                                    <div class="product ellipsis multiline">HALF COTTON OVERFIT SHIRTS (BLUE)</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">89,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>6</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302942850', this, '89000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','89,000','89,000','HALF COTTON OVERFIT SHIRTS (NAVY)','302942850','112057','ZIZEMUSEUM');"></button>
+                        <a href="/Product/302942850">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/50/302942850_XX86176.jpg" alt="셔츠 - 지제뮤지엄 (ZIZEMUSEUM) - HALF COTTON OVERFIT SHIRTS (NAVY)">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">ZIZEMUSEUM</div>
+                                    <div class="product ellipsis multiline">HALF COTTON OVERFIT SHIRTS (NAVY)</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">89,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>4</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302942860', this, '89000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','89,000','89,000','HALF COTTON OVERFIT SHIRTS (YELLOW)','302942860','112057','ZIZEMUSEUM');"></button>
+                        <a href="/Product/302942860">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/60/302942860_XC45591.jpg" alt="셔츠 - 지제뮤지엄 (ZIZEMUSEUM) - HALF COTTON OVERFIT SHIRTS (YELLOW)">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">ZIZEMUSEUM</div>
+                                    <div class="product ellipsis multiline">HALF COTTON OVERFIT SHIRTS (YELLOW)</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">89,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>3</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302942869', this, '89000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','89,000','89,000','HALF COTTON OVERFIT SHIRTS (WHITE)','302942869','112057','ZIZEMUSEUM');"></button>
+                        <a href="/Product/302942869">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/69/302942869_NB89523.jpg" alt="셔츠 - 지제뮤지엄 (ZIZEMUSEUM) - HALF COTTON OVERFIT SHIRTS (WHITE)">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">ZIZEMUSEUM</div>
+                                    <div class="product ellipsis multiline">HALF COTTON OVERFIT SHIRTS (WHITE)</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">89,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>5</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302942995', this, '79000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','79,000','79,000','SLIM LINE CROP SHIRTS (NAVY)','302942995','112057','ZIZEMUSEUM');"></button>
+                        <a href="/Product/302942995">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/95/302942995_QE85619.jpg" alt="셔츠 - 지제뮤지엄 (ZIZEMUSEUM) - SLIM LINE CROP SHIRTS (NAVY)">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">ZIZEMUSEUM</div>
+                                    <div class="product ellipsis multiline">SLIM LINE CROP SHIRTS (NAVY)</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">79,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>5</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302943000', this, '79000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','79,000','79,000','SLIM LINE CROP SHIRTS (BLUE)','302943000','112057','ZIZEMUSEUM');"></button>
+                        <a href="/Product/302943000">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/00/302943000_HD28557.jpg" alt="셔츠 - 지제뮤지엄 (ZIZEMUSEUM) - SLIM LINE CROP SHIRTS (BLUE)">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">ZIZEMUSEUM</div>
+                                    <div class="product ellipsis multiline">SLIM LINE CROP SHIRTS (BLUE)</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">79,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>7</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302943037', this, '79000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','79,000','79,000','SLIM LINE CROP SHIRTS (PINK)','302943037','112057','ZIZEMUSEUM');"></button>
+                        <a href="/Product/302943037">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/37/302943037_DW22594.jpg" alt="셔츠 - 지제뮤지엄 (ZIZEMUSEUM) - SLIM LINE CROP SHIRTS (PINK)">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">ZIZEMUSEUM</div>
+                                    <div class="product ellipsis multiline">SLIM LINE CROP SHIRTS (PINK)</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">79,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>5</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302943045', this, '79000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN','APPAREL','셔츠','셔츠','0','79,000','79,000','SLIM LINE CROP SHIRTS (WHITE)','302943045','112057','ZIZEMUSEUM');"></button>
+                        <a href="/Product/302943045">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/45/302943045_MP33301.jpg" alt="셔츠 - 지제뮤지엄 (ZIZEMUSEUM) - SLIM LINE CROP SHIRTS (WHITE)">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">ZIZEMUSEUM</div>
+                                    <div class="product ellipsis multiline">SLIM LINE CROP SHIRTS (WHITE)</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">79,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>8</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302956366', this, '102000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN,WOMEN','APPAREL,APPAREL','셔츠,블라우스','셔츠,블라우스','0','102,000','102,000','Minimal Short Sleeved Shirt Navy','302956366','107188','mydlo');"></button>
+                        <a href="/Product/302956366">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/66/302956366_LL53781.jpg" alt="셔츠,블라우스 - 미들로 (mydlo) - Minimal Short Sleeved Shirt Navy">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">mydlo</div>
+                                    <div class="product ellipsis multiline">Minimal Short Sleeved Shirt Navy</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">102,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>5</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                            <p>
+                                                    <span class="general_info">단독</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <button type="button" name="button" class="heart " onclick="ELK.SetMyHeart('302956756', this, '102000.0'); SendAppTrackItemMyHeartToBraze('click_category_list_myheart','WOMEN,WOMEN','APPAREL,APPAREL','셔츠,블라우스','셔츠,블라우스','0','102,000','102,000','Minimal Short Sleeved Shirt White','302956756','107188','mydlo');"></button>
+                        <a href="/Product/302956756">
+                            <div class="img">
+                                <img src="//product-image.wconcept.co.kr/productimg/image/img1/56/302956756_UI43248.jpg" alt="셔츠,블라우스 - 미들로 (mydlo) - Minimal Short Sleeved Shirt White">
+                            </div>
+                            <div class="text max">
+                                <div class="text_wrap">
+                                    <div class="brand">mydlo</div>
+                                    <div class="product ellipsis multiline">Minimal Short Sleeved Shirt White</div>
+                                </div>
+                                <div class="price">
+                                    <span class="discount_price only_base">102,000</span>
+                                </div>
+                                    <div class="react">
+
+                                            <div class="like_count">
+                                                <span>2</span>
+                                            </div>
+                                    </div>
+                                <div class="labels">
+                                            <p>
+
+                                                    <span class="clearance">뉴시즌</span>
+                                            </p>
+                                            <p>
+                                                    <span class="general_info">단독</span>
+                                            </p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+    </ul>
