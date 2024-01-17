@@ -215,6 +215,9 @@
   top: 27%;
   right: 15px;
 }
+#section4 .container4 .gap4 .content .slide-container .next-arrow-btn.on {
+  display: none;
+}
 #section4 .container4 .gap4 .content .slide-container .next-arrow-btn img {
   width: 30px;
   height: 56px;

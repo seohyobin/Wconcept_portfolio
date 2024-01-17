@@ -89,7 +89,7 @@ const {viewed1}=state;
                                         <div className="viewed-product-content" key={idx}> 
                                         <Link to={`/viewed/${item.id}`}>
                                             <div className="viewed-img">
-                                                <img src={item.img} alt="" />
+                                                <img src={`${item.img}`} alt=""/>
                                             </div>
                                             <div className="viewed-text">
                                                 <p>{item.brand}</p>

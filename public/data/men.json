@@ -8,7 +8,9 @@
                     "brand":"2023 BTS FESTA l W컨셉",
                     "desc":"BTS 10주년 로고 라이선싱 티셔츠 - 퍼플",
                     "disPrice":"",
-                    "basePrice":49000,
+                    "reserve":"",
+                    "status":""
+                    ,"basePrice":49000,
                      "rate":"5.0",
                      "review":"(20)",
                      "saved":"197"
@@ -22,7 +24,9 @@
                     "brand":"2023 BTS FESTA l W컨셉",
                     "desc":"BTS 10주년 로고 라이선싱 티셔츠 - 블랙",
                     "disPrice":"",
-                    "basePrice":49000,
+                    "reserve":"",
+                    "status":""
+                    ,"basePrice":49000,
                      "rate":"5.0",
                      "review":"(15)",
                      "saved":"156"
@@ -36,7 +40,9 @@
                     "brand":"CPGN",
                     "desc":"Dont Cry Teddy 피그먼트 반팔티 스모크블랙",
                     "disPrice":30875,
-                    "basePrice":50000,
+                    "reserve":"",
+                    "status":""
+                    ,"basePrice":50000,
                      "discount":"38%",
                      "rate":"4.9",
                      "review":"(361)",
@@ -50,7 +56,9 @@
                     "brand":"FLUKE",
                     "desc":"어드벤쳐 트럭커 포켓 반팔티셔츠 FST141 / 4color W",
                     "disPrice":16500,
-                     "basePrice":32800,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":32800,
                      "discount":"50%",
                      "rate":"4.9",
                      "review":"(1,133)"
@@ -64,7 +72,9 @@
                     "brand":"Moderment",
                     "desc":"[세트패키지] 유틸리티 하프팬츠 (6color)",
                     "disPrice":39510,
-                     "basePrice":86000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":86000,
                      "discount":"54%",
                      "rate":"4.9",
                      "review":"(509)",
@@ -80,7 +90,9 @@
                     "brand":"WEDNESDAY OASIS",
                     "desc":"unisex everyday woven banding short pants(8col)",
                     "disPrice":19520,
-                     "basePrice":24400,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":24400,
                      "discount":"20%",
                      "rate":"4.9",
                      "review":"(38)",
@@ -94,7 +106,9 @@
                     "brand":"WEDNESDAY OASIS",
                     "desc":"stone cago pocket banding shorts",
                     "disPrice":21600,
-                     "basePrice":24000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":24000,
                      "discount":"10%",
                      "rate":"5.0",
                      "review":"(50)",
@@ -107,7 +121,9 @@
                     "brand":"FLUKE",
                     "desc":"어드벤쳐 트럭커 포켓 반팔티셔츠 FST141 / 4color M",
                     "disPrice":16500,
-                     "basePrice":32800,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":32800,
                      "discount":"50%",
                      "rate":"4.9",
                      "review":"(761)"
@@ -120,7 +136,9 @@
                     "brand":"WEDNESDAY OASIS",
                     "desc":"fake linen polo shirts(6col)",
                     "disPrice":27200,
-                     "basePrice":34000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":34000,
                      "discount":"20%",
                      "rate":"4.6",
                      "review":"(14)",
@@ -135,7 +153,9 @@
                     "brand":"INSTANTFUNK",
                     "desc":"Ms 스포티 그래픽 저지 티셔츠 - 핑크",
                     "disPrice":"",
-                    "basePrice":60000
+                    "reserve":"",
+                    "status":""
+                    ,"basePrice":60000
                     },
                     
                     
@@ -145,7 +165,9 @@
                     "brand":"PEPPERSEASONING",
                     "desc":"[1+1]패키지 유니섹스 와이드 밴딩 슬랙스 p-7",
                     "disPrice":37900,
-                     "basePrice":79800,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":79800,
                      "discount":"53%",
                      "rate":"4.9",
                      "review":"(59)",
@@ -163,7 +185,9 @@
                     "brand":"MINIMAL PROJECT",
                     "desc":"피그먼트 스몰로고 오버핏 반팔티셔츠 MST145 / 4color",
                     "disPrice":27800,
-                     "basePrice":42800,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":42800,
                      "discount":"35%",
                      "rate":"4.9",
                      "review":"(45)"
@@ -178,7 +202,9 @@
                     "brand":"sienne",
                     "desc":"Savory Classic Knit (Ivory)",
                     "disPrice":"",
-                    "basePrice":99000,
+                    "reserve":"",
+                    "status":""
+                    ,"basePrice":99000,
                      "rate":"5.0",
                      "review":"(3)",
                      "saved":"226"
@@ -192,7 +218,9 @@
                     "brand":"THE KNIT COMPANY",
                     "desc":"[봉태규X더니트] 하이 게이지 캐시미어 크롭 폴로 니트 5color",
                     "disPrice":89100,
-                     "basePrice":111000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":111000,
                      "discount":"20%",
                      "rate":"5.0",
                      "review":"(7)",
@@ -207,7 +235,9 @@
                     "brand":"PAPERBOY",
                     "desc":"코지 써클 스웨트 셋업 4color",
                     "disPrice":52800,
-                     "basePrice":96000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":96000,
                      "discount":"45%",
                      "rate":"4.9",
                      "review":"(1,39",
@@ -222,7 +252,9 @@
                     "brand":"asif_CALIE",
                     "desc":"PARACHUTE CARGO PANTS BLACK",
                     "disPrice":97500,
-                     "basePrice":122000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":122000,
                      "discount":"20%",
                      "rate":"5.0",
                      "review":"(1)",
@@ -236,7 +268,9 @@
                     "brand":"WV PROJECT",
                     "desc":"[패키지] 할로우 밴딩 쿨 크롭 팬츠 2PACK CJLP7378",
                     "disPrice":43900,
-                     "basePrice":85600,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":85600,
                      "discount":"49%",
                      "rate":"4.9",
                      "review":"(453)"
@@ -249,7 +283,9 @@
                     "brand":"WEDNESDAY OASIS",
                     "desc":"linen bio-washing banding pants(6col)",
                     "disPrice":35100,
-                     "basePrice":39000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":39000,
                      "discount":"10%",
                      "rate":"4.9",
                      "review":"(8)",
@@ -263,7 +299,9 @@
                     "brand":"WEDNESDAY OASIS",
                     "desc":"Seersucker Stripe Shirts",
                     "disPrice":31200,
-                     "basePrice":39000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":39000,
                      "discount":"20%",
                      "rate":"4.9",
                      "review":"(21)",
@@ -278,7 +316,9 @@
                     "brand":"MINIMAL PROJECT",
                     "desc":"페이즐리 오버핏 반팔티셔츠 MST128 / 2color m",
                     "disPrice":25800,
-                     "basePrice":35800,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":35800,
                      "discount":"28%",
                      "rate":"4.9",
                      "review":"(335)"
@@ -292,7 +332,9 @@
                     "brand":"PAPERBOY",
                     "desc":"[SET] 비기닝83 반팔 &amp; 하프팬츠 셋업",
                     "disPrice":48000,
-                     "basePrice":80000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":80000,
                      "discount":"40%",
                      "rate":"4.9",
                      "review":"(16)",
@@ -307,7 +349,9 @@
                     "brand":"MAGOODGAN",
                     "desc":"카버 7801 퍼티그 세미와이드핏 라이트인디고 데님팬츠",
                     "disPrice":47600,
-                     "basePrice":59500,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":59500,
                      "discount":"20%",
                      "rate":"4.9",
                      "review":"(158)"
@@ -320,7 +364,9 @@
                     "brand":"PAPERBOY",
                     "desc":"[1+1] 린넨 9부 크롭 팬츠 4color",
                     "disPrice":58800,
-                     "basePrice":98000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":98000,
                      "discount":"40%",
                      "rate":"4.8",
                      "review":"(44)"
@@ -333,7 +379,9 @@
                     "brand":"Kijun",
                     "desc":"Tour Guide Football T-Shirt Navy White",
                     "disPrice":"",
-                    "basePrice":88000,
+                    "reserve":"",
+                    "status":""
+                    ,"basePrice":88000,
                      "rate":"4.9",
                      "review":"(143)"
                     
@@ -345,7 +393,9 @@
                     "brand":"Kijun",
                     "desc":"Tour Guide Football T-Shirt Off-White Brown",
                     "disPrice":"",
-                    "basePrice":88000,
+                    "reserve":"",
+                    "status":""
+                    ,"basePrice":88000,
                      "rate":"4.9",
                      "review":"(38)"
                     
@@ -357,7 +407,9 @@
                     "brand":"PAPERBOY",
                     "desc":"코지 써클 체인 반팔 &amp; 하프팬츠 셋업 4color",
                     "disPrice":46200,
-                     "basePrice":84000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":84000,
                      "discount":"45%",
                      "rate":"4.9",
                      "review":"(245)"
@@ -369,7 +421,9 @@
                     "brand":"FLUKE",
                     "desc":"플루크 굿캠퍼 반팔티셔츠 FST186 / 7color",
                     "disPrice":21500,
-                     "basePrice":34800,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":34800,
                      "discount":"38%",
                      "rate":"5.0",
                      "review":"(102)"
@@ -381,7 +435,9 @@
                     "brand":"asif_CALIE",
                     "desc":"HEART CALIE TSHIRT WHITE",
                     "disPrice":35500,
-                     "basePrice":51000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":51000,
                      "discount":"30%",
                      "rate":"4.8",
                      "review":"(14)",
@@ -396,7 +452,9 @@
                     "brand":"FLUKE",
                     "desc":"new 피그먼트 오버핏 반팔티셔츠 FST701 / 7color M",
                     "disPrice":19500,
-                     "basePrice":35800,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":35800,
                      "discount":"46%",
                      "rate":"4.9",
                      "review":"(490)"
@@ -409,7 +467,9 @@
                     "brand":"DECOVIEW",
                     "desc":"[선물포장] [커플] 풍기인견 뉴욕시티 파자마 세트",
                     "disPrice":99655,
-                     "basePrice":174800,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":174800,
                      "discount":"43%",
                      "rate":"4.7",
                      "review":"(91)",
@@ -423,7 +483,9 @@
                     "brand":"YEAh",
                     "desc":"네티드 카라 가디건 - 2 COLORS",
                     "disPrice":"",
-                    "basePrice":99000,
+                    "reserve":"",
+                    "status":""
+                    ,"basePrice":99000,
                      "rate":"4.9",
                      "review":"(145)",
                      "saved":"749"
@@ -436,7 +498,9 @@
                     "brand":"COVERNAT",
                     "desc":"에센셜 쿨 코튼 2-PACK 티셔츠 블랙",
                     "disPrice":34300,
-                     "basePrice":49000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":49000,
                      "discount":"30%",
                      "rate":"5.0",
                      "review":"(19)"
@@ -449,7 +513,9 @@
                     "brand":"THOMAS MORE",
                     "desc":"TD2-SH01 양포켓 반팔 셔츠-네이비",
                     "disPrice":"",
-                    "basePrice":65700,
+                    "reserve":"",
+                    "status":""
+                    ,"basePrice":65700,
                      "rate":"5.0",
                      "review":"(8)",
                      "saved":"69"
@@ -463,7 +529,9 @@
                     "brand":"Marithe Francois Girbaud",
                     "desc":"MOUVEMENT CLASSIC LOGO TEE white",
                     "disPrice":"",
-                    "basePrice":49000,
+                    "reserve":"",
+                    "status":""
+                    ,"basePrice":49000,
                      "rate":"5.0",
                      "review":"(6)",
                      "saved":"256"
@@ -477,7 +545,9 @@
                     "brand":"Kwak Hyun Joo Collection",
                     "desc":"NEWS PRINT TURTLE W   ",
                     "disPrice":"",
-                    "basePrice":39000
+                    "reserve":"",
+                    "status":""
+                    ,"basePrice":39000
                     },
                  
                     {
@@ -486,7 +556,9 @@
                     "brand":"MINIMAL PROJECT",
                     "desc":"핀턱 벌룬 데님 숏 팬츠 MSP107 / 2color w",
                     "disPrice":59800,
-                     "basePrice":92800,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":92800,
                      "discount":"36%",
                      "rate":"4.9",
                      "review":"(54)"
@@ -499,7 +571,9 @@
                     "brand":"MISTERCHILD",
                     "desc":"더블로고 티셔츠 2PACK",
                     "disPrice":49000,
-                     "basePrice":98000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":98000,
                      "discount":"50%",
                      "rate":"4.8",
                      "review":"(5)"
@@ -512,7 +586,9 @@
                     "brand":"sienne",
                     "desc":"Vintage Jacquard Vest (Cobalt Blue)",
                     "disPrice":"",
-                    "basePrice":108000,
+                    "reserve":"",
+                    "status":""
+                    ,"basePrice":108000,
                      "rate":"4.9",
                      "review":"(9)",
                      "saved":"118"
@@ -526,7 +602,9 @@
                     "brand":"sienne",
                     "desc":"Weekend Stripe Tshirt (Black)",
                     "disPrice":47700,
-                     "basePrice":53000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":53000,
                      "discount":"10%",
                      "rate":"5.0",
                      "review":"(6)",
@@ -541,7 +619,9 @@
                     "brand":"ease",
                     "desc":"LINEN BANDING PANTS [REGUAR FIT]_4 COLOR",
                     "disPrice":31500,
-                     "basePrice":45000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":45000,
                      "discount":"30%",
                      "rate":"4.9",
                      "review":"(1,245)"
@@ -554,7 +634,9 @@
                     "brand":"MINIMAL PROJECT",
                     "desc":"스노우 워싱 로고 오버핏 반팔티셔츠 MST146 / 4color",
                     "disPrice":29800,
-                     "basePrice":49800,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":49800,
                      "discount":"40%",
                      "rate":"4.8",
                      "review":"(13)"
@@ -567,7 +649,9 @@
                     "brand":"sienne",
                     "desc":"Fatigue Pocket Pants (Khaki)",
                     "disPrice":"",
-                    "basePrice":125000,
+                    "reserve":"",
+                    "status":""
+                    ,"basePrice":125000,
                      "rate":"5.0",
                      "review":"(3)",
                      "saved":"58"
@@ -581,7 +665,9 @@
                     "brand":"BIG UNION",
                     "desc":"EASY PANTS (HD) / 5 COLOR",
                     "disPrice":39000,
-                     "basePrice":78000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":78000,
                      "discount":"50%",
                      "rate":"4.9",
                      "review":"(38)",
@@ -595,7 +681,9 @@
                     "brand":"WEDNESDAY OASIS",
                     "desc":"linen cago string banding pants(4col)",
                     "disPrice":36000,
-                     "basePrice":45000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":45000,
                      "discount":"20%",
                      "rate":"5.0",
                      "review":"(6)",
@@ -609,7 +697,9 @@
                     "brand":"CPGN",
                     "desc":"Wide Over Cargo Pants Charcoal",
                     "disPrice":58500,
-                     "basePrice":90000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":90000,
                      "discount":"35%",
                      "rate":"5.0",
                      "review":"(2)",
@@ -623,7 +713,9 @@
                     "brand":"mellurbane",
                     "desc":"1984 1/2카라 반집업  셋업",
                     "disPrice":73000,
-                     "basePrice":85000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":85000,
                      "discount":"14%",
                      "rate":"5.0",
                      "review":"(6)"
@@ -636,7 +728,9 @@
                     "brand":"THOMAS MORE",
                     "desc":"TC2-TS04 하프 사커 티-아델라(차콜네이비)",
                     "disPrice":"",
-                    "basePrice":35700,
+                    "reserve":"",
+                    "status":""
+                    ,"basePrice":35700,
                      "rate":"4.9",
                      "review":"(67)"
                     
@@ -648,7 +742,9 @@
                     "brand":"FLUKE",
                     "desc":"어드벤쳐 폰트 피그먼트 오버핏 반팔티셔츠 FST705 / 5color M",
                     "disPrice":22500,
-                     "basePrice":35800,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":35800,
                      "discount":"37%",
                      "rate":"4.9",
                      "review":"(120)"
@@ -661,7 +757,9 @@
                     "brand":"MINIMAL PROJECT",
                     "desc":"드로잉 테이퍼드 밴딩 치노 팬츠 MPT111 / 3color",
                     "disPrice":64800,
-                     "basePrice":108000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":108000,
                      "discount":"40%",
                      "rate":"5.0",
                      "review":"(25)",
@@ -676,7 +774,9 @@
                     "brand":"OFFHOUR",
                     "desc":"커플 마일드 실크라인 반팔 카라 잠옷 세트 파자마 홈웨어",
                     "disPrice":19884,
-                     "basePrice":29900,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":29900,
                      "discount":"33%",
                     "rate":" 4.7",
                      "review":"(15)",
@@ -692,7 +792,9 @@
                     "brand":"sienne",
                     "desc":"Weekend Stripe Tshirt (Blue)",
                     "disPrice":47700,
-                     "basePrice":53000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":53000,
                      "discount":"10%",
                      "rate":"5.0",
                      "review":"(5)",
@@ -706,7 +808,9 @@
                     "brand":"MINIMAL PROJECT",
                     "desc":"스테디 우븐 반팔 카라티셔츠 MPK300 / 2color",
                     "disPrice":52800,
-                     "basePrice":82000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":82000,
                      "discount":"36%",
                      "rate":"4.9",
                      "review":"(7)"
@@ -720,7 +824,9 @@
                     "brand":"DISCHORDSOUND",
                     "desc":"DOUBLE KNEE CARPENTER PANTS [GREY]",
                     "disPrice":115200,
-                     "basePrice":128000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":128000,
                      "discount":"10%",
                      "rate":"5.0",
                      "review":"(8)",
@@ -735,7 +841,9 @@
                     "brand":"THOMAS MORE",
                     "desc":"TD2-SH02 린넨 셔츠-네이비",
                     "disPrice":"",
-                    "basePrice":78500,
+                    "reserve":"",
+                    "status":""
+                    ,"basePrice":78500,
                      "rate":"5.0",
                      "review":"(1)",
                      "saved":"35"
@@ -749,7 +857,9 @@
                     "brand":"WEDNESDAY OASIS",
                     "desc":"unisex stripe overfit half t-shirts",
                     "disPrice":24960,
-                     "basePrice":31200,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":31200,
                      "discount":"20%",
                      "rate":"4.8",
                      "review":"(12)",
@@ -764,7 +874,9 @@
                     "brand":"GAKKAI UNIONS",
                     "desc":"턱 와이드 스웨트팬츠 그레이",
                     "disPrice":36400,
-                     "basePrice":52000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":52000,
                      "discount":"30%",
                      "rate":"4.9",
                      "review":"(33)"
@@ -777,7 +889,9 @@
                     "brand":"BASEMOMENT",
                     "desc":"크로쉐 후드 집업 아이보리",
                     "disPrice":61200,
-                     "basePrice":72000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":72000,
                      "discount":"15%",
                     "rate":"4.5",
                      "review":"(2)",
@@ -792,7 +906,9 @@
                     "brand":"THOMAS MORE",
                     "desc":"[단독] 하프 사커 티 - 데이지",
                     "disPrice":28828,
-                     "basePrice":35700,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":35700,
                      "discount":"19%",
                      "rate":"4.9",
                      "review":"(118)",
@@ -806,7 +922,9 @@
                     "brand":"Marithe Francois Girbaud",
                     "desc":"SMALL CLASSIC LOGO TEE white",
                     "disPrice":"",
-                    "basePrice":49000,
+                    "reserve":"",
+                    "status":""
+                    ,"basePrice":49000,
                      "rate":"5.0",
                      "review":"(14)",
                      "saved":"282"
@@ -820,7 +938,9 @@
                     "brand":"WEDNESDAY OASIS",
                     "desc":"camp symbol logo banding shorts(5col)",
                     "disPrice":15200,
-                     "basePrice":19000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":19000,
                      "discount":"20%",
                      "rate":"5.0",
                      "review":"(16)",
@@ -835,7 +955,9 @@
                     "brand":"OFFHOUR",
                     "desc":"커플 컴포트 스트라이프 라인 반팔 + 반바지 잠옷 세트 파자마 홈웨어",
                     "disPrice":20930,
-                     "basePrice":29900,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":29900,
                      "discount":"30%",
                      "rate":"4.8",
                      "review":"(17)"
@@ -850,7 +972,9 @@
     "brand":"ALLINCOMPLETE",
     "desc":"[단독] Round Logo Ball Cap (10 Colors)",
     "disPrice":29925,
-    "basePrice":39900,
+    "reserve":"",
+    "status":""
+    ,"basePrice":39900,
     "discount":"25%",
     "rate":"4.9",
     "saved":"(1,891)",
@@ -864,7 +988,9 @@
     "brand":"47brand",
     "desc":"MLB모자 47브랜드 LA다저스 스몰로고 볼캡",
     "disPrice":26010,
-    "basePrice":50000,
+    "reserve":"",
+    "status":""
+    ,"basePrice":50000,
     "discount":"48%",
     "rate":"4.9",
     "saved":"(246)",
@@ -878,7 +1004,9 @@
     "brand":"OGARP",
     "desc":"KNOCKIN LOGO B.B CAP (5 Colors)",
     "disPrice":39900,
-    "basePrice":42000,
+    "reserve":"",
+    "status":""
+    ,"basePrice":42000,
     "discount":"5%",
     "rate":"4.9",
     "saved":"(144)",
@@ -892,7 +1020,9 @@
     "brand":"ALLINCOMPLETE",
     "desc":"[단독] Round Logo Ball Cap (8 Colors)",
     "disPrice":29925,
-    "basePrice":39900,
+    "reserve":"",
+    "status":""
+    ,"basePrice":39900,
     "discount":"25%",
     "rate":"4.9",
     "saved":"(331)",
@@ -906,7 +1036,9 @@
     "brand":"ALLINCOMPLETE",
     "desc":"[단독] Z Stitch Windmill Bucket Hat (4 colors)",
     "disPrice":29925,
-    "basePrice":39900,
+    "reserve":"",
+    "status":""
+    ,"basePrice":39900,
     "discount":"25%",
     "rate":"4.9",
     "saved":"(79)",
@@ -920,7 +1052,9 @@
     "brand":"NIKE",
     "desc":"[DX5025-100] U NK NSW EVERYDAY ESSENTIAL CR",
     "disPrice":17000,
-    "basePrice":25000,
+    "reserve":"",
+    "status":""
+    ,"basePrice":25000,
     "discount":"32%",
     "rate":"4.9",
     "saved":"(508)",
@@ -934,7 +1068,9 @@
     "brand":"NIKE",
     "desc":"[DX5089-103] U NK NSW EVERYDAY ESSENTIAL CR",
     "disPrice":13200,
-    "basePrice":22000,
+    "reserve":"",
+    "status":""
+    ,"basePrice":22000,
     "discount":"40%",
     "rate":"4.9",
     "saved":"(419)",
@@ -948,7 +1084,9 @@
     "brand":"August Harmony",
     "desc":"Lucky days Necklace (13colors)",
     "disPrice":44100,
-    "basePrice":49000,
+    "reserve":"",
+    "status":""
+    ,"basePrice":49000,
     "discount":"10%",
     "rate":"4.9",
     "saved":"(572)",
@@ -962,7 +1100,9 @@
     "brand":"ALLINCOMPLETE",
     "desc":"Round Logo Ball Cap (Cream Beige)",
     "disPrice":29925,
-    "basePrice":39900,
+    "reserve":"",
+    "status":""
+    ,"basePrice":39900,
     "discount":"25%",
     "rate":"4.9",
     "saved":"(27)",
@@ -977,7 +1117,9 @@
     "brand":"BLUE ELEPHANT",
     "desc":"EDIE peach",
     "disPrice":39000,
-    "basePrice":138000,
+    "reserve":"",
+    "status":""
+    ,"basePrice":138000,
     "discount":"72%",
     "rate":"4.8",
     "saved":"(47)",
@@ -991,7 +1133,9 @@
     "brand":"RECLOW",
     "desc":"RECLOW LAND 아세테이트 RLOGO 선글라스 BLACK",
     "disPrice":59900,
-    "basePrice":149000,
+    "reserve":"",
+    "status":""
+    ,"basePrice":149000,
     "discount":"60%",
     "rate":"4.8",
     "saved":"(6)",
@@ -1005,7 +1149,9 @@
     "brand":"COLOCYNTH",
     "desc":"23 Rabbit Cap | Mint Cream",
     "disPrice":35100,
-    "basePrice":39000,
+    "reserve":"",
+    "status":""
+    ,"basePrice":39000,
     "discount":"10%",
     "rate":"4.9",
     "saved":"(14)",
@@ -1020,7 +1166,9 @@
     "brand":"ALLINCOMPLETE",
     "desc":"Horizon Paper Sun Visor (Black)",
     "disPrice":39200,
-    "basePrice":49000,
+    "reserve":"",
+    "status":""
+    ,"basePrice":49000,
     "discount":"20%",
     "rate":"4.8",
     "saved":"(13)",
@@ -1034,7 +1182,9 @@
     "brand":"BLUE ELEPHANT",
     "desc":"[단독]SATURN beige",
     "disPrice":42000,
-    "basePrice":138000,
+    "reserve":"",
+    "status":""
+    ,"basePrice":138000,
     "discount":"70%",
     "rate":"5.0",
     "saved":"(11)",
@@ -1048,7 +1198,9 @@
     "brand":"47brand",
     "desc":"MLB모자 뉴욕/LA 클린업 모자 볼캡",
     "disPrice":26010,
-    "basePrice":69000,
+    "reserve":"",
+    "status":""
+    ,"basePrice":69000,
     "discount":"62%",
     "rate":"4.8",
     "saved":"(140)",
@@ -1062,7 +1214,9 @@
     "brand":"ALLINCOMPLETE",
     "desc":"[단독] Round Logo Ball Cap (Blue Denim)",
     "disPrice":29925,
-    "basePrice":39900,
+    "reserve":"",
+    "status":""
+    ,"basePrice":39900,
     "discount":"25%",
     "rate":"4.9",
     "saved":"(44)",
@@ -1076,7 +1230,9 @@
     "brand":"RECLOW",
     "desc":"RECLOW BB557 GRAY 선글라스",
     "disPrice":23400,
-    "basePrice":39000,
+    "reserve":"",
+    "status":""
+    ,"basePrice":39000,
     "discount":"40%",
     "rate":"4.9",
     "saved":"(13)",
@@ -1090,7 +1246,9 @@
     "brand":"LUNNE",
     "desc":"실버 925 두줄 레이어드 실키 체인 목걸이 #LSN37",
     "disPrice":60000,
-    "basePrice":80000,
+    "reserve":"",
+    "status":""
+    ,"basePrice":80000,
     "discount":"25%",
     "rate":"4.0",
     "saved":"(8)",
@@ -1104,7 +1262,9 @@
     "brand":"NERVOUS",
     "desc":"CAP 01 _ pink",
     "disPrice":64980,
-    "basePrice":76000,
+    "reserve":"",
+    "status":""
+    ,"basePrice":76000,
     "discount":"15%",
     "rate":"5.0",
     "saved":"(85)",
@@ -1118,7 +1278,9 @@
     "brand":"LUOESPAC",
     "desc":"오버핏 라운드 버킷햇 (블랙)",
     "disPrice":29600,
-    "basePrice":37000,
+    "reserve":"",
+    "status":""
+    ,"basePrice":37000,
     "discount":"20%",
     "rate":"4.9",
     "saved":"(376)",
@@ -1132,7 +1294,9 @@
     "brand":"LUNNE",
     "desc":"실버 925 플랫 리버서블 원터치 귀걸이 #LSE77",
     "disPrice":39000,
-    "basePrice":52000,
+    "reserve":"",
+    "status":""
+    ,"basePrice":52000,
     "discount":"25%",
     "rate":"4.8",
     "saved":"(17)",
@@ -1147,7 +1311,9 @@
     "brand":"millo",
     "desc":"홀리데이 시그니처 볼 캡 [빈티지 핑크]",
     "disPrice":35100,
-    "basePrice":39000,
+    "reserve":"",
+    "status":""
+    ,"basePrice":39000,
     "discount":"10%",
     "rate":"4.9",
     "saved":"(103)",
@@ -1161,7 +1327,9 @@
     "brand":"ALLINCOMPLETE",
     "desc":"[단독] Horizon Paper Sun Visor (Zebra)",
     "disPrice":36750,
-    "basePrice":49000,
+    "reserve":"",
+    "status":""
+    ,"basePrice":49000,
     "discount":"25%",
     "rate":"4.8",
     "saved":"(5)",
@@ -1175,7 +1343,9 @@
     "brand":"ALLINCOMPLETE",
     "desc":"[단독] Round Logo Nylon Ball Cap (2 Colors)",
     "disPrice":32250,
-    "basePrice":43000,
+    "reserve":"",
+    "status":""
+    ,"basePrice":43000,
     "discount":"25%",
     "rate":"5.0",
     "saved":"(5)",
@@ -1189,7 +1359,9 @@
     "brand":"OGARP",
     "desc":"KNOCKIN LOGO B.B CAP NAVY",
     "disPrice":39900,
-    "basePrice":42000,
+    "reserve":"",
+    "status":""
+    ,"basePrice":42000,
     "discount":"5%",
     "rate":"4.9",
     "saved":"(45)",
@@ -1202,7 +1374,9 @@
         "brand":"MINIMAL PROJECT",
         "desc":"드로잉 테이퍼드 밴딩 치노 팬츠 MPT111 / 3color",
         "disPrice":64800,
-         "basePrice":108000,
+        "reserve":"",
+        "status":"" 
+        ,"basePrice":108000,
          "discount":"40%",
          "rate":"5.0",
          "review":"(25)",
@@ -1217,7 +1391,9 @@
         "brand":"OFFHOUR",
         "desc":"커플 마일드 실크라인 반팔 카라 잠옷 세트 파자마 홈웨어",
         "disPrice":19884,
-         "basePrice":29900,
+        "reserve":"",
+        "status":"" 
+        ,"basePrice":29900,
          "discount":"33%",
         "rate":" 4.7",
          "review":"(15)",
@@ -1233,7 +1409,9 @@
         "brand":"sienne",
         "desc":"Weekend Stripe Tshirt (Blue)",
         "disPrice":47700,
-         "basePrice":53000,
+        "reserve":"",
+        "status":"" 
+        ,"basePrice":53000,
          "discount":"10%",
          "rate":"5.0",
          "review":"(5)",
@@ -1247,7 +1425,9 @@
         "brand":"MINIMAL PROJECT",
         "desc":"스테디 우븐 반팔 카라티셔츠 MPK300 / 2color",
         "disPrice":52800,
-         "basePrice":82000,
+        "reserve":"",
+        "status":"" 
+        ,"basePrice":82000,
          "discount":"36%",
          "rate":"4.9",
          "review":"(7)"
@@ -1261,7 +1441,9 @@
             "brand":"PEPPERSEASONING",
             "desc":"[1+1]패키지 유니섹스 와이드 밴딩 슬랙스 p-7",
             "disPrice":37900,
-             "basePrice":79800,
+            "reserve":"",
+            "status":"" 
+            ,"basePrice":79800,
              "discount":"53%",
              "rate":"4.9",
              "review":"(59)",
@@ -1277,7 +1459,9 @@
                 "desc":"Dont Cry Teddy 피그먼트 반팔티 스모크블랙",
                 "disPri+ce":"30,875",
                 "disPrice":"", 
-                "basePrice":50000,
+                "reserve":"",
+                "status":""
+                ,"basePrice":50000,
                  "discount":"38%",
                  "rate":"4.9",
                  "review":"(361)",
@@ -1290,7 +1474,9 @@
                 "brand":"BASEMOMENT",
                 "desc":"크로쉐 후드 집업 아이보리",
                 "disPrice":61200,
-                 "basePrice":72000,
+                "reserve":"",
+                "status":"" 
+                ,"basePrice":72000,
                  "discount":"15%",
                 "rate":"4.5",
                  "review":"(2)",
@@ -1305,7 +1491,9 @@
                     "brand":"GAKKAI UNIONS",
                     "desc":"턱 와이드 스웨트팬츠 그레이",
                     "disPrice":36400,
-                     "basePrice":52000,
+                    "reserve":"",
+                    "status":"" 
+                    ,"basePrice":52000,
                      "discount":"30%",
                      "rate":"4.9",
                      "review":"(33)"
@@ -1320,7 +1508,9 @@
             "brand":"MINIMAL PROJECT",
             "desc":"피그먼트 스몰로고 오버핏 반팔티셔츠 MST145 / 4color",
             "disPrice":27800,
-             "basePrice":42800,
+            "reserve":"",
+            "status":"" 
+            ,"basePrice":42800,
              "discount":"35%",
              "rate":"4.9",
              "review":"(45)"
@@ -1333,7 +1523,9 @@
                 "brand":"2023 BTS FESTA l W컨셉",
                 "desc":"BTS 10주년 로고 라이선싱 티셔츠 - 퍼플",
                 "disPrice":"",
-                "basePrice":49000,
+                "reserve":"",
+                "status":""
+                ,"basePrice":49000,
                  "rate":"5.0",
                  "review":"(20)",
                  "saved":"197"
@@ -1347,7 +1539,9 @@
             "brand":"sienne",
             "desc":"Savory Classic Knit (Ivory)",
             "disPrice":"",
-            "basePrice":99000,
+            "reserve":"",
+            "status":""
+            ,"basePrice":99000,
              "rate":"5.0",
              "review":"(3)",
              "saved":"226"
@@ -1361,7 +1555,9 @@
             "brand":"THE KNIT COMPANY",
             "desc":"[봉태규X더니트] 하이 게이지 캐시미어 크롭 폴로 니트 5color",
             "disPrice":89100,
-             "basePrice":111000,
+            "reserve":"",
+            "status":"" 
+            ,"basePrice":111000,
              "discount":"20%",
              "rate":"5.0",
              "review":"(7)",
@@ -1376,7 +1572,9 @@
             "brand":"THOMAS MORE",
             "desc":"TC2-TS04 하프 사커 티-아델라(차콜네이비)",
             "disPrice":"",
-            "basePrice":35700,
+            "reserve":"",
+            "status":""
+            ,"basePrice":35700,
              "rate":"4.9",
              "review":"(67)"
             
@@ -1388,7 +1586,9 @@
             "brand":"FLUKE",
             "desc":"어드벤쳐 폰트 피그먼트 오버핏 반팔티셔츠 FST705 / 5color M",
             "disPrice":22500,
-             "basePrice":35800,
+            "reserve":"",
+            "status":"" 
+            ,"basePrice":35800,
              "discount":"37%",
              "rate":"4.9",
              "review":"(120)"
@@ -1401,7 +1601,9 @@
             "brand":"MINIMAL PROJECT",
             "desc":"드로잉 테이퍼드 밴딩 치노 팬츠 MPT111 / 3color",
             "disPrice":64800,
-             "basePrice":108000,
+            "reserve":"",
+            "status":"" 
+            ,"basePrice":108000,
              "discount":"40%",
              "rate":"5.0",
              "review":"(25)",
@@ -1416,7 +1618,9 @@
             "brand":"OFFHOUR",
             "desc":"커플 마일드 실크라인 반팔 카라 잠옷 세트 파자마 홈웨어",
             "disPrice":19884,
-             "basePrice":29900,
+            "reserve":"",
+            "status":"" 
+            ,"basePrice":29900,
              "discount":"33%",
             "rate":" 4.7",
              "review":"(15)",
@@ -1432,7 +1636,9 @@
             "brand":"2023 BTS FESTA l W컨셉",
             "desc":"BTS 10주년 로고 라이선싱 티셔츠 - 퍼플",
             "disPrice":"",
-            "basePrice":49000,
+            "reserve":"",
+            "status":""
+            ,"basePrice":49000,
              "rate":"5.0",
              "review":"(20)",
              "saved":"197",
@@ -1448,7 +1654,9 @@
             "brand":"2023 BTS FESTA l W컨셉",
             "desc":"BTS 10주년 로고 라이선싱 티셔츠 - 블랙",
             "disPrice":"",
-            "basePrice":49000,
+            "reserve":"",
+            "status":""
+            ,"basePrice":49000,
              "rate":"5.0",
              "review":"(15)",
              "saved":"156",
@@ -1465,7 +1673,9 @@
             "desc":"Dont Cry Teddy 피그먼트 반팔티 스모크블랙",
             "disPri+ce":"30,875",
             "disPrice":"", 
-            "basePrice":50000,
+            "reserve":"",
+            "status":""
+            ,"basePrice":50000,
              "discount":"38%",
              "rate":"4.9",
              "review":"(361)",
@@ -1484,7 +1694,9 @@
                 "brand":"August Harmony",
                 "desc":"Lucky days Necklace (13colors)",
                 "disPrice":44100,
-                "basePrice":49000,
+                "reserve":"",
+                "status":""
+                ,"basePrice":49000,
                 "discount":"10%",
                 "rate":"4.9",
                 "saved":"(572)",
@@ -1499,7 +1711,9 @@
                 "brand":"ALLINCOMPLETE",
                 "desc":"Round Logo Ball Cap (Cream Beige)",
                 "disPrice":29925,
-                "basePrice":39900,
+                "reserve":"",
+                "status":""
+                ,"basePrice":39900,
                 "discount":"25%",
                 "rate":"4.9",
                 "saved":"(27)",
@@ -1516,7 +1730,9 @@
             "brand":"FLUKE",
             "desc":"어드벤쳐 트럭커 포켓 반팔티셔츠 FST141 / 4color W",
             "disPrice":16500,
-             "basePrice":32800,
+            "reserve":"",
+            "status":"" 
+            ,"basePrice":32800,
              "discount":"50%",
              "rate":"4.9",
              "review":"(1,133)",
@@ -1534,7 +1750,9 @@
                 "brand":"NERVOUS",
                 "desc":"CAP 01 _ pink",
                 "disPrice":64980,
-                "basePrice":76000,
+                "reserve":"",
+                "status":""
+                ,"basePrice":76000,
                 "discount":"15%",
                 "rate":"5.0",
                 "saved":"(85)",
@@ -1548,7 +1766,9 @@
             "brand":"Moderment",
             "desc":"[세트패키지] 유틸리티 하프팬츠 (6color)",
             "disPrice":39510,
-             "basePrice":86000,
+            "reserve":"",
+            "status":"" 
+            ,"basePrice":86000,
              "discount":"54%",
              "rate":"4.9",
              "review":"(509)",
@@ -1566,7 +1786,9 @@
             "brand":"WEDNESDAY OASIS",
             "desc":"unisex everyday woven banding short pants(8col)",
             "disPrice":19520,
-             "basePrice":24400,
+            "reserve":"",
+            "status":"" 
+            ,"basePrice":24400,
              "discount":"20%",
              "rate":"4.9",
              "review":"(38)",

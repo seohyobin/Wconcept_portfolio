@@ -3,7 +3,7 @@ import HeaderComponent from './wrap/HeaderComponent';
 import MainComponent from './wrap/MainComponent';
 import FooterComponent from './wrap/FooterComponent';
 import NewComponent from './wrap/main_sub/NewComponent';
-import {BrowserRouter, Routes, Route} from 'react-router-dom';
+import {BrowserRouter, Routes, Route, HashRouter} from 'react-router-dom';
 import WomenComponent from './wrap/main_sub/WomenComponent';
 import MenComponent from './wrap/main_sub/MenComponent';
 import BeautyComponent from './wrap/main_sub/BeautyComponent';
@@ -46,6 +46,43 @@ export default function WrapComponent(){
       sign: false,
       getViewProduct :[]
   });
+
+  const [cart, setCart] =React.useState({
+    key2 : 'CARTPRODUCT',
+    sign2:false,
+    getCartData:[]
+  })
+
+  const {getCartData,key2,sign2}=cart;
+
+  const setCartData=(value)=>{
+    let arr = [];
+
+    if(localStorage.getItem(key2)!==null){
+        arr = JSON.parse(localStorage.getItem(key2));
+        arr = [value, ...arr]
+        localStorage.setItem(key2, JSON.stringify(arr) );  
+        setCart({
+            ...cart,
+            sign2: !sign2,
+            getCartData: arr
+        });  
+        console.log(`카트배열`,arr)
+    }
+    else {
+        arr = [value]
+        localStorage.setItem(key2, JSON.stringify(arr) );
+        setCart({
+            ...cart,
+            sign2: !sign2,
+            getCartData: arr
+        });
+
+        console.log('장바구니 수 ',getCartData.length);
+    }   
+    
+  
+}
 
   //  비구조화 !! 구조분할할당
   const {getViewProduct,key,sign} = product;
@@ -137,6 +174,30 @@ const addressAuto= async()=>{
   }
 
 
+  ///장바구니 헤더 프롭스 전달
+
+  const [cart1, setCart1]=React.useState([]);
+  
+  const getCartLocalStorage2 = () => {
+    let key = 'CARTPRODUCT';
+  
+    // 로컬 스토리지에서 항목을 가져오고 null이 아닌 경우에만 처리
+    const storedData = localStorage.getItem(key);
+    if (storedData !== null) {
+      // JSON 문자열을 객체로 변환
+      const arr = JSON.parse(storedData);
+      setCart1(arr);
+      console.log('카트 수 ',arr.length)
+     
+      
+    }
+    };
+
+    React.useEffect(() => {
+        getCartLocalStorage2();
+    }, []);
+
+
 
   
  
@@ -145,12 +206,12 @@ const addressAuto= async()=>{
 
     return (
         <div id='wrap'>
-          <GlobalContext.Provider value={{product,setViewProduct,addressAuto,postCodeClose,addr}}>
+          <GlobalContext.Provider value={{cart,product,setCartData,setViewProduct,addressAuto,postCodeClose,addr,cart1}}>
           <ConfirmContext.Provider value={{confirmModalOpen,confirmModalClose,confirmMsg,isConfirmModal}}>
-          <BrowserRouter basename={process.env.PUBLIC_URL}>
+          <HashRouter>
             <Routes>
               {/* 루트 라우트 */}
-              <Route path='/' element={<HeaderComponent />}>
+              <Route path='/' element={<HeaderComponent  setCartData={setCartData} cart={cart} />}>
                 <Route index element={<MainComponent />} />
                 <Route path='/main' element={<MainComponent local={product} setViewProduct={setViewProduct} />} />
                 <Route path='/new' element={<NewComponent />} />
@@ -160,7 +221,7 @@ const addressAuto= async()=>{
                 <Route path='/life' element={<LifeComponent />} />
                 <Route path='/login' element={<LoginComponent />} />
                 <Route path='/signup' element={<SignupComponent openPopupDaumPostApi={openPopupDaumPostApi} addr={addr} />} />
-                <Route path='/cart' element={<CartComponent />} />
+                <Route path='/cart' element={<CartComponent setCartData={setCartData} cart={cart}/>} />
                 <Route path='/product' element={<ProductComponent />} />
                 <Route path='/product/:id' element={<ProductComponent />} />
                 <Route path='/viewed/:id' element={<ViewedProductComponent  product={product}/>} />
@@ -176,7 +237,7 @@ const addressAuto= async()=>{
             postModal && <PostCodeComponent/>
             }
           <RecentlyViewComponent product={product}/>
-          </BrowserRouter>
+          </HashRouter>
           </ConfirmContext.Provider>
           </GlobalContext.Provider>
         </div>  

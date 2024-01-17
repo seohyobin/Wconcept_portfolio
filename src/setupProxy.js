@@ -9,24 +9,11 @@ module.exports = (WrapComponent) => {
     })
   )
   WrapComponent.use(
-    "/soomgo",
+    "/wconcept",
     createProxyMiddleware({
       "target":"http://janeseo0530.cafe24.com",
       changeOrigin: true
     })
   )
-  WrapComponent.use(
-    "/JSP",
-    createProxyMiddleware({
-      "target":"v",
-      changeOrigin: true
-    })
-  )
-  WrapComponent.use(
-    "/soomgo",
-    createProxyMiddleware({
-      "target":"http://rlaqjawh46.cafe24.com",
-      changeOrigin: true
-    })
-  )
+
 }

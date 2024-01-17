@@ -221,13 +221,19 @@
                             position: absolute;
                             top: 27%;
                             right: 15px;
-                           
+                            &.on{
+                                display: none;}
+
                             img{
                                 width: 30px;
                                 height: 56px;
+                 
                                
                             }
+                      
+                       
                         }   
+                      
                         .prev-arrow-btn{
                             position: absolute;
                             top: 27%;

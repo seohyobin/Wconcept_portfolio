@@ -36,9 +36,7 @@ export default function WomenComponent(){
 
         })
     },[])
-  
-  
-    
+
     React.useEffect(()=>{
         axios({
             url:'./data/women.json',
@@ -100,7 +98,7 @@ export default function WomenComponent(){
     },[])
 
     const onClickProductList=(e, item)=>{
-        e.preventDefault();
+        //e.preventDefault();
         let obj ={
             id:item.id,
             brand:item.brand,
@@ -191,7 +189,7 @@ export default function WomenComponent(){
                                                 <h3>{item.brand}</h3>
                                                 <p className='p2'>{item.desc}</p>
                                                 <div className="price">
-                                                    <span className='dis-price'>{item.disPrice === '' ? item.disPrice.toLocaleString('ko-KR') : item.basePrice.toLocaleString('ko-KR')}</span>
+                                                    <span className='dis-price'>{item.disPrice !== '' ? item.disPrice.toLocaleString('ko-KR') : item.basePrice.toLocaleString('ko-KR')}</span>
                                                     <span className='base-price' style={(item.disPrice)!==''? {} : {visibility:'hidden'} }>{item.basePrice}</span>
                                                     <span className='discount'>{item.discount}</span>
                                                 </div>

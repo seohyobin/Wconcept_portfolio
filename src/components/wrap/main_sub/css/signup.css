@@ -63,7 +63,7 @@
 #signup .container .content .join-form table tbody td > input {
   width: 400px;
   height: 40px;
-  background-color: rgb(242, 242, 242);
+  background-color: #f2f2f2;
   border: 0;
   padding: 1px 2px 1px 20px;
 }
@@ -88,7 +88,7 @@
   border: 0;
   font-size: 14px;
   font-weight: 500;
-  color: rgb(108, 108, 108);
+  color: hwb(0 42% 58%);
   cursor: pointer;
 }
 #signup .container .content .join-form table tbody .tr1 {
@@ -192,6 +192,11 @@
   width: 25px;
   height: 25px;
   margin: 0 10px 0 0;
+}
+#signup .container .content .join-agreement > ul > li > input:checked {
+  background: url(../../../../../public/img/signup/spr-input.png) no-repeat -30px -0.1px;
+  width: 25px;
+  height: 25px;
 }
 #signup .container .content .join-agreement > ul > li > label {
   color: #333;

@@ -1,14 +1,21 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import {Link, Outlet,useLocation,useNavigate} from 'react-router-dom';
 import { ConfirmContext } from '../../context/ConfirmContext';
+import { GlobalContext } from '../../context/GlobalContext';
 
 export default function HeaderComponent (){
+
+    const { cart1 } = useContext(GlobalContext);
     const {confirmModalOpen,confirmModalClose,confirmMsg,isConfirmModal} = React.useContext(ConfirmContext);
 
     const [login,setLogin]=React.useState({
         user_email:''
       })
-      
+    
+      //로컬에서 장바구니 헤더적용
+
+
+
       React.useEffect(() => {
         const storedData = localStorage.getItem('WCONCEPTLOGIN');
       
@@ -22,11 +29,8 @@ export default function HeaderComponent (){
         }
       }, [login.user_email]); // 의존성 배열 비움
       
-      console.log(login.user_email);
+      //console.log(login.user_email);
 
-    
-
-      
       const onClickLogout = (e) => {
         e.preventDefault();
         localStorage.removeItem('WCONCEPTLOGIN'); // 로그인 정보 모두 삭제
@@ -147,7 +151,7 @@ export default function HeaderComponent (){
                                             <img src="./img/main/ico_bag.svg" alt="" />
                                         </span>
                                         <br />
-                                        <strong style={{'margin-left':'10px'}}>0</strong>
+                                        <strong style={{'margin-left':'10px'}}>{cart1.length}</strong>
                                     </Link>
 
                                 </li>

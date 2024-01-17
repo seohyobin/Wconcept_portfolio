@@ -14,6 +14,10 @@ export default function MainComponent ({}){
         beauty1:[]
     })
     const {slide1,section1,beauty1}=state;
+
+    const slideData = [/* Your JSON data */];
+    const [cnt4, setCnt4] = React.useState(0);
+    const [n, setN] = React.useState(slideData.length);
     React.useEffect(()=>{
         axios({
             url:'./data/main.json',
@@ -116,172 +120,187 @@ export default function MainComponent ({}){
     },[]);
 
     React.useEffect(()=>{
-        const $slideContainer = $('#section4 .slide-container');
-        const $slideWrap = $('#section4 .slide-wrap');
-        const $slide = $('#section4 .slide');
-        const $slideA =$('#section4 .slide a');
-        const $nextArrowBtn = $('#section4 .next-arrow-btn');
-        const $prevArrowBtn= $('#section4 .prev-arrow-btn');
+        const $slideContainer4 = $('#section4 .slide-container');
+        const $slideWrap4 = $('#section4 .slide-wrap');
+        const $slide4 = $('#section4 .slide');
+        const $slideA4 =$('#section4 .slide a');
+        const $nextArrowBtn4 = $('#section4 .next-arrow-btn');
+        const $prevArrowBtn4= $('#section4 .prev-arrow-btn');
 
-        let cnt = 0;
-        let n =$slide.length-5  ;
+        let cnt4 = 0;
+        let n = $slide4.length;
         let setId = 0;
 
 
+
         //1.메인
-        function mainSlide(){
-            $slideWrap.stop().animate({left:`${-20*cnt}%`},600,function(){
-                if(cnt >= n){
-                    cnt = n;
-                    clearInterval(setId);
-                }   
-                if(cnt < 0){
-                    clearInterval(setId);
-                   cnt = 0;
+        function mainSlide() {
+            $slideWrap4.stop().animate({ left: `${-20 * cnt4}%` }, 600, function () {
+                if (cnt4 >= n) {
+                    cnt4 = n;
                 }
-                $slideWrap.stop().animate({left:`${-20*cnt}%`},0)
+                if (cnt4 <= 0) {
+                    cnt4 = 0;
+                }
+                $slideWrap4.stop().animate({ left: `${-20 * cnt4}%` }, 0);
             });
         }
         //2.다음
         function nextCount(){
-            cnt++;
+            cnt4++;
             mainSlide();
         }
        
         //3.이전
         function prevCount(){
-            cnt--;
+            cnt4--;
             mainSlide();
         }
       
 
         //4.타이머
-        function autoTimer(){
-            clearInterval(setId);
-            setId=setInterval(nextCount,4000);
-        }
-        autoTimer();
+        // function autoTimer(){
+        //     clearInterval(setId);
+        //     setId=setInterval(nextCount,4000);
+        // }
+        // autoTimer();
+
+
+  
         //5.마우스 오버 리브
 
-        $slideContainer.on({
+        $slideContainer4.on({
             mouseenter(){
                 clearInterval(setId);
             },
             mouseleave(){
-                autoTimer();
+                // autoTimer();
             }
         })
 
-        $slideA.on({
-            click(e){
-                e.preventDefault();
-            }
-        })
+   
+        
         //6.클릭
-        $nextArrowBtn.on({
-            click(e){
+        $nextArrowBtn4.on({
+            click(e) {
                 e.preventDefault();
-                if(cnt>=n ){
+                if (cnt4 <= n - 5) {
                     mainSlide();
                 }
-                else{
+        
+                if (cnt4 === n - 5) {
+                   
+                    $slideWrap4.stop().animate({ left: `${-20 * cnt4}%` }, 0);
+                    $nextArrowBtn4.toggleClass('on');
+                } else {
                     nextCount();
-                    
                 }
+        
+                console.log(cnt4);
             }
-            
-        })
-        $prevArrowBtn.on({
+        });
+        
+        
+        
+        $prevArrowBtn4.on({
            
             click(e){
                 e.preventDefault();
               
-                if(cnt <=0){
+                if(cnt4 <=0){
                     mainSlide();
                  
                 }
                 else{
                     prevCount();
                 }
+                console.log(cnt4)
             }
         })
 
-    },[]);
+        console.log(n)
 
-    React.useEffect(()=>{
+    },[slide1]);
 
-        const $slideContainer =$('#section5 .slide-container');
-        const $slideWrap =$('#section5 .slide-wrap');
-        const $slide =$('#section5 .slide');
-        const $slideA =$('#section5 .slide a');
-        const $nextArrowBtn = $('#section5 .next-arrow-btn');
-        const $prevArrowBtn= $('#section5 .prev-arrow-btn');
+    // React.useEffect(()=>{
 
-        let cnt = 0;
-        let setId = 0;
-        let n = $slide.length-2;
+    //     const $slideContainer =$('#section5 .slide-container');
+    //     const $slideWrap =$('#section5 .slide-wrap');
+    //     const $slide =$('#section5 .slide');
+    //     const $slideA =$('#section5 .slide a');
+    //     const $nextArrowBtn = $('#section5 .next-arrow-btn');
+    //     const $prevArrowBtn= $('#section5 .prev-arrow-btn');
 
-        //1.메인
-        function mainSlide(){
-            $slideWrap.stop().animate({left:`${-50*cnt}%`},600,function(){
-                if(cnt >= n){
-                    cnt = 0;
+    //     let cnt = 0;
+    //     let setId = 0;
+    //     let n = $slide.length-2;
 
-                }
-                if(cnt < 0){
-                    cnt = n-1;
-                }
-                $slideWrap.stop().animate({left:`${-50*cnt}%`},0)
-            })
-        };
-        //2.다음
-        function nextCount(){
-            cnt++;
-            mainSlide();
-        }
-        //3.이전
-        function prevCount(){
-            cnt--;
-            mainSlide();
-        }
-        //4.타이머
-        function autoTimer(){
-            clearInterval(setId);
-            setId = setInterval(nextCount,3000);
-        }
-        autoTimer();
-        //5.a링크
-        $slideA.on({
-            click(e){
-                e.preventDefault();
-            }
-        })
-        //6.마우스 오버 리브
-        $slideContainer.on({
-            mouseenter(){
-                clearInterval(setId);
-            },
-            mouseleave(){
-                autoTimer();
-            }
-        });
+    //     //1.메인
+    //     function mainSlide(){
+    //         $slideWrap.stop().animate({left:`${-50*cnt}%`},600,function(){
+    //             if(cnt >= n){
+    //                 cnt = 0;
 
-        //7.arrow
-        $nextArrowBtn.on({
-            click(e){
-                e.preventDefault();
-                nextCount();
-            }
-        });
-        $prevArrowBtn.on({
-            click(e){
-                e.preventDefault();
-                prevCount();
-            }
-        })
+    //             }
+    //             if(cnt < 0){
+    //                 cnt = n-1;
+    //             }
+    //             $slideWrap.stop().animate({left:`${-50*cnt}%`},0)
+            
+    //         })
+    //         // console.log(n)
+    //         console.log(cnt)
+    //     };
+    //     //2.다음
+    //     function nextCount(){
+    //         cnt++;
+    //         mainSlide();
+    //     }
+    //     //3.이전
+    //     function prevCount(){
+    //         cnt--;
+    //         mainSlide();
+    //     }
+    //     //4.타이머
+    //     // function autoTimer(){
+    //     //     clearInterval(setId);
+    //     //     setId = setInterval(nextCount,3000);
+    //     // }
+    //     // autoTimer();
+    //     //5.a링크
+    //     $slideA.on({
+    //         click(e){
+    //             e.preventDefault();
+    //         }
+    //     })
+    //     //6.마우스 오버 리브
+    //     $slideContainer.on({
+    //         mouseenter(){
+    //             clearInterval(setId);
+    //         },
+    //         mouseleave(){
+    //             // autoTimer();
+    //         }
+    //     });
+
+    //     //7.arrow
+    //     $nextArrowBtn.off('click').on({
+    //         click(e) {
+    //             e.preventDefault();
+    //             nextCount();
+    //             console.log('클릭');
+    //         }
+    //     });
+        
+    //     $prevArrowBtn.off('click').on({
+    //         click(e) {
+    //             e.preventDefault();
+    //             prevCount();
+    //         }
+    //     });
         
 
-    },[]);
+    // },[]);
 
     React.useEffect(()=>{
         const $slideContainerS5 = $('#section6 .slide-container-s5');
@@ -293,7 +312,7 @@ export default function MainComponent ({}){
 
         let cnt = 0;
         let setId = 0;
-        let n = $slide.length-2;
+        let n = $slide.length;
 
 
         //1.메인함수
@@ -303,7 +322,7 @@ export default function MainComponent ({}){
                 cnt = 0;
                 }
                 if(cnt<0){
-                    cnt= n-1;
+                    cnt= n;
                 }
                 $slideWrapS5.stop().animate({left:`${-100*cnt}%`},0)
             })
@@ -580,7 +599,7 @@ export default function MainComponent ({}){
                                         {
                                             slide1.map((item,id)=>{
                                                 return(
-                                                    <li className="slide slide0" key={id}>
+                                                    <li className="slide" key={id}>
                                                     <Link to ={`/product/${item.id}`} onClick={(e)=>onClickProductList(e,item)}>
                                                         <img src={item.img} alt="" />
                                                         <h3>{item.brand}</h3>
@@ -606,7 +625,7 @@ export default function MainComponent ({}){
                     </div>
                 </div>
             </section>
-            <section id="section5">
+            {/* <section id="section5">
                 <div className="container">
                     <div className="title">
                         <h2>exclusive<a href="!#"><img src="./img/main/800px-Plus_symbol.svg.png" alt="" /></a></h2>
@@ -708,7 +727,7 @@ export default function MainComponent ({}){
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> */}
             <section id="section6">
                 <div className="container">
                     <div className="title">
